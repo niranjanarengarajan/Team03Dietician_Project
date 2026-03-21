@@ -1,0 +1,8 @@
+# Ignore build/output folders
+target/
+test-output/
+*.class
+*.json
+/screenshots/
+/test-output/
+*.png
