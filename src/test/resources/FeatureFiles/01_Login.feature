@@ -2,9 +2,11 @@
 Feature: Login page UI and functional verification
   To verify UI elements and functionality of Login Page of Dietician Application
   
-  Scenario Outline: "<scenario>" visibility
+  Background: User is in the login page
     Given User is on the browser
     When user enters app url
+    
+  Scenario Outline: <scenario> visibility
     Then User should see the "<element>" on left side of Navigation bar in login page
     
     Examples: 
@@ -13,18 +15,12 @@ Feature: Login page UI and functional verification
       | Navigation bar icon | home icon |
     
   Scenario: Navigation bar background colour
-    Given User is on the browser
-    When user enters app url
     Then Navigation bar background should have a blue-purple color
     
   Scenario: Page title visibility
-    Given User is on the browser
-    When user enters app url
     Then Heading "Dietician Application" should be visible inside the login card
     
-  Scenario Outline: label for "<scenario>" 
-    Given User is on the browser
-    When user enters app url
+  Scenario Outline: label for <scenario>
     Then User should see the label "<text>" in login page
 
     Examples: 
@@ -32,9 +28,7 @@ Feature: Login page UI and functional verification
       | first field | username |
       | second field | password |
         
-  Scenario Outline: "<Element>" presence
-    Given User is on the browser
-    When user enters app url
+  Scenario Outline: <Element> presence
     Then "<Element>" should be visible in login page
     
     Examples: 
@@ -44,33 +38,25 @@ Feature: Login page UI and functional verification
       | Login button|
     
   Scenario: Login button color and styling
-    Given User is on the browser
-    When user enters app url
     Then Login button should be displayed with a blue-purple background and white text
         
   Scenario: Input field label alignment
-    Given User is on the browser
-    When user enters app url
     Then Username and Password labels should be left-aligned above their respective input fields
         
   Scenario: Total number of input fields
-    Given User is on the browser
-    When user enters app url
-    Then User should see exactly two input field 
+    Then User should see exactly two input field in login page
         
   Scenario: Login button enabled state
-    Given User is on the browser
-    When user enters app url
     Then User should see login button enabled
   
   Scenario: Login with valid credential
     Given User is on the login page
-    When User clicks login button after entering valid credentials
+    When User clicks login button after entering valid credentials in login page
     Then User should be redirected to dashboard page
     
-  Scenario Outline: Login with "<scenario>"
+  Scenario Outline: Login with <scenario>
     Given User is on the login page
-    When User clicks login button after entering "<scenario>"
+    When User clicks login button after entering "<scenario>" in login page
     Then An error message "<errorMsg>" should be displayed in the login page
 
     Examples: 
@@ -80,7 +66,7 @@ Feature: Login page UI and functional verification
       | only few charac of username | Invalid username or password |
       | empty password field | Password is Required |
       
-  Scenario Outline: Login with "<scenario>" in password field
+  Scenario Outline: Login with <scenario> in password field
     Given User is on the login page
     When User clicks login button after entering "<scenario>" in password field
     Then An error message "<errorMsg>" should be displayed in the login page
@@ -90,7 +76,7 @@ Feature: Login page UI and functional verification
       | wrong password | Invalid username or password|
       |  spl charac | Invalid username or password|
       
-  Scenario Outline: Login with "<scenario>"
+  Scenario Outline: Login with <scenario>
     Given User is on the login page
     When User clicks login button after entering only password and "<scenario>"
     Then An error message "<errorMsg>" should be displayed in the login page
