@@ -3,8 +3,11 @@ package stepDefinitions;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import pageObject.Dashboard_PageObject;
 
 public class Dashboard_Step {
+	
+	Dashboard_PageObject dashboardObj = new Dashboard_PageObject();
 	
 	@Given("User is on the login page of Dietician application")
 	public void user_is_on_the_login_page_of_dietician_application() {
@@ -25,9 +28,8 @@ public class Dashboard_Step {
 	}
 
 	@When("User clicks the {string} in the navigation bar of Dashboard page")
-	public void user_clicks_the_in_the_navigation_bar_of_dashboard_page(String string) {
-	    
-	    
+	public void user_clicks_the_in_the_navigation_bar_of_dashboard_page(String field) {
+		dashboardObj.clickElement(field);
 	}
 
 	@Then("User should be redirected to the {string} page from dashboard page")
