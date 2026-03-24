@@ -7,21 +7,21 @@ Feature: Login page UI and functional verification
     When user enters app url
     
   Scenario Outline: <scenario> visibility
-    Then User should see the "<element>" on left side of Navigation bar in login page
+    Then User should see the "<scenario>" on "<align>" side of Navigation bar in login page
     
     Examples: 
-      | scenario  | element |
-      | Navigation bar text | text Dietician Project |
-      | Navigation bar icon | home icon |
+      | scenario  | align |
+      | Navigation bar text | left |
+      | Navigation bar home icon | left |
     
   Scenario: Navigation bar background colour
-    Then Navigation bar background should have a blue-purple color
+    Then "Navigation bar background" should have a blue-purple color "63, 81, 181"
     
   Scenario: Page title visibility
     Then Heading "Dietician Application" should be visible inside the login card
     
   Scenario Outline: label for <scenario>
-    Then User should see the label "<text>" in login page
+    Then User should see the label "<text>" in login page for "<scenario>"
 
     Examples: 
       | scenario  | text |
@@ -38,7 +38,9 @@ Feature: Login page UI and functional verification
       | Login button|
     
   Scenario: Login button color and styling
-    Then Login button should be displayed with a blue-purple background and white text
+    Then "Login button" should be displayed with a blue-purple "63, 81, 181" background and white "255,255,255" text
+    |background|
+    |text|
         
   Scenario: Input field label alignment
     Then Username and Password labels should be left-aligned above their respective input fields
@@ -52,7 +54,7 @@ Feature: Login page UI and functional verification
   Scenario: Login with valid credential
     Given User is on the login page
     When User clicks login button after entering valid credentials in login page
-    Then User should be redirected to dashboard page
+    Then User should be redirected to "dashboard page" from login page
     
   Scenario Outline: Login with <scenario>
     Given User is on the login page
