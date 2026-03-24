@@ -1,0 +1,43 @@
+[INFO ]2026-03-2413:06:17.681[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2413:06:23.002[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2413:06:33.153[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2413:06:33.625[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2413:08:39.154[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2413:08:43.811[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2413:08:53.998[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2413:08:54.469[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2413:10:56.571[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2413:10:56.582[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2413:10:57.665[main]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-03-2413:11:02.048[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2413:11:12.221[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2413:11:12.693[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2413:12:55.683[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2413:12:55.698[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2413:13:00.564[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2413:13:10.733[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2413:13:11.175[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2413:18:48.046[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2413:18:48.053[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2413:18:53.324[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2413:19:03.457[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2413:19:03.912[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2413:19:21.891[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2413:19:21.897[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2413:19:26.841[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2413:19:28.576[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2413:19:28.943[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2413:19:29.106[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2413:19:29.106[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2413:20:00.816[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2413:20:00.825[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2413:20:05.981[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2413:20:16.170[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2413:20:16.665[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2413:25:08.468[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2413:25:08.475[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2413:25:13.678[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2413:25:24.695[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\jimre\eclipse-workspace\TDDBDDSeleniumHackathon\Team03Dietician_Project\.\target\screenshots\Navigation bar background colour.png
+[INFO ]2026-03-2413:25:25.594[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2413:25:25.594[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2413:25:26.014[main]utils.LoggerLoad1)-Driver removed from ThreadLocal

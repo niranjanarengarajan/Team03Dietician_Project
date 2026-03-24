@@ -2,11 +2,16 @@ package pageObject;
 
 import java.util.List;
 
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import driverManager.DriverFactory;
 
 public class Login_PageObject {
 	
+	private WebDriver driver;
 	private WebElement element;
 	
 	@FindBy (xpath="//nav[@class='navbar']/*[text()='Dietician Project']") 
@@ -39,6 +44,10 @@ public class Login_PageObject {
 	@FindBy (xpath="//input") 
 	private List<WebElement> inputFields;
 
+	public Login_PageObject() {
+		this.driver = DriverFactory.getDriver();
+		PageFactory.initElements(driver, this);
+	}
 
 	public String elementLeftAligned(String scenario) {
 		switch (scenario) {
