@@ -1,4 +1,4 @@
-@AddPatient 
+@AddPatient @Login
 Feature: Add Patient Dialog Box -Validation   
 
 Rule: Basic Add Patient Dialog Box UI Validation
