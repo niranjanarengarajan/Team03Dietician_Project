@@ -1,5 +1,7 @@
 package stepDefinitions;
 
+import java.util.Properties;
+
 import org.openqa.selenium.WebDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -7,6 +9,8 @@ import org.slf4j.LoggerFactory;
 import driverManager.DriverFactory;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import utils.ConfigReader;
+import utils.ExcelReader;
 
 
 public class Hooks {
@@ -16,7 +20,11 @@ public class Hooks {
 
 	@Before
 	public void setup() {
+		
 		logger.info("Initializing test setup...");
+		Properties prop = ConfigReader.initializeProperties();
+		logger.debug("Loaded configuration properties");
+		ExcelReader.readDataFromExcel(prop.getProperty("loginsheetName"));
 
 		
 	}

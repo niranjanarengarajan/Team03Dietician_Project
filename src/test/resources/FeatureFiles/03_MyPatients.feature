@@ -213,8 +213,8 @@ Feature: My Patient Page functionality
     Background:
       Given No patient record present  in the system for that user in MyPatients table
 
-    Scenario: Verify pagination text when no patient data exists
-      Then "Showing 0 to 0 of 0 patients" should be displayed
+    Scenario: Verify pagination text when no patient data exists in MyPatients table
+      Then "Showing 0 to 0 of 0 patients" should be displayed in MyPatients table
 
     Scenario Outline: Verify all pagination arrows are disabled when no data exists in MyPatients table
       Then "<arrow>" arrows should be disabled in MyPatients table
