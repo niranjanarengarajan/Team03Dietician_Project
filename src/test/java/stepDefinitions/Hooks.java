@@ -28,6 +28,8 @@ public class Hooks {
 		Properties prop = ConfigReader.initializeProperties();
 		LoggerLoad.info("Loaded configuration properties");
 		ExcelReader.readDataFromExcel(prop.getProperty("loginsheetName"));
+		ExcelReader.readDataFromExcel(prop.getProperty("AddPatientSheetName"));		
+	}
 		DriverFactory.launchBrowser(prop.getProperty("browserName"));
 		DriverFactory.getDriver().get(prop.getProperty("baseURL"));
 		LoggerLoad.info("Navigated to base URL: "+ prop.getProperty("baseURL"));
