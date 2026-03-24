@@ -25,10 +25,8 @@ public class Hooks {
 		Properties prop = ConfigReader.initializeProperties();
 		logger.debug("Loaded configuration properties");
 		ExcelReader.readDataFromExcel(prop.getProperty("loginsheetName"));
-
-		
+		ExcelReader.readDataFromExcel(prop.getProperty("AddPatientSheetName"));		
 	}
-
     
 	@After
 	public void tearDown() {
