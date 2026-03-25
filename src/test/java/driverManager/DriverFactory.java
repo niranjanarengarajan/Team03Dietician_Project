@@ -15,7 +15,7 @@ public class DriverFactory {
 	public static ThreadLocal<WebDriver> mydriver = new ThreadLocal<>();
 	private static final Logger logger = LoggerFactory.getLogger(DriverFactory.class);
 
-	public static void launchBrowser(String browser) {
+	public void launchBrowser(String browser) {
 
 		logger.info("Launching browser: {}", browser);
 
@@ -52,10 +52,17 @@ public class DriverFactory {
 		}
 	}
 
-	public static synchronized WebDriver getDriver() {
+	public WebDriver getDriver() {
 		logger.debug("Fetching WebDriver instance from ThreadLocal.");
 		return mydriver.get();
 	}
 	
-
+	public void closeDriver() {
+	    if (getDriver() != null) {
+	        getDriver().quit();
+	        mydriver.remove(); // This clears the thread memory
+	        logger.info("Driver quit and removed from ThreadLocal.");
+	    }
+	
+	}
 }
