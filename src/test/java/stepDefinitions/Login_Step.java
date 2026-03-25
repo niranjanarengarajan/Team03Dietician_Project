@@ -9,6 +9,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObject.Login_PageObject;
+import utils.LoggerLoad;
 
 public class Login_Step {
 	boolean isVisible;
@@ -18,14 +19,14 @@ public class Login_Step {
 	
 	@Given("User is on the browser")
 	public void user_is_on_the_browser() {
-		
-		
+		loginObj.browserIsOpen();
+		LoggerLoad.info("Browser is open and ready");
 	}
 
 	@When("user enters app url")
 	public void user_enters_app_url() {
-	    
-	    
+		String currentUrl = loginObj.getPageUrl();
+		LoggerLoad.info("Navigated to URL: "+ currentUrl);	    
 	}
 
 	@Then("User should see the {string} on {string} side of Navigation bar in login page")

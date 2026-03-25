@@ -41,3 +41,102 @@
 [INFO ]2026-03-2413:25:25.594[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
 [INFO ]2026-03-2413:25:25.594[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
 [INFO ]2026-03-2413:25:26.014[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2422:41:50.012[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2422:41:50.018[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2422:41:56.497[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2422:41:59.091[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\jimre\eclipse-workspace\TDDBDDSeleniumHackathon\Team03Dietician_Project\.\target\screenshots\Navigation bar background colour.png
+[INFO ]2026-03-2422:42:00.142[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2422:42:00.142[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2422:42:00.562[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2422:43:20.045[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2422:43:20.048[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2422:43:24.805[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2422:43:27.202[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\jimre\eclipse-workspace\TDDBDDSeleniumHackathon\Team03Dietician_Project\.\target\screenshots\Navigation bar background colour.png
+[INFO ]2026-03-2422:43:28.150[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2422:43:28.153[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2422:43:28.496[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2422:44:33.329[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2422:44:33.336[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2422:44:38.553[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2422:44:38.613[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2422:44:38.615[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2422:44:38.615[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2422:44:38.631[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-03-2422:44:49.577[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\jimre\eclipse-workspace\TDDBDDSeleniumHackathon\Team03Dietician_Project\.\target\screenshots\Navigation bar background colour.png
+[INFO ]2026-03-2422:44:50.356[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2422:44:50.356[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2422:44:50.813[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2422:53:03.543[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2422:53:03.551[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2422:53:08.492[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2422:53:08.555[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2422:53:08.555[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2422:53:08.555[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2422:53:08.572[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-03-2422:53:19.527[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\jimre\eclipse-workspace\TDDBDDSeleniumHackathon\Team03Dietician_Project\.\target\screenshots\Navigation bar text visibility.png
+[INFO ]2026-03-2422:53:20.321[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2422:53:20.324[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2422:53:20.723[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2422:53:20.835[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2422:53:20.836[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2422:53:23.281[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2422:53:23.282[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2422:53:23.285[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2422:53:23.285[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2422:53:23.301[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-03-2422:53:34.185[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\jimre\eclipse-workspace\TDDBDDSeleniumHackathon\Team03Dietician_Project\.\target\screenshots\Navigation bar home icon visibility.png
+[INFO ]2026-03-2422:53:34.987[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2422:53:34.987[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2422:53:35.343[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2423:19:39.820[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2423:19:39.825[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2423:19:44.941[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2423:19:45.060[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2423:19:45.062[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2423:19:45.062[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2423:19:45.112[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-03-2423:19:57.094[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2423:19:57.094[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2423:19:57.518[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2423:21:15.240[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2423:21:15.245[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2423:21:20.812[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2423:21:20.878[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2423:21:20.880[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2423:21:20.880[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2423:21:20.914[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-03-2423:21:32.697[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2423:21:32.697[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2423:21:33.165[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2423:22:38.384[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2423:22:38.390[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2423:22:43.869[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2423:22:43.928[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2423:22:43.928[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2423:22:43.928[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2423:22:47.237[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2423:22:47.237[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2423:22:47.626[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2423:23:31.002[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2423:23:31.008[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2423:23:36.278[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2423:23:36.335[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2423:23:36.336[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2423:23:36.336[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2423:23:36.356[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-03-2423:23:48.299[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2423:23:48.299[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2423:23:48.800[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2423:26:25.442[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2423:26:25.483[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2423:26:31.239[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2423:26:31.296[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2423:26:31.296[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2423:26:31.297[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2423:26:31.325[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-03-2423:26:43.105[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2423:26:43.105[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2423:26:43.523[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2423:27:43.464[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2423:27:43.472[main]utils.LoggerLoad1)-Loaded configuration properties
+
