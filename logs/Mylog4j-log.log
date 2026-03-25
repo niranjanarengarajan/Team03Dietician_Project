@@ -4791,3 +4791,1539 @@
 [INFO ]2026-03-2516:07:16.253[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
 [INFO ]2026-03-2516:07:16.589[main]utils.LoggerLoad1)-Initializing test setup...
 [INFO ]2026-03-2516:07:16.589[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2516:40:56.022[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2516:40:56.026[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2516:40:58.887[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2516:40:58.892[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2516:40:58.892[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2516:41:01.839[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2516:41:03.011[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2516:41:03.012[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2516:41:04.554[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2516:41:04.562[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2516:41:04.562[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2516:41:07.085[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2516:41:07.612[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2516:41:07.613[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2516:41:09.225[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2516:41:09.226[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2516:41:09.226[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2516:41:11.413[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2516:41:11.920[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2516:41:11.921[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2516:41:13.541[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2516:41:13.541[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2516:41:13.541[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2516:41:15.453[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2516:41:16.216[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2516:41:16.217[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2516:41:18.007[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2516:41:18.022[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2516:41:18.022[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2516:41:21.348[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2516:41:21.822[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2516:41:21.823[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2516:49:00.953[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2516:49:00.957[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2516:49:04.455[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2516:49:04.456[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2516:49:04.456[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2516:49:08.898[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2516:49:09.493[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2516:49:09.494[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2516:49:11.172[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2516:49:11.173[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2516:49:11.173[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2516:49:14.416[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2516:49:14.829[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2516:49:14.829[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2516:49:16.543[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2516:49:16.543[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2516:49:16.544[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2516:49:17.235[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2516:49:18.553[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2516:49:18.554[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:06:57.701[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:06:57.709[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:07:01.153[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:07:01.162[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:07:01.170[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:07:05.022[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:07:06.115[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:07:06.115[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:07:07.849[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:07:07.852[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:07:07.852[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:07:10.482[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:07:11.103[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:07:11.104[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:07:12.893[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:07:12.895[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:07:12.895[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:07:15.148[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:07:15.548[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:07:15.549[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:07:28.869[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:07:28.872[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:07:31.396[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:07:31.397[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:07:31.397[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:07:33.913[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:07:34.722[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:07:34.723[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:07:36.257[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:07:36.257[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:07:36.258[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:07:40.373[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:07:40.837[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:07:40.837[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:07:42.369[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:07:42.369[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:07:42.369[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:07:44.409[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:07:44.890[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:07:44.892[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:07:46.802[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:07:46.803[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:07:46.803[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:07:48.894[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:07:49.309[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:07:49.309[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:07:51.012[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:07:51.012[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:07:51.012[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:07:53.177[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:07:53.891[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:07:53.894[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:07:57.779[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:07:57.779[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:07:57.781[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:08:00.937[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:08:02.014[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:08:02.014[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:08:03.687[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:08:03.687[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:08:03.687[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:08:06.209[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:08:06.595[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:08:06.595[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:08:10.224[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:08:10.224[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:08:10.224[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:08:11.931[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:08:12.367[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:08:12.368[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:08:14.340[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:08:14.341[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:08:14.342[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:08:17.526[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:08:19.830[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:08:19.831[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:08:21.389[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:08:21.389[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:08:21.389[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:08:23.493[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:08:24.331[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:08:24.334[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:08:27.133[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:08:27.134[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:08:27.134[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:08:29.050[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:08:29.657[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:08:29.658[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:08:31.251[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:08:31.253[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:08:31.253[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:08:33.127[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:08:33.942[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:08:33.943[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:08:35.629[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:08:35.630[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:08:35.630[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:08:37.433[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:08:40.571[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:08:40.573[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:08:43.671[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:08:43.671[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:08:43.671[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:08:48.099[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:08:50.104[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:08:50.104[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:08:52.228[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:08:52.228[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:08:52.229[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:08:57.078[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:03.156[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:03.162[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:04.900[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:04.900[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:04.900[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:09:05.303[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:08.272[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:08.273[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:10.129[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:10.129[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:10.129[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:09:10.568[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:12.625[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:12.626[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:14.266[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:14.266[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:14.266[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:09:17.062[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:18.245[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:18.246[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:19.799[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:19.799[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:19.799[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:09:22.180[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:23.202[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:23.202[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:24.896[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:24.896[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:24.896[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:09:26.940[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:27.538[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:27.539[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:29.211[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:29.211[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:29.211[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:09:31.519[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:32.199[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:32.201[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:33.715[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:33.715[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:33.716[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:09:36.810[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:37.355[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:37.355[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:38.926[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:38.926[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:38.926[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:09:39.251[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:42.046[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:42.047[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:44.062[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:44.062[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:44.062[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:09:44.405[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:45.558[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:45.560[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:47.109[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:47.109[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:47.109[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:09:50.209[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:51.850[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:51.852[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:53.606[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:53.607[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:53.607[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:09:53.961[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:09:55.876[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:09:55.876[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:09:57.751[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:09:57.752[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:09:57.752[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:10:01.932[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Successful patient creation with valid inputs
+[INFO ]2026-03-2517:10:03.775[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:10:03.782[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:10:05.813[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:10:05.813[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:10:05.813[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:10:08.109[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Presence of dropdown values in Allergy
+[INFO ]2026-03-2517:10:09.342[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:10:09.342[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:10:11.077[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:10:11.082[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:10:11.082[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:10:14.667[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Number of values in Allergy dropdown
+[INFO ]2026-03-2517:10:15.832[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:10:15.833[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:10:17.410[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:10:17.410[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:10:17.410[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:10:20.198[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:10:21.335[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:10:21.337[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:10:23.240[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:10:23.241[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:10:23.241[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:10:31.805[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:10:40.492[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:10:40.495[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:10:43.254[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:10:43.255[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:10:43.256[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:10:46.652[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:11:09.922[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:11:09.925[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:11:11.822[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:11:11.823[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:11:11.823[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:11:21.414[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:11:39.726[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:11:39.727[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:11:42.266[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:11:42.266[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:11:42.266[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:11:45.538[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:11:48.264[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:11:48.265[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:11:50.101[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:11:50.101[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:11:50.101[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:11:53.217[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:12:01.770[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:12:01.774[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:12:04.058[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:12:04.058[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:12:04.058[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:12:06.671[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:12:08.840[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:12:08.840[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:12:11.160[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:12:11.160[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:12:11.160[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:12:20.321[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:12:35.343[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:12:35.343[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:12:37.556[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:12:37.557[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:12:37.557[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:12:43.726[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:12:45.695[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:12:45.696[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:12:48.910[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:12:48.911[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:12:48.911[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:12:49.446[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:12:50.812[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:12:50.818[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:12:53.343[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:12:53.343[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:12:53.343[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:13:01.138[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:13:08.216[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:13:08.216[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:13:10.139[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:13:10.139[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:13:10.140[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:13:15.500[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:13:35.022[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:13:35.023[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:13:36.848[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:13:36.850[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:13:36.851[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:13:42.344[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Presence of dropdown values in food presence
+[INFO ]2026-03-2517:13:45.422[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:13:45.422[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:13:47.177[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:13:47.178[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:13:47.178[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:13:50.519[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Number of values in Food Preference dropdown
+[INFO ]2026-03-2517:13:51.398[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:13:51.400[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:13:53.060[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:13:53.060[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:13:53.060[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:13:57.196[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2517:13:58.941[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:13:58.942[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:14:00.505[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:14:00.513[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:14:00.513[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:14:04.827[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2517:14:06.054[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:14:06.054[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:14:07.664[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:14:07.664[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:14:07.664[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:14:10.024[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2517:14:10.696[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:14:10.697[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:14:12.279[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:14:12.284[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:14:12.284[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:14:14.315[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2517:14:15.079[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:14:15.080[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:14:16.759[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:14:16.759[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:14:16.759[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:14:18.775[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2517:14:19.341[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:14:19.342[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:14:21.115[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:14:21.115[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:14:21.115[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:14:23.701[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Presence of dropdown values in  cuisine
+[INFO ]2026-03-2517:14:24.695[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:14:24.696[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:14:26.366[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:14:26.367[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:14:26.367[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:14:29.463[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Number of values in Cuisine dropdown
+[INFO ]2026-03-2517:14:30.399[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:14:30.400[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:14:32.126[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:14:32.127[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:14:32.127[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:14:35.584[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:14:36.368[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:14:36.368[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:14:38.277[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:14:38.278[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:14:38.278[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:14:42.588[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:14:43.268[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:14:43.269[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:14:45.474[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:14:45.474[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:14:45.474[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:14:55.456[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:15:08.105[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:15:08.121[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:15:09.675[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:15:09.679[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:15:09.679[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:15:09.999[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:15:11.193[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:15:11.193[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:15:12.760[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:15:12.760[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:15:12.760[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:15:13.066[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:15:14.281[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:15:14.281[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:15:15.810[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:15:15.810[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:15:15.811[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:15:19.135[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:15:19.819[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:15:19.819[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:15:21.483[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:15:21.483[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:15:21.483[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:15:31.845[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:15:39.672[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:15:39.673[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:15:41.146[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:15:41.147[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:15:41.148[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:15:41.412[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:15:42.208[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:15:42.209[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:15:43.781[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:15:43.781[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:15:43.781[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:15:46.855[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:15:48.132[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:15:48.133[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:15:49.823[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:15:49.823[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:15:49.823[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:15:52.548[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:15:54.368[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:15:54.369[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:15:55.958[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:15:55.958[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:15:55.958[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:15:58.729[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:15:59.947[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:15:59.947[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:01.610[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:01.613[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:01.613[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:16:03.939[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:16:05.014[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:16:05.014[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:06.765[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:06.765[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:06.765[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:16:08.816[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:16:09.367[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:16:09.368[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:11.081[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:11.081[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:11.081[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:16:13.025[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:16:13.766[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:16:13.766[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:15.802[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:15.803[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:15.803[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:16:19.734[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:16:21.568[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:16:21.569[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:23.794[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:23.794[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:23.794[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:16:24.172[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:16:27.174[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:16:27.175[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:28.977[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:28.978[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:28.978[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:16:30.124[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:16:31.511[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:16:31.512[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:33.082[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:33.083[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:33.083[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:16:33.495[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:16:35.419[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:16:35.420[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:39.520[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:39.520[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:39.520[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:16:41.141[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:16:41.570[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:16:41.572[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:43.255[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:43.255[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:43.256[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:16:46.083[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:16:46.698[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:16:46.698[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:48.481[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:48.481[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:48.481[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:16:51.487[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:16:52.051[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:16:52.052[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:53.755[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:53.755[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:53.755[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:16:56.786[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:16:57.536[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:16:57.536[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:16:59.181[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:16:59.182[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:16:59.182[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:17:02.143[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:17:02.840[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:17:02.842[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:17:04.452[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:17:04.452[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:17:04.452[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:17:07.308[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:17:07.732[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:17:07.732[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:17:10.425[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:17:10.426[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:17:10.426[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:17:10.677[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:17:10.997[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:17:10.997[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:17:12.630[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:17:12.631[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:17:12.631[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:17:15.321[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:17:16.929[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:17:16.929[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:17:18.643[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:17:18.643[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:17:18.643[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:17:21.555[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:17:22.487[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:17:22.487[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:17:24.425[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:17:24.425[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:17:24.425[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:17:29.151[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:17:38.938[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:17:38.938[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:17:41.522[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:17:41.523[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:17:41.523[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:17:45.619[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:17:47.117[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:17:47.117[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:17:50.032[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:17:50.032[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:17:50.032[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:17:55.169[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:17:55.833[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:17:55.833[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:17:57.415[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:17:57.415[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:17:57.415[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:18:00.004[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:18:00.855[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:18:00.855[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:18:02.830[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:18:02.831[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:18:02.831[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:18:05.607[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate successful patient creation flow
+[INFO ]2026-03-2517:18:06.315[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:18:06.315[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:18:07.991[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:18:07.991[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:18:07.991[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:18:09.641[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate successful patient creation flow
+[INFO ]2026-03-2517:18:10.265[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:18:10.265[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:18:11.840[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:18:11.840[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:18:11.840[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:18:13.459[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate successful patient creation flow
+[INFO ]2026-03-2517:18:14.083[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:18:14.083[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:18:16.422[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:18:16.422[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:18:16.423[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:18:18.252[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:18:18.969[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:18:18.969[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:18:20.679[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:18:20.679[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:18:20.679[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:18:22.450[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:18:23.715[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:18:23.715[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:18:25.342[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:18:25.342[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:18:25.342[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:18:29.090[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:18:30.145[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:18:30.145[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:18:32.026[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:18:32.026[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:18:32.026[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:18:38.030[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:18:43.765[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:18:43.766[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:18:45.491[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:18:45.492[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:18:45.492[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:18:45.930[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:18:50.133[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:18:50.134[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:18:52.039[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:18:52.040[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:18:52.040[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:18:54.552[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:18:55.472[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:18:55.473[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:18:57.165[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:18:57.165[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:18:57.165[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:18:59.835[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:19:00.601[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:19:00.603[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:19:02.473[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:19:02.473[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:19:02.473[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:19:06.378[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2517:19:06.986[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:19:06.986[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:19:08.924[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:19:08.924[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:19:08.924[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:19:10.778[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2517:19:11.479[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:19:11.480[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:19:13.130[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:19:13.131[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:19:13.131[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:19:15.275[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2517:19:15.705[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:19:15.706[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:19:17.356[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:19:17.356[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:19:17.356[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:19:26.821[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2517:19:30.282[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:19:30.282[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:19:32.738[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:19:32.738[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:19:32.738[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:19:37.304[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2517:19:40.405[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:19:40.406[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:19:41.993[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:19:41.993[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:19:41.993[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:19:42.341[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2517:19:44.426[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:19:44.426[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:19:46.380[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:19:46.383[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:19:46.383[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:20:31.183[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2517:20:46.256[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:20:46.258[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:20:49.464[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:20:49.465[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:20:49.465[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:20:54.254[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2517:20:55.522[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:20:55.523[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:20:56.856[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:20:56.857[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:20:56.857[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:20:58.144[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2517:21:04.378[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:21:04.380[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:21:05.887[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:21:05.888[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:21:05.888[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:21:06.932[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2517:21:12.290[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:21:12.291[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:21:14.324[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:21:14.325[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:21:14.325[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:21:15.438[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:21:15.439[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:21:17.558[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:21:17.558[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:21:17.558[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:21:24.933[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2517:21:29.090[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:21:29.090[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:21:31.677[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:21:31.677[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:21:31.677[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:31:37.970[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:31:37.973[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:31:41.692[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:31:41.696[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:31:41.697[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:31:46.903[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:31:47.249[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:31:47.250[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:31:49.180[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:31:49.181[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:31:49.181[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:31:49.531[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:31:50.452[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:31:50.452[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:31:52.287[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:31:52.287[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:31:52.287[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:31:52.644[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:31:53.743[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:31:53.744[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:31:56.712[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:31:56.712[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:31:56.713[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:31:57.007[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:31:57.536[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:31:57.536[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:31:59.200[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:31:59.201[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:31:59.201[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:02.114[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:02.371[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:02.371[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:04.428[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:04.428[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:04.428[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:04.863[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:06.163[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:06.165[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:08.944[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:08.944[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:08.944[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:10.644[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:11.179[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:11.180[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:12.783[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:12.786[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:12.788[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:13.259[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:14.769[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:14.770[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:16.870[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:16.871[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:16.872[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:17.226[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:17.904[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:17.904[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:19.432[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:19.433[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:19.433[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:21.470[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:21.973[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:21.974[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:24.652[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:24.653[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:24.654[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:25.015[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:25.275[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:25.276[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:27.283[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:27.283[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:27.284[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:28.883[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:30.512[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:30.513[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:32.519[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:32.519[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:32.520[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:32.844[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:33.644[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:33.644[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:35.279[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:35.281[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:35.281[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:38.253[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:38.670[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:38.670[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:40.265[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:40.265[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:40.265[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:40.667[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:42.175[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:42.175[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:45.558[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:45.558[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:45.558[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:45.834[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:46.091[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:46.093[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:47.687[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:47.688[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:47.688[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:48.017[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:48.927[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:48.927[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:50.542[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:50.542[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:50.542[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:52.595[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:53.339[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:53.339[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:54.878[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:54.879[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:54.881[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:32:57.102[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:32:57.587[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:32:57.587[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:32:59.092[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:32:59.092[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:32:59.092[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:01.311[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:33:02.061[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:02.061[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:03.548[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:03.549[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:03.549[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:06.198[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:33:07.083[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:07.083[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:08.607[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:08.608[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:08.608[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:11.888[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:33:12.609[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:12.610[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:14.194[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:14.194[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:14.194[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:16.208[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:33:16.633[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:16.633[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:18.212[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:18.213[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:18.213[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:20.645[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:33:21.208[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:21.209[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:22.806[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:22.806[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:22.806[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:27.431[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:33:28.206[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:28.206[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:30.385[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:30.385[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:30.386[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:30.764[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2517:33:32.892[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:32.893[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:34.493[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:34.494[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:34.494[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:37.321[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Successful patient creation with valid inputs
+[INFO ]2026-03-2517:33:38.979[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:38.979[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:41.102[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:41.103[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:41.103[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:41.456[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Presence of dropdown values in Allergy
+[INFO ]2026-03-2517:33:42.924[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:42.925[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:44.707[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:44.708[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:44.709[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:45.080[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Number of values in Allergy dropdown
+[INFO ]2026-03-2517:33:46.160[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:46.162[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:47.955[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:47.955[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:47.955[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:51.259[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:33:51.809[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:51.809[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:53.762[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:53.762[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:53.762[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:33:56.706[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:33:57.287[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:33:57.287[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:33:58.908[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:33:58.908[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:33:58.909[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:34:02.431[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:34:04.163[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:34:04.164[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:34:05.841[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:34:05.842[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:34:05.842[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:34:09.433[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:34:10.043[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:34:10.043[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:34:12.040[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:34:12.041[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:34:12.042[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:34:14.835[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:34:15.273[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:34:15.273[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:34:17.279[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:34:17.279[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:34:17.280[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:34:23.044[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:34:24.897[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:34:24.898[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:34:26.864[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:34:26.864[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:34:26.864[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:34:29.691[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:34:32.337[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:34:32.338[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:34:34.281[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:34:34.281[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:34:34.281[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:34:37.757[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:34:41.435[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:34:41.435[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:34:43.131[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:34:43.131[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:34:43.131[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:34:43.410[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:34:44.321[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:34:44.321[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:34:46.223[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:34:46.224[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:34:46.224[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:34:48.092[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:34:49.292[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:34:49.292[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:34:51.057[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:34:51.058[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:34:51.058[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:34:51.415[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:34:54.067[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:34:54.068[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:34:55.751[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:34:55.752[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:34:55.752[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:34:56.082[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2517:34:57.431[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:34:57.431[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:34:59.028[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:34:59.028[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:34:59.028[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:01.858[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Presence of dropdown values in food presence
+[INFO ]2026-03-2517:35:02.542[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:02.543[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:04.164[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:04.164[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:04.164[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:08.657[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Number of values in Food Preference dropdown
+[INFO ]2026-03-2517:35:09.252[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:09.252[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:10.870[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:10.871[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:10.871[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:11.171[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2517:35:12.975[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:12.976[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:14.474[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:14.474[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:14.474[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:16.656[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2517:35:16.926[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:16.927[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:18.462[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:18.464[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:18.464[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:21.440[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2517:35:21.963[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:21.963[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:23.524[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:23.524[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:23.524[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:26.672[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2517:35:27.473[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:27.474[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:29.098[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:29.098[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:29.098[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:29.465[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2517:35:32.070[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:32.070[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:33.689[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:33.690[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:33.692[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:33.965[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Presence of dropdown values in  cuisine
+[INFO ]2026-03-2517:35:35.668[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:35.669[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:37.218[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:37.218[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:37.218[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:39.463[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Number of values in Cuisine dropdown
+[INFO ]2026-03-2517:35:40.070[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:40.071[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:41.723[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:41.723[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:41.723[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:42.047[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:35:44.047[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:44.047[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:45.573[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:45.574[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:45.574[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:45.897[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:35:46.367[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:46.368[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:48.010[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:48.010[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:48.010[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:48.762[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:35:49.407[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:49.407[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:50.945[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:50.945[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:50.945[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:51.283[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:35:53.303[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:53.303[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:55.120[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:55.120[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:55.120[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:35:57.424[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:35:57.898[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:35:57.899[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:35:59.559[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:35:59.559[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:35:59.559[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:36:03.822[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:36:04.636[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:36:04.637[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:36:06.417[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:36:06.417[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:36:06.417[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:36:11.200[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:36:11.501[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:36:11.501[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:36:13.208[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:36:13.208[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:36:13.209[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:36:16.629[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:36:17.123[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:36:17.124[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:36:19.082[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:36:19.084[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:36:19.085[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:36:23.654[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:36:25.055[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:36:25.055[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:36:26.614[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:36:26.614[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:36:26.614[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:36:31.012[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:36:35.093[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:36:35.094[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:36:36.705[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:36:36.706[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:36:36.706[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:36:36.988[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:36:38.958[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:36:38.959[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:36:40.526[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:36:40.526[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:36:40.527[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:36:40.865[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:36:43.270[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:36:43.271[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:36:44.759[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:36:44.759[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:36:44.759[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:36:46.897[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:36:47.760[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:36:47.760[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:36:49.339[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:36:49.341[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:36:49.341[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:36:53.066[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:36:53.653[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:36:53.653[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:36:55.589[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:36:55.590[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:36:55.590[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:36:55.897[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:36:58.828[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:36:58.828[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:00.393[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:00.394[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:00.394[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:03.075[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:03.615[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:03.615[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:05.158[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:05.158[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:05.158[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:08.845[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:09.382[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:09.382[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:10.880[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:10.880[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:10.880[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:11.198[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:13.338[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:13.339[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:14.810[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:14.811[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:14.812[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:17.063[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:17.353[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:17.353[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:18.874[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:18.875[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:18.875[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:19.467[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:21.122[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:21.123[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:22.738[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:22.738[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:22.738[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:23.072[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:24.778[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:24.778[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:26.240[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:26.242[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:26.242[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:28.504[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:29.109[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:29.110[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:30.933[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:30.933[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:30.933[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:31.214[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:33.811[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:33.811[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:35.345[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:35.345[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:35.345[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:35.680[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:37.277[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:37.278[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:38.797[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:38.799[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:38.799[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:39.099[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:40.796[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:40.796[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:42.436[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:42.436[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:42.436[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:42.732[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:43.402[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:43.402[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:44.857[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:44.857[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:44.857[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:47.243[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:47.513[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:47.514[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:49.062[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:49.062[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:49.062[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:52.496[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:53.724[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:53.724[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:55.406[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:55.407[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:55.407[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:37:55.698[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:37:58.107[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:37:58.108[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:37:59.714[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:37:59.715[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:37:59.715[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:00.010[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:38:01.674[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:01.674[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:03.160[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:03.161[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:03.161[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:06.205[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2517:38:06.673[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:06.673[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:08.172[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:08.172[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:08.172[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:11.372[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate successful patient creation flow
+[INFO ]2026-03-2517:38:12.089[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:12.089[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:13.583[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:13.583[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:13.583[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:16.105[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate successful patient creation flow
+[INFO ]2026-03-2517:38:16.393[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:16.393[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:17.997[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:17.997[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:17.997[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:18.554[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate successful patient creation flow
+[INFO ]2026-03-2517:38:20.546[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:20.546[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:22.180[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:22.182[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:22.182[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:24.205[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:38:24.734[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:24.735[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:26.310[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:26.311[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:26.311[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:26.698[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:38:29.082[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:29.082[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:31.055[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:31.055[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:31.055[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:32.824[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:38:34.519[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:34.520[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:36.905[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:36.905[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:36.906[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:37.198[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:38:38.171[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:38.171[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:39.680[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:39.681[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:39.681[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:39.966[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:38:43.186[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:43.186[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:44.777[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:44.777[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:44.778[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:45.048[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:38:46.803[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:46.803[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:48.451[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:48.452[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:48.452[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:48.915[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2517:38:54.636[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:38:54.636[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:38:56.219[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:38:56.220[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:38:56.220[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:38:56.518[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2517:39:02.503[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:02.504[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:04.074[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:04.074[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:04.074[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:39:06.458[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2517:39:07.896[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:07.897[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:09.381[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:09.382[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:09.382[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:39:12.536[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2517:39:12.887[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:12.888[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:14.427[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:14.427[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:14.427[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:39:16.465[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2517:39:16.772[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:16.773[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:18.339[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:18.339[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:18.339[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:39:21.762[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2517:39:23.741[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:23.743[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:25.316[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:25.316[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:25.316[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:39:25.631[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2517:39:28.291[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:28.291[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:29.873[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:29.873[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:29.874[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:39:32.862[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2517:39:33.352[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:33.352[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:34.828[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:34.828[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:34.828[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:39:39.192[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2517:39:39.759[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:39.759[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:41.412[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:41.412[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:41.412[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:39:41.715[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2517:39:43.939[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:43.939[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:45.510[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:45.510[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:45.510[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:39:45.896[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2517:39:46.520[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:46.520[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:47.954[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:47.955[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:47.956[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:39:51.274[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2517:39:51.876[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:51.876[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:53.425[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:53.426[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:53.426[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:39:57.084[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2517:39:57.783[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:39:57.784[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:39:59.342[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:39:59.342[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:39:59.342[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:03.187[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2517:40:03.650[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:03.651[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:40:05.237[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:40:05.237[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:40:05.237[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:09.567[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2517:40:10.204[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:10.205[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:40:11.926[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:40:11.926[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:40:11.926[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:14.878[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Food Preference dropdown
+[INFO ]2026-03-2517:40:15.147[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:15.148[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:40:16.663[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:40:16.663[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:40:16.663[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:19.291[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Food Preference dropdown
+[INFO ]2026-03-2517:40:19.776[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:19.777[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:40:21.210[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:40:21.210[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:40:21.210[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:21.713[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Food Preference dropdown
+[INFO ]2026-03-2517:40:24.555[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:24.556[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:40:26.073[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:40:26.073[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:40:26.073[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:26.380[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Food Preference dropdown
+[INFO ]2026-03-2517:40:28.827[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:28.828[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:40:30.314[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:40:30.314[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:40:30.314[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:33.491[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Food Preference dropdown
+[INFO ]2026-03-2517:40:33.957[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:33.958[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:40:35.645[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:40:35.645[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:40:35.645[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:38.837[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Food Preference dropdown
+[INFO ]2026-03-2517:40:39.348[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:39.349[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:40:40.832[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:40:40.832[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:40:40.832[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:43.830[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Food Preference dropdown
+[INFO ]2026-03-2517:40:44.201[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:44.202[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:40:45.704[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:40:45.705[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:40:45.705[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:48.375[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Food Preference dropdown
+[INFO ]2026-03-2517:40:48.636[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:48.638[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:40:50.298[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:40:50.298[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:40:50.299[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:52.697[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Cuisine Category dropdown
+[INFO ]2026-03-2517:40:53.295[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:53.295[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:40:54.867[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:40:54.867[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:40:54.867[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:40:58.259[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Cuisine Category dropdown
+[INFO ]2026-03-2517:40:59.550[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:40:59.550[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:00.950[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:00.954[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:00.954[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:04.478[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Cuisine Category dropdown
+[INFO ]2026-03-2517:41:04.878[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:04.878[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:06.304[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:06.305[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:06.305[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:09.977[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Cuisine Category dropdown
+[INFO ]2026-03-2517:41:10.386[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:10.387[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:11.882[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:11.882[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:11.882[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:14.828[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Cuisine Category dropdown
+[INFO ]2026-03-2517:41:15.147[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:15.147[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:16.580[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:16.580[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:16.580[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:16.867[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Cuisine Category dropdown
+[INFO ]2026-03-2517:41:18.550[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:18.550[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:20.171[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:20.172[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:20.172[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:20.514[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Cuisine Category dropdown
+[INFO ]2026-03-2517:41:22.796[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:22.797[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:24.465[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:24.466[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:24.466[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:24.780[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Cuisine Category dropdown
+[INFO ]2026-03-2517:41:26.380[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:26.381[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:28.018[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:28.019[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:28.019[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:28.354[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Cuisine Category dropdown
+[INFO ]2026-03-2517:41:29.953[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:29.953[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:31.671[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:31.671[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:31.671[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:31.966[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Cuisine Category dropdown
+[INFO ]2026-03-2517:41:33.330[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:33.330[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:34.793[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:34.793[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:34.793[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:35.251[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Cuisine Category dropdown
+[INFO ]2026-03-2517:41:37.463[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:37.464[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:38.945[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:38.947[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:38.947[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:39.246[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:41:42.344[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:42.345[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:43.826[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:43.828[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:43.828[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:45.701[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:41:46.305[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:46.306[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:47.826[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:47.827[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:47.827[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:51.133[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:41:51.562[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:51.562[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:53.181[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:53.182[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:53.182[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:53.703[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:41:56.108[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:41:56.109[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:41:57.819[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:41:57.821[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:41:57.821[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:41:58.539[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:42:00.620[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:00.621[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:42:02.154[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:42:02.155[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:42:02.155[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:42:02.482[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:42:04.836[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:04.837[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:42:06.370[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:42:06.371[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:42:06.371[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:42:06.715[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:42:09.112[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:09.113[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:42:11.458[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:42:11.460[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:42:11.460[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:42:11.734[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:42:12.682[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:12.682[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:42:14.306[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:42:14.308[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:42:14.308[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:42:14.581[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:42:15.643[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:15.643[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:42:18.477[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:42:18.478[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:42:18.478[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:42:19.053[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:42:19.325[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:19.326[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:42:20.872[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:42:20.873[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:42:20.873[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:42:21.184[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:42:23.669[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:23.670[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:42:25.366[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:42:25.366[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:42:25.366[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:42:25.682[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:42:27.901[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:27.902[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:42:29.659[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:42:29.659[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:42:29.659[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:42:29.932[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:42:33.776[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:33.776[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:42:35.378[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:42:35.379[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:42:35.379[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:42:35.649[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2517:42:37.652[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:37.652[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:42:40.379[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:42:40.379[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:42:40.379[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:42:40.666[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate name fields (First Name / Last Name)
+[INFO ]2026-03-2517:42:42.276[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:42.276[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2517:42:44.009[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2517:42:44.009[main]utils.LoggerLoad1)-poManager initialized: true
+[INFO ]2026-03-2517:42:44.009[main]utils.LoggerLoad1)-Driver: true
+[INFO ]2026-03-2517:42:49.553[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate name fields (First Name / Last Name)
+[INFO ]2026-03-2517:42:50.507[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2517:42:50.508[main]utils.LoggerLoad1)-Loaded configuration properties

@@ -50,8 +50,13 @@ public class Hooks {
     public void performLogin() {
 	    logger.info("Performing background login...");
 	    //Login_Step loginStep = new Login_Step(context);
+	    Login_Step loginStep = new Login_Step(context);
+
+	    loginStep.user_clicks_login_button_after_entering_valid_credentials_in_login_page();
+	    
+	    logger.info("Performed login with valid credentials");
 	    if (loginObj == null) {
-	        logger.error("loginStep is NULL � PicoContainer did not inject Login_Step!");
+	        logger.error("loginStep is NULL  PicoContainer did not inject Login_Step!");
 	        throw new RuntimeException("loginStep is null in context");
 	    }
 	  

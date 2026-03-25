@@ -381,5 +381,6 @@ public class AddPatient_Step {
         log.info("Validating patient creation from Excel");
         if (!getPage().verifyPatientCreatedFromExcel()) 
             throw new AssertionError("Patient creation from Excel failed");
+        System.out.println("Done");
     }
 }
