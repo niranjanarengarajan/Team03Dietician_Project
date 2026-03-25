@@ -22,7 +22,6 @@ public class Screenshot {
             File destinationFile = new File("./target/screenshots/" + screenshotName);
             try {
                 FileUtils.copyFile(screenshot, destinationFile);
-                LoggerLoad.info("Screenshot saved to: " + destinationFile.getAbsolutePath());
             } catch (IOException e) {
                 LoggerLoad.error("Screenshot IOException: " + e.getMessage());
                 e.printStackTrace();
