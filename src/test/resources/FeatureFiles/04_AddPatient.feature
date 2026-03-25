@@ -1,4 +1,4 @@
-@AddPatient @login
+@AddPatient @Login
 Feature: Add Patient Dialog Box -Validation   
 
 Rule: Basic Add Patient Dialog Box UI Validation
@@ -279,6 +279,7 @@ Examples:
 | TC11   | 02/29/2000    | 02/29/2000                               | 
 | TC12   | 02/29/2024    | 02/29/2024                               | 
 | TC13   | 02/29/2023    | Please select valid date                 | 
+| TC14   |               | Date of Birth is required                |
 
 Scenario Outline: Validate name fields (First Name / Last Name)
 When User enters "<Value>" in "<Field>" field and navigates to next field in the Add patient detail page
@@ -288,10 +289,10 @@ Examples:
 | Field       | Value     | ExpectedMessage                            |
 | First Name  | 12345     | Patient first name accepts only alphabets  |
 | First Name  | @#$%      | Patient first name accepts only alphabets  |
-| First Name  |           | Firstname field is required                |
+| First Name  |           | First name is required                     |
 | Last Name   | 12345     | Patient last name accepts only alphabets   |
 | Last Name   | @#$%      | Patient last name accepts only alphabets   |
-| Last Name   |           | Lastname field is required                 |
+| Last Name   |           | Last name is required                      |
 
 Scenario Outline: Validate Email field
 When User enters "<Email>" in email field and navigates to next field in the Add patient detail page
@@ -304,20 +305,8 @@ Examples:
 | abc@#$%.com        | Please enter a valid email address  |
 | abc@test           | Please enter a valid email address  |
 | existing@test.com  | Email id already exists             |
-|                   | Email field is required              |
+|                    | Email is required                   |
 
-Scenario Outline: Validate Email field
-When User enters "<Email>" in email field and navigates to next field in the Add patient detail page
-Then User should see "<ExpectedMessage>"
-
-Examples:
-| Email              | ExpectedMessage                     |
-| 123abc@test.com    | Please enter a valid email address  |
-| abc.com            | Please enter a valid email address  |
-| abc@#$%.com        | Please enter a valid email address  |
-| abc@test           | Please enter a valid email address  |
-| existing@test.com  | Email id already exists             |
-|                   | Email field is required              |
 
 Scenario Outline: Validate Contact Number field
 When User enters "<Contact>" in contact number field and navigates to next field in the Add patient detail page
@@ -386,4 +375,3 @@ Then Add dialog should close and user  should be on my patient page without new 
 Scenario: Validate Patient Creation from Excel
   When User creates new patient using Excel data
   Then Patient creation should reflect the correct result
-  
