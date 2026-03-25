@@ -375,3 +375,8 @@ Then Add dialog should close and user  should be on my patient page without new 
 Scenario: Validate Patient Creation from Excel
   When User creates new patient using Excel data
   Then Patient creation should reflect the correct result
+  
+  
+  
+  
+  

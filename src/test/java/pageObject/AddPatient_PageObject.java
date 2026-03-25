@@ -553,7 +553,17 @@ public class AddPatient_PageObject {
     
     public void createPatientFromExcel() {
     	 Map<String, String> data = ExcelReader.getTestData("AddPatient");
+    	 System.out.println("----- Excel Data -----");
+    	    for (Map.Entry<String, String> entry : data.entrySet()) {
+    	        System.out.println(entry.getKey() + " : " + entry.getValue());
+    	    }
 
+    	 System.out.println("----- Excel Data -----");
+    	    for (Map.Entry<String, String> entry : data.entrySet()) {
+    	        System.out.println(entry.getKey() + " : " + entry.getValue());
+    	    }
+    	    System.out.println("----------------------");
+    	    
         if (data.containsKey("first_name")) enterFieldValue("first name", data.get("first_name"));
         if (data.containsKey("last_name")) enterFieldValue("last name", data.get("last_name"));
         if (data.containsKey("email")) enterEmail(data.get("email"));

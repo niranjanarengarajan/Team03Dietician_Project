@@ -41,3 +41,1693 @@
 [INFO ]2026-03-2413:25:25.594[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
 [INFO ]2026-03-2413:25:25.594[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
 [INFO ]2026-03-2413:25:26.014[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2416:39:08.782[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2416:39:08.789[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2416:39:15.087[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2416:39:25.466[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Navigation bar text visibility.png
+[INFO ]2026-03-2416:39:25.663[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2416:39:25.663[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2416:39:26.011[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2416:39:26.049[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2416:39:26.050[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2416:39:27.875[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2416:39:38.188[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Navigation bar home icon visibility.png
+[INFO ]2026-03-2416:39:38.370[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2416:39:38.370[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2416:39:38.679[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2416:39:38.715[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2416:39:38.716[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2416:39:41.070[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2416:39:43.971[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2416:39:43.971[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2416:39:45.655[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2416:39:47.562[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2416:39:47.563[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:17:29.361[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:17:29.366[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:17:33.220[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:17:33.276[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:17:33.445[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:17:34.681[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:17:34.681[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:17:34.947[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:17:35.012[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:17:35.013[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:17:36.705[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:17:36.712[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:17:36.855[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:17:36.962[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:17:36.962[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:17:37.242[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:17:37.311[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:17:37.312[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:17:38.838[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:17:38.847[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:17:39.015[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:17:39.129[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:17:39.129[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:17:39.522[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:17:39.578[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:17:39.579[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:17:41.058[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:17:41.063[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:17:41.213[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:17:41.309[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:17:41.309[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:17:41.671[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:17:41.696[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:17:41.697[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:17:43.328[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:17:43.331[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:17:43.474[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:17:43.579[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:17:43.579[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:17:43.891[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:17:43.915[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:17:43.915[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:17:47.269[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:17:47.276[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:17:47.401[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:17:47.491[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:17:47.491[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:17:47.775[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:17:47.799[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:17:47.800[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:17:49.523[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:17:49.541[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:17:49.715[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:17:49.812[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:17:49.812[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:17:50.145[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:17:50.186[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:17:50.187[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:17:52.103[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:17:52.135[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:17:52.312[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:17:52.432[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:17:52.432[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:17:52.764[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:17:52.783[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:17:52.784[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:17:54.604[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:17:54.622[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:17:54.788[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:17:56.090[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:17:56.090[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:17:56.532[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:17:56.560[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:17:56.560[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:17:58.651[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:17:58.662[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:17:58.851[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:17:58.963[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:17:58.963[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:17:59.324[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:17:59.353[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:17:59.354[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:01.373[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:01.380[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:01.592[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:03.679[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:03.679[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:04.268[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:04.335[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:04.335[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:06.851[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:06.854[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:07.016[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:07.346[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:07.347[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:07.845[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:07.920[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:07.920[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:10.674[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:10.679[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:10.847[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:10.941[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:10.941[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:11.211[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:11.273[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:11.273[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:13.376[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:13.380[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:13.549[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:15.041[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:15.041[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:15.661[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:15.720[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:15.720[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:17.841[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:17.848[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:18.033[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:19.716[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:19.716[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:20.270[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:20.408[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:20.410[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:22.104[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:22.112[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:22.266[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:22.676[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:22.676[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:22.907[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:22.984[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:22.985[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:24.886[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:24.889[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:25.100[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:25.233[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:25.233[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:25.582[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:25.681[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:25.683[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:27.604[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:27.615[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:27.772[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:27.879[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:27.879[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:28.120[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:28.178[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:28.178[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:29.868[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:29.874[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:30.042[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:30.673[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:30.674[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:30.987[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:31.039[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:31.047[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:32.738[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:32.741[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:32.908[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:34.184[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:34.184[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:34.628[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:34.672[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:34.672[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:36.575[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:36.579[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:36.733[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:36.852[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:36.852[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:37.108[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:37.198[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:37.198[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:41.275[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:41.278[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:41.491[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:41.654[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:41.654[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:41.941[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:41.979[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:41.979[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:43.533[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:43.539[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:43.702[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:43.798[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:43.798[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:44.047[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:44.110[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:44.111[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:45.810[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:45.818[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:45.979[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:47.439[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:47.440[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:47.785[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:47.830[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:47.832[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:49.488[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:49.494[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:49.654[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:49.960[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:49.960[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:50.238[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:50.298[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:50.298[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:52.505[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:52.540[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2417:18:54.438[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2417:18:54.749[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2417:18:54.750[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:18:55.158[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:18:55.213[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:18:55.213[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:18:57.137[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:18:57.145[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:19:17.546[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Successful patient creation with valid inputs.png
+[INFO ]2026-03-2417:19:17.822[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Successful patient creation with valid inputs
+[INFO ]2026-03-2417:19:17.822[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:19:18.174[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:19:18.196[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:19:18.196[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:19:19.790[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:19:19.792[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:19:40.159[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Presence of dropdown values in Allergy.png
+[INFO ]2026-03-2417:19:40.460[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Presence of dropdown values in Allergy
+[INFO ]2026-03-2417:19:40.460[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:19:40.865[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:19:40.909[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:19:40.910[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:19:42.609[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:19:42.610[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:20:02.965[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Number of values in Allergy dropdown.png
+[INFO ]2026-03-2417:20:03.193[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Number of values in Allergy dropdown
+[INFO ]2026-03-2417:20:03.193[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:20:03.548[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:20:03.612[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:20:03.615[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:20:05.516[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:20:05.522[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:20:25.840[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:20:26.081[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:20:26.082[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:20:26.408[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:20:26.452[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:20:26.453[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:20:28.307[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:20:28.310[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:20:48.630[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:20:48.765[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:20:48.765[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:20:49.076[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:20:49.089[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:20:49.090[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:20:50.678[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:20:50.682[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:21:11.032[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:21:11.244[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:21:11.245[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:21:11.516[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:21:11.540[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:21:11.540[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:21:13.260[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:21:13.262[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:21:33.471[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:21:33.616[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:21:33.616[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:21:33.921[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:21:33.939[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:21:33.939[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:21:35.435[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:21:35.440[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:21:55.815[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:21:56.020[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:21:56.020[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:21:56.279[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:21:56.295[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:21:56.296[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:21:58.297[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:21:58.302[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:22:18.723[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:22:18.949[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:22:18.949[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:22:19.201[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:22:19.213[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:22:19.214[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:22:21.590[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:22:21.595[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:22:41.822[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:22:41.970[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:22:41.970[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:22:42.305[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:22:42.323[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:22:42.324[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:22:44.030[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:22:44.032[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:23:04.358[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:23:04.560[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:23:04.560[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:23:04.925[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:23:04.964[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:23:04.964[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:23:07.122[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:23:07.129[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:23:27.404[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:23:27.622[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:23:27.622[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:23:27.896[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:23:27.914[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:23:27.914[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:23:30.056[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:23:30.060[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:23:50.474[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:23:50.710[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:23:50.710[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:23:51.155[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:23:51.206[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:23:51.206[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:23:53.445[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:23:53.449[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:24:13.829[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:24:14.132[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:24:14.132[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:24:14.535[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:24:14.613[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:24:14.613[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:24:19.487[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:24:19.492[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:24:39.813[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2417:24:40.085[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2417:24:40.089[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:24:40.501[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:24:40.639[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:24:40.639[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:24:42.554[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:24:42.560[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:25:02.969[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Presence of dropdown values in food presence.png
+[INFO ]2026-03-2417:25:03.245[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Presence of dropdown values in food presence
+[INFO ]2026-03-2417:25:03.245[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:25:03.658[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:25:03.793[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:25:03.794[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:25:05.701[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:25:05.720[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:25:26.017[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Number of values in Food Preference dropdown.png
+[INFO ]2026-03-2417:25:26.244[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Number of values in Food Preference dropdown
+[INFO ]2026-03-2417:25:26.244[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:25:26.531[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:25:26.570[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:25:26.571[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:25:28.277[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:25:28.283[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:25:48.726[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Food Preference dropdown.png
+[INFO ]2026-03-2417:25:48.963[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2417:25:48.963[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:25:49.218[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:25:49.284[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:25:49.285[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:25:51.127[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:25:51.134[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:26:11.398[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Food Preference dropdown.png
+[INFO ]2026-03-2417:26:11.558[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2417:26:11.559[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:26:12.021[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:26:12.058[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:26:12.059[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:26:14.043[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:26:14.051[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:26:34.419[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Food Preference dropdown.png
+[INFO ]2026-03-2417:26:34.660[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2417:26:34.660[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:26:34.967[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:26:34.993[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:26:34.994[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:26:36.687[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:26:36.693[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:26:56.922[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Food Preference dropdown.png
+[INFO ]2026-03-2417:26:57.080[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2417:26:57.080[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:26:57.430[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:26:57.458[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:26:57.458[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:26:59.204[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:26:59.211[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:27:19.472[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Food Preference dropdown.png
+[INFO ]2026-03-2417:27:19.637[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2417:27:19.637[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:27:20.050[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:27:20.075[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:27:20.076[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:27:21.685[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:27:21.692[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:27:41.963[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Presence of dropdown values in  cuisine.png
+[INFO ]2026-03-2417:27:42.123[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Presence of dropdown values in  cuisine
+[INFO ]2026-03-2417:27:42.123[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:27:42.535[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:27:42.551[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:27:42.552[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:27:44.472[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:27:44.474[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:28:04.728[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Number of values in Cuisine dropdown.png
+[INFO ]2026-03-2417:28:04.898[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Number of values in Cuisine dropdown
+[INFO ]2026-03-2417:28:04.900[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:28:05.274[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:28:05.303[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:28:05.304[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:28:06.904[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:28:06.910[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:28:27.153[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:28:27.312[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:28:27.312[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:28:27.656[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:28:27.675[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:28:27.675[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:28:29.430[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:28:29.435[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:28:49.618[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:28:49.747[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:28:49.747[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:28:50.095[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:28:50.114[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:28:50.115[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:28:51.760[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:28:51.766[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:29:12.110[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:29:12.328[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:29:12.328[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:29:12.750[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:29:12.767[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:29:12.767[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:29:14.678[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:29:14.683[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:29:34.898[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:29:35.041[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:29:35.041[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:29:35.360[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:29:35.392[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:29:35.393[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:29:37.257[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:29:37.260[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:29:57.472[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:29:57.625[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:29:57.626[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:29:57.993[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:29:58.017[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:29:58.018[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:29:59.979[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:29:59.984[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:30:20.263[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:30:20.460[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:30:20.460[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:30:20.807[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:30:20.840[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:30:20.840[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:30:22.618[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:30:22.626[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:30:42.845[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:30:43.012[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:30:43.012[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:30:43.408[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:30:43.421[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:30:43.422[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:30:45.134[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:30:45.139[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:31:05.393[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:31:05.553[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:31:05.555[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:31:05.935[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:31:05.954[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:31:05.954[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:31:07.494[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:31:07.495[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:31:27.758[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:31:27.895[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:31:27.895[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:31:28.319[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:31:28.343[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:31:28.343[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:31:29.983[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:31:29.990[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:31:50.236[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:31:50.390[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:31:50.392[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:31:50.771[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:31:50.788[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:31:50.789[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:31:52.452[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:31:52.457[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:32:12.693[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:32:12.832[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:32:12.832[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:32:13.189[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:32:13.205[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:32:13.205[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:32:14.745[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:32:14.752[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:32:34.983[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:32:35.111[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:32:35.112[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:32:35.469[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:32:35.493[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:32:35.494[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:32:37.088[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:32:37.096[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:32:57.329[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:32:57.482[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:32:57.482[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:32:57.972[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:32:57.991[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:32:57.992[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:32:59.755[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:32:59.803[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:33:20.053[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:33:20.196[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:33:20.196[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:33:20.604[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:33:20.620[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:33:20.620[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:33:22.241[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:33:22.246[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:33:42.474[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:33:42.614[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:33:42.614[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:33:42.963[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:33:42.975[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:33:42.975[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:33:45.276[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:33:45.279[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:34:05.506[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:34:05.680[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:34:05.683[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:34:06.022[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:34:06.032[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:34:06.033[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:34:07.639[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:34:07.641[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:34:27.958[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:34:28.087[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:34:28.087[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:34:28.468[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:34:28.480[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:34:28.481[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:34:30.045[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:34:30.049[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:34:50.233[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:34:50.377[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:34:50.377[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:34:50.740[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:34:50.756[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:34:50.757[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:34:52.468[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:34:52.477[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:35:12.740[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:35:12.876[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:35:12.876[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:35:13.252[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:35:13.264[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:35:13.265[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:35:14.902[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:35:14.903[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:35:35.159[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:35:35.300[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:35:35.301[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:35:35.670[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:35:35.683[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:35:35.683[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:35:38.613[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:35:38.615[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:35:58.875[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:35:59.022[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:35:59.022[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:35:59.398[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:35:59.419[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:35:59.420[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:36:01.062[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:36:01.068[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:36:21.390[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:36:21.531[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:36:21.531[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:36:21.873[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:36:21.893[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:36:21.893[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:36:23.450[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:36:23.455[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:36:43.709[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:36:43.852[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:36:43.852[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:36:44.222[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:36:44.239[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:36:44.240[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:36:45.875[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:36:45.878[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:37:06.123[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:37:06.262[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:37:06.262[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:37:06.623[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:37:06.633[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:37:06.633[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:37:08.402[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:37:08.404[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:37:28.679[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:37:28.810[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:37:28.810[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:37:29.172[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:37:29.189[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:37:29.189[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:37:30.954[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:37:30.960[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:37:51.234[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:37:51.370[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:37:51.370[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:37:51.719[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:37:51.740[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:37:51.740[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:37:53.427[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:37:53.431[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:38:13.712[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:38:13.895[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:38:13.895[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:38:14.302[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:38:14.321[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:38:14.321[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:38:16.084[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:38:16.089[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:38:36.379[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:38:36.522[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:38:36.522[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:38:36.921[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:38:36.940[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:38:36.941[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:38:38.489[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:38:38.495[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:38:58.682[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:38:58.835[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:38:58.835[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:38:59.177[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:38:59.202[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:38:59.203[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:39:00.926[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:39:00.930[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:39:21.146[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:39:21.276[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:39:21.276[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:39:21.643[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:39:21.665[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:39:21.665[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:39:23.942[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:39:23.946[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:39:44.199[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Cuisine dropdown.png
+[INFO ]2026-03-2417:39:44.330[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Cuisine dropdown
+[INFO ]2026-03-2417:39:44.330[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:39:44.707[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:39:44.721[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:39:44.721[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:39:46.329[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:39:46.336[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:40:06.579[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate successful patient creation flow.png
+[INFO ]2026-03-2417:40:06.733[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate successful patient creation flow
+[INFO ]2026-03-2417:40:06.733[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:40:07.120[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:40:07.137[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:40:07.137[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:40:09.103[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:40:09.107[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:40:29.361[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate successful patient creation flow.png
+[INFO ]2026-03-2417:40:29.501[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate successful patient creation flow
+[INFO ]2026-03-2417:40:29.501[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:40:29.978[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:40:29.996[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:40:29.996[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:40:31.744[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:40:31.754[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:40:52.024[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate successful patient creation flow.png
+[INFO ]2026-03-2417:40:52.185[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate successful patient creation flow
+[INFO ]2026-03-2417:40:52.185[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:40:52.526[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:40:52.540[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:40:52.540[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:40:54.059[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:40:54.061[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:41:14.286[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Allergy dropdown.png
+[INFO ]2026-03-2417:41:14.439[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2417:41:14.439[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:41:14.818[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:41:14.835[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:41:14.835[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:41:16.540[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:41:16.542[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:41:36.779[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Allergy dropdown.png
+[INFO ]2026-03-2417:41:36.951[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2417:41:36.951[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:41:37.319[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:41:37.329[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:41:37.330[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:41:38.876[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:41:38.878[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:41:59.084[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Allergy dropdown.png
+[INFO ]2026-03-2417:41:59.217[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2417:41:59.218[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:41:59.570[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:41:59.585[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:41:59.585[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:42:01.764[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:42:01.769[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:42:22.020[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Allergy dropdown.png
+[INFO ]2026-03-2417:42:22.166[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2417:42:22.166[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:42:22.524[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:42:22.538[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:42:22.539[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:42:24.277[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:42:24.281[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:42:44.526[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Allergy dropdown.png
+[INFO ]2026-03-2417:42:44.668[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2417:42:44.669[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:42:45.069[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:42:45.080[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:42:45.080[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:42:46.784[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:42:46.788[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:43:06.991[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Allergy dropdown.png
+[INFO ]2026-03-2417:43:07.129[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2417:43:07.129[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:43:07.489[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:43:07.503[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:43:07.504[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:43:09.203[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:43:09.208[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:43:29.420[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Allergy dropdown.png
+[INFO ]2026-03-2417:43:29.562[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Allergy dropdown
+[INFO ]2026-03-2417:43:29.562[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:43:29.963[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:43:29.982[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:43:29.982[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:43:32.008[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:43:32.012[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:43:52.275[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Allergy dropdown.png
+[INFO ]2026-03-2417:43:52.433[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2417:43:52.433[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:43:52.724[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:43:52.746[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:43:52.748[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:43:54.453[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:43:54.461[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:44:14.758[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Allergy dropdown.png
+[INFO ]2026-03-2417:44:14.902[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2417:44:14.903[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:44:15.281[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:44:15.327[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:44:15.328[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:44:16.940[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:44:16.942[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:44:37.136[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Allergy dropdown.png
+[INFO ]2026-03-2417:44:37.280[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2417:44:37.281[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:44:37.642[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:44:37.658[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:44:37.658[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:44:39.267[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:44:39.272[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:44:59.478[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Allergy dropdown.png
+[INFO ]2026-03-2417:44:59.614[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2417:44:59.614[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:44:59.939[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:44:59.956[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:44:59.958[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:45:01.743[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:45:01.747[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:45:21.993[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Allergy dropdown.png
+[INFO ]2026-03-2417:45:22.130[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Allergy dropdown
+[INFO ]2026-03-2417:45:22.131[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:45:22.515[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:45:22.535[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:45:22.535[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:45:24.084[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:45:24.090[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:45:44.309[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Selecting a value not present in Allergy dropdown.png
+[INFO ]2026-03-2417:45:44.451[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2417:45:44.451[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:45:44.820[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:45:44.837[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:45:44.837[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:45:46.628[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:45:46.630[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:46:06.871[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Selecting a value not present in Allergy dropdown.png
+[INFO ]2026-03-2417:46:07.008[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2417:46:07.008[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:46:07.388[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:46:07.402[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:46:07.404[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:46:09.278[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:46:09.280[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:46:29.498[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Selecting a value not present in Allergy dropdown.png
+[INFO ]2026-03-2417:46:29.632[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2417:46:29.633[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:46:30.005[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:46:30.029[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:46:30.030[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:46:31.759[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:46:31.762[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:46:51.993[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Selecting a value not present in Allergy dropdown.png
+[INFO ]2026-03-2417:46:52.123[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Allergy dropdown
+[INFO ]2026-03-2417:46:52.124[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:46:52.503[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:46:52.513[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:46:52.514[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:46:54.234[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:46:54.235[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:47:14.466[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Food Preference dropdown.png
+[INFO ]2026-03-2417:47:14.596[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2417:47:14.597[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:47:14.986[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:47:15.001[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:47:15.001[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:47:16.833[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:47:16.839[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:47:37.095[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Food Preference dropdown.png
+[INFO ]2026-03-2417:47:37.228[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2417:47:37.228[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:47:37.585[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:47:37.598[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:47:37.599[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:47:39.336[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:47:39.342[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:47:59.541[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Food Preference dropdown.png
+[INFO ]2026-03-2417:47:59.688[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2417:47:59.688[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:48:00.049[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:48:00.071[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:48:00.071[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:48:02.258[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:48:02.259[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:48:22.495[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Food Preference dropdown.png
+[INFO ]2026-03-2417:48:22.661[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2417:48:22.661[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:48:23.042[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:48:23.058[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:48:23.058[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:48:24.773[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:48:24.774[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:48:44.952[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Food Preference dropdown.png
+[INFO ]2026-03-2417:48:45.079[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Food Preference dropdown
+[INFO ]2026-03-2417:48:45.079[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:48:45.534[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:48:45.545[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:48:45.545[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:48:47.335[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:48:47.339[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:49:07.607[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Food Preference dropdown.png
+[INFO ]2026-03-2417:49:07.748[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Food Preference dropdown
+[INFO ]2026-03-2417:49:07.748[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:49:08.154[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:49:08.166[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:49:08.166[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:49:09.908[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:49:09.910[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:49:30.157[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Food Preference dropdown.png
+[INFO ]2026-03-2417:49:30.290[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Food Preference dropdown
+[INFO ]2026-03-2417:49:30.290[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:49:30.671[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:49:30.687[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:49:30.687[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:49:32.798[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:49:32.798[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:49:53.004[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Food Preference dropdown.png
+[INFO ]2026-03-2417:49:53.143[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Food Preference dropdown
+[INFO ]2026-03-2417:49:53.143[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:49:53.507[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:49:53.522[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:49:53.523[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:49:55.189[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:49:55.193[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:50:15.454[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Food Preference dropdown.png
+[INFO ]2026-03-2417:50:15.602[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Food Preference dropdown
+[INFO ]2026-03-2417:50:15.602[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:50:15.979[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:50:16.002[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:50:16.002[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:50:17.786[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:50:17.790[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:50:38.057[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Selecting a value not present in Food Preference dropdown.png
+[INFO ]2026-03-2417:50:38.192[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Food Preference dropdown
+[INFO ]2026-03-2417:50:38.192[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:50:38.585[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:50:38.597[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:50:38.598[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:50:40.313[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:50:40.317[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:51:00.529[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Selecting a value not present in Food Preference dropdown.png
+[INFO ]2026-03-2417:51:00.685[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Food Preference dropdown
+[INFO ]2026-03-2417:51:00.685[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:51:01.072[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:51:01.087[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:51:01.087[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:51:02.952[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:51:02.953[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:51:23.157[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Selecting a value not present in Food Preference dropdown.png
+[INFO ]2026-03-2417:51:23.293[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Food Preference dropdown
+[INFO ]2026-03-2417:51:23.296[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:51:23.716[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:51:23.728[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:51:23.730[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:51:25.488[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:51:25.492[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:51:45.722[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Selecting a value not present in Food Preference dropdown.png
+[INFO ]2026-03-2417:51:45.858[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Food Preference dropdown
+[INFO ]2026-03-2417:51:45.859[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:51:46.284[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:51:46.295[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:51:46.296[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:51:47.817[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:51:47.821[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:52:08.034[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Cuisine Category dropdown.png
+[INFO ]2026-03-2417:52:08.164[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Cuisine Category dropdown
+[INFO ]2026-03-2417:52:08.165[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:52:08.524[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:52:08.546[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:52:08.546[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:52:10.542[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:52:10.543[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:52:30.739[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Cuisine Category dropdown.png
+[INFO ]2026-03-2417:52:30.884[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Cuisine Category dropdown
+[INFO ]2026-03-2417:52:30.884[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:52:31.250[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:52:31.267[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:52:31.267[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:52:32.854[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:52:32.859[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:52:53.075[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Cuisine Category dropdown.png
+[INFO ]2026-03-2417:52:53.205[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Cuisine Category dropdown
+[INFO ]2026-03-2417:52:53.205[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:52:53.586[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:52:53.598[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:52:53.598[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:52:55.378[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:52:55.379[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:53:15.578[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Cuisine Category dropdown.png
+[INFO ]2026-03-2417:53:15.709[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Cuisine Category dropdown
+[INFO ]2026-03-2417:53:15.711[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:53:16.055[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:53:16.073[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:53:16.074[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:53:18.018[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:53:18.021[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:53:38.290[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select a single value from Cuisine Category dropdown.png
+[INFO ]2026-03-2417:53:38.450[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select a single value from Cuisine Category dropdown
+[INFO ]2026-03-2417:53:38.450[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:53:38.855[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:53:38.876[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:53:38.877[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:53:40.511[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:53:40.513[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:54:00.766[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Cuisine Category dropdown.png
+[INFO ]2026-03-2417:54:00.934[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Cuisine Category dropdown
+[INFO ]2026-03-2417:54:00.934[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:54:01.393[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:54:01.413[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:54:01.414[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:54:03.368[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:54:03.369[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:54:23.587[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Cuisine Category dropdown.png
+[INFO ]2026-03-2417:54:23.748[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Cuisine Category dropdown
+[INFO ]2026-03-2417:54:23.749[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:54:24.136[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:54:24.153[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:54:24.153[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:54:25.994[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:54:25.996[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:54:46.212[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Select multiple values from Cuisine Category dropdown.png
+[INFO ]2026-03-2417:54:46.356[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Select multiple values from Cuisine Category dropdown
+[INFO ]2026-03-2417:54:46.357[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:54:46.765[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:54:46.777[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:54:46.777[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:54:48.460[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:54:48.465[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:55:08.763[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Selecting a value not present in Cuisine Category dropdown.png
+[INFO ]2026-03-2417:55:08.920[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Cuisine Category dropdown
+[INFO ]2026-03-2417:55:08.920[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:55:09.344[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:55:09.421[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:55:09.421[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:55:11.718[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:55:11.722[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:55:32.026[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Selecting a value not present in Cuisine Category dropdown.png
+[INFO ]2026-03-2417:55:32.181[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Cuisine Category dropdown
+[INFO ]2026-03-2417:55:32.181[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:55:32.554[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:55:32.576[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:55:32.576[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:55:34.252[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:55:34.256[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:55:54.501[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Selecting a value not present in Cuisine Category dropdown.png
+[INFO ]2026-03-2417:55:54.646[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Selecting a value not present in Cuisine Category dropdown
+[INFO ]2026-03-2417:55:54.646[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:55:54.902[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:55:54.938[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:55:54.938[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:55:56.512[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:55:56.515[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:56:16.745[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2417:56:16.902[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2417:56:16.902[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:56:17.272[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:56:17.349[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:56:17.350[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:56:19.145[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:56:19.151[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:56:39.361[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2417:56:39.544[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2417:56:39.545[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:56:39.935[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:56:39.981[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:56:39.982[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:56:42.116[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:56:42.118[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:57:02.405[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2417:57:02.579[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2417:57:02.579[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:57:02.934[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:57:02.976[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:57:02.976[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:57:04.671[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:57:04.676[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:57:24.937[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2417:57:25.112[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2417:57:25.112[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:57:25.474[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:57:25.495[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:57:25.495[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:57:27.182[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:57:27.185[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:57:47.445[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2417:57:47.592[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2417:57:47.592[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:57:47.946[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:57:47.961[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:57:47.962[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:57:49.482[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:57:49.487[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:58:09.711[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2417:58:09.878[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2417:58:09.878[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:58:10.254[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:58:10.282[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:58:10.282[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:58:11.963[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:58:11.967[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:58:32.212[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2417:58:32.357[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2417:58:32.358[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:58:32.706[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:58:32.720[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:58:32.720[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:58:34.487[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:58:34.489[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:58:54.720[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2417:58:54.871[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2417:58:54.871[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:58:55.220[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:58:55.237[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:58:55.237[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:58:57.013[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:58:57.015[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:59:17.343[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2417:59:17.479[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2417:59:17.479[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:59:17.839[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:59:17.858[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:59:17.859[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:59:19.618[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:59:19.621[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2417:59:39.890[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2417:59:40.024[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2417:59:40.024[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2417:59:40.371[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2417:59:40.393[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2417:59:40.394[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2417:59:42.011[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2417:59:42.014[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:00:02.312[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2418:00:02.474[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2418:00:02.474[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:00:02.823[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:00:02.841[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:00:02.842[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:00:04.500[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:00:04.502[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:00:24.740[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2418:00:24.906[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2418:00:24.907[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:00:25.288[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:00:25.306[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:00:25.306[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:00:26.954[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:00:26.955[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:00:47.228[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2418:00:47.392[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2418:00:47.392[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:00:47.771[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:00:47.789[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:00:47.789[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:00:49.439[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:00:49.441[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:01:09.699[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate DOB field with different inputs.png
+[INFO ]2026-03-2418:01:09.829[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB field with different inputs
+[INFO ]2026-03-2418:01:09.829[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:01:10.188[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:01:10.206[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:01:10.207[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:01:11.953[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:01:11.960[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:01:32.179[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate name fields (First Name _ Last Name).png
+[INFO ]2026-03-2418:01:32.323[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate name fields (First Name / Last Name)
+[INFO ]2026-03-2418:01:32.323[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:01:32.702[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:01:32.713[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:01:32.713[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:01:34.317[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:01:34.321[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:01:54.578[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate name fields (First Name _ Last Name).png
+[INFO ]2026-03-2418:01:54.761[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate name fields (First Name / Last Name)
+[INFO ]2026-03-2418:01:54.761[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:01:55.123[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:01:55.146[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:01:55.146[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:01:56.890[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:01:56.891[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:02:17.086[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate name fields (First Name _ Last Name).png
+[INFO ]2026-03-2418:02:17.228[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate name fields (First Name / Last Name)
+[INFO ]2026-03-2418:02:17.228[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:02:17.584[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:02:17.604[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:02:17.604[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:02:19.269[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:02:19.274[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:02:39.558[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate name fields (First Name _ Last Name).png
+[INFO ]2026-03-2418:02:39.705[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate name fields (First Name / Last Name)
+[INFO ]2026-03-2418:02:39.705[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:02:40.071[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:02:40.083[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:02:40.083[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:02:41.657[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:02:41.663[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:03:01.889[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate name fields (First Name _ Last Name).png
+[INFO ]2026-03-2418:03:02.031[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate name fields (First Name / Last Name)
+[INFO ]2026-03-2418:03:02.031[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:03:02.405[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:03:02.421[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:03:02.421[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:03:04.172[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:03:04.173[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:03:24.382[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate name fields (First Name _ Last Name).png
+[INFO ]2026-03-2418:03:24.514[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate name fields (First Name / Last Name)
+[INFO ]2026-03-2418:03:24.514[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:03:24.841[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:03:24.855[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:03:24.855[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:03:26.691[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:03:26.693[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:03:46.948[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate Email field.png
+[INFO ]2026-03-2418:03:47.077[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Email field
+[INFO ]2026-03-2418:03:47.077[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:03:47.464[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:03:47.475[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:03:47.475[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:03:49.254[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:03:49.256[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:04:09.514[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate Email field.png
+[INFO ]2026-03-2418:04:09.666[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Email field
+[INFO ]2026-03-2418:04:09.666[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:04:10.068[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:04:10.088[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:04:10.088[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:04:11.447[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:04:11.452[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:04:31.774[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate Email field.png
+[INFO ]2026-03-2418:04:31.928[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Email field
+[INFO ]2026-03-2418:04:31.928[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:04:32.451[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:04:32.499[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:04:32.501[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:04:34.926[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:04:34.937[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:04:55.342[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate Email field.png
+[INFO ]2026-03-2418:04:55.574[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Email field
+[INFO ]2026-03-2418:04:55.575[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:04:55.902[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:04:55.981[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:04:55.981[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:04:57.587[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:04:57.590[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:05:17.994[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate Email field.png
+[INFO ]2026-03-2418:05:18.293[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Email field
+[INFO ]2026-03-2418:05:18.293[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:05:18.696[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:05:18.756[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:05:18.756[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:05:20.386[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:05:20.391[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:05:40.697[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate Email field.png
+[INFO ]2026-03-2418:05:40.943[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Email field
+[INFO ]2026-03-2418:05:40.943[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:05:41.311[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:05:41.392[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:05:41.403[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:05:42.955[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:05:42.956[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2418:06:03.228[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Validate Contact Number field.png
+[INFO ]2026-03-2418:06:03.394[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Contact Number field
+[INFO ]2026-03-2418:06:03.394[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2418:06:03.790[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2418:06:03.896[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2418:06:03.896[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2418:06:05.814[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2418:06:05.820[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:10:47.582[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:10:47.588[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:10:52.050[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:10:52.134[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:10:52.335[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:10:54.288[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:10:54.288[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:10:54.708[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:10:54.758[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:10:54.760[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:10:56.555[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:10:56.565[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:10:56.702[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:10:56.812[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:10:56.812[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:10:57.028[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:10:57.054[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:10:57.054[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:10:58.601[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:10:58.615[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:10:58.761[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:10:59.810[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:10:59.812[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:00.073[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:00.091[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:00.094[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:01.609[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:01.614[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:01.759[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:05.289[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:05.289[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:05.982[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:05.997[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:05.997[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:07.586[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:07.591[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:07.715[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:07.820[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:07.820[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:08.081[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:08.090[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:08.091[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:09.662[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:09.670[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:09.805[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:09.905[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:09.907[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:10.159[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:10.181[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:10.182[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:11.761[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:11.764[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:11.908[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:12.007[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:12.007[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:12.270[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:12.291[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:12.292[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:13.719[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:13.726[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:13.874[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:15.003[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:15.004[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:15.271[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:15.285[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:15.286[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:17.000[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:17.008[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:17.162[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:18.486[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:18.486[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:18.764[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:18.789[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:18.790[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:20.636[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:20.649[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:20.822[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:20.924[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:20.924[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:21.224[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:21.236[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:21.237[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:22.988[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:22.993[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:23.149[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:23.702[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:23.703[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:23.961[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:23.970[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:23.970[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:25.843[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:25.851[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:26.018[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:26.113[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:26.115[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:26.379[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:26.388[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:26.388[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:28.082[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:28.087[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:28.250[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:28.343[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:28.343[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:28.636[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:28.649[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:28.650[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:30.507[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:30.511[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:30.668[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:32.069[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:32.069[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:32.371[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:32.380[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:32.382[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:34.270[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:34.272[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:34.436[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:35.969[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:35.969[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:36.398[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:36.410[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:36.411[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:38.240[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:38.249[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:38.412[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:39.719[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:39.720[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:39.999[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:40.013[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:40.014[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:41.686[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:41.692[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:41.847[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:42.597[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:42.597[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:42.980[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:42.986[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:42.986[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:44.840[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:44.846[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:44.996[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:46.319[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:46.319[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:46.635[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:46.649[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:46.649[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:48.319[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:48.332[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:48.487[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:49.657[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:49.658[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:50.037[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:50.045[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:50.045[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:51.878[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:51.881[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:52.050[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:53.194[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:53.194[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:53.510[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:53.518[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:53.519[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:55.142[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:55.148[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:55.306[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:56.467[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:56.468[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:11:56.757[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:11:56.766[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:11:56.766[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:11:58.390[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:11:58.395[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:11:58.546[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:11:59.766[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:11:59.766[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:12:00.012[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:12:00.025[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:12:00.026[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:12:01.694[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:12:01.700[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:12:01.835[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:12:01.944[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:12:01.944[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:12:02.205[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:12:02.222[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:12:02.222[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:12:03.804[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:12:03.806[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:12:03.966[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:12:04.269[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:12:04.269[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:12:04.535[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:12:04.548[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:12:04.549[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:12:06.202[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:12:06.206[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:12:06.325[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:12:06.426[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:12:06.426[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:12:06.709[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:12:06.728[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:12:06.729[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:12:08.536[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:12:08.538[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2419:12:08.682[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2419:12:08.771[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2419:12:08.771[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:12:09.018[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:12:09.025[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:12:09.026[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:12:10.602[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:12:10.605[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:12:30.970[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Successful patient creation with valid inputs.png
+[INFO ]2026-03-2419:12:31.194[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Successful patient creation with valid inputs
+[INFO ]2026-03-2419:12:31.194[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:12:31.454[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:12:31.465[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:12:31.465[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:12:35.403[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:12:35.404[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:12:55.814[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Presence of dropdown values in Allergy.png
+[INFO ]2026-03-2419:12:56.032[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Presence of dropdown values in Allergy
+[INFO ]2026-03-2419:12:56.032[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:12:56.309[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:12:56.320[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:12:56.320[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:12:57.936[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:12:57.943[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:13:18.285[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Number of values in Allergy dropdown.png
+[INFO ]2026-03-2419:13:18.475[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Number of values in Allergy dropdown
+[INFO ]2026-03-2419:13:18.475[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:13:18.815[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:13:18.838[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:13:18.840[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:13:20.427[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:13:20.432[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:13:40.770[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:13:41.011[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:13:41.011[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:13:41.376[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:13:41.392[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:13:41.393[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:13:43.088[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:13:43.093[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:14:03.436[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:14:03.711[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:14:03.711[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:14:04.065[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:14:04.090[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:14:04.091[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:14:06.361[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:14:06.365[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:14:26.668[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:14:26.882[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:14:26.882[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:14:27.144[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:14:27.159[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:14:27.161[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:14:29.019[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:14:29.021[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:14:49.440[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:14:49.681[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:14:49.681[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:14:50.060[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:14:50.072[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:14:50.073[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:14:51.972[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:14:51.976[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:15:12.374[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:15:12.573[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:15:12.574[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:15:12.917[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:15:12.929[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:15:12.930[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:15:14.792[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:15:14.798[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:15:35.197[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:15:35.448[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:15:35.448[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:15:35.772[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:15:35.784[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:15:35.784[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:15:37.456[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:15:37.459[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:15:57.886[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:15:58.168[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:15:58.168[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:15:58.518[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:15:58.534[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:15:58.535[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:16:03.216[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:16:03.223[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:16:23.574[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:16:23.813[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:16:23.813[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:16:24.220[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:16:24.244[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:16:24.252[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:16:25.855[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:16:25.857[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:16:46.181[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:16:46.395[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:16:46.395[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:16:46.755[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:16:46.781[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:16:46.782[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:16:48.657[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:16:48.658[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:17:09.011[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:17:09.243[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:17:09.244[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:17:09.513[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:17:09.520[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:17:09.521[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:17:11.558[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:17:11.563[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:17:31.939[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:17:32.094[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:17:32.094[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:17:32.434[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:17:32.451[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:17:32.453[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:17:33.986[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:17:33.988[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:17:54.376[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Allergy dropdown.png
+[INFO ]2026-03-2419:17:54.701[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Allergy dropdown
+[INFO ]2026-03-2419:17:54.701[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:17:55.916[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:17:55.932[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:17:55.932[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:17:58.183[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:17:58.197[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:18:18.939[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Presence of dropdown values in food presence.png
+[INFO ]2026-03-2419:18:19.169[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Presence of dropdown values in food presence
+[INFO ]2026-03-2419:18:19.169[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:18:19.918[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:18:19.949[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:18:19.950[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:18:21.700[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:18:21.706[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:18:41.910[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Number of values in Food Preference dropdown.png
+[INFO ]2026-03-2419:18:42.049[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Number of values in Food Preference dropdown
+[INFO ]2026-03-2419:18:42.049[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:18:42.399[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:18:42.417[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:18:42.418[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:18:44.044[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:18:44.046[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:19:04.415[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Food Preference dropdown.png
+[INFO ]2026-03-2419:19:04.670[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2419:19:04.671[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:19:04.977[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:19:04.991[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:19:04.993[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:19:06.619[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:19:06.624[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:19:26.930[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Food Preference dropdown.png
+[INFO ]2026-03-2419:19:27.148[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2419:19:27.148[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:19:27.437[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:19:27.444[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:19:27.446[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:19:29.151[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:19:29.157[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2419:19:49.535[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify each value in Food Preference dropdown.png
+[INFO ]2026-03-2419:19:49.771[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify each value in Food Preference dropdown
+[INFO ]2026-03-2419:19:49.771[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2419:19:50.096[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2419:19:50.104[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2419:19:50.105[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2419:19:51.765[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2419:19:51.767[main]stepDefinitions.AddPatient_Step1)-Checking if Add Patient Details Dialog Box is open...
+[INFO ]2026-03-2508:54:55.381[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:54:55.388[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:55:00.270[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2508:55:00.344[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2508:55:00.537[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2508:55:01.830[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2508:55:01.830[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2508:55:01.831[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2508:55:02.026[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:55:02.028[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:55:04.464[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2508:55:04.475[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2508:55:04.684[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2508:55:06.328[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2508:55:06.332[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2508:55:06.333[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2508:55:06.549[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:55:06.549[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:55:09.190[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2508:55:09.219[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2508:55:09.493[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2508:55:11.432[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2508:55:11.438[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2508:55:11.438[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2508:55:11.726[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:55:11.732[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:55:17.342[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2508:55:17.353[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2508:55:17.564[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2508:55:17.720[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2508:55:17.720[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2508:55:17.720[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2508:55:17.854[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:55:17.856[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:55:20.473[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2508:55:20.481[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2508:55:20.689[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2508:55:20.845[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2508:55:20.845[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2508:55:20.845[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2508:55:21.053[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:55:21.059[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:55:25.447[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2508:55:25.459[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2508:55:29.061[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2508:55:29.641[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2508:55:29.641[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2508:55:29.641[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2508:55:29.799[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:55:29.801[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:55:36.809[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2508:55:37.057[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2508:55:38.509[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2508:55:39.011[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:55:39.012[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:56:06.172[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:56:06.176[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:56:09.997[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2508:56:10.061[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2508:56:10.306[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2508:56:10.441[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2508:56:10.442[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2508:56:10.443[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2508:56:10.770[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:56:10.770[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:56:14.829[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2508:56:14.859[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2508:56:15.009[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2508:56:16.359[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2508:56:16.360[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2508:56:16.361[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2508:56:16.697[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:56:16.697[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:56:19.378[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2508:56:19.408[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2508:56:19.614[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png
+[INFO ]2026-03-2508:56:22.597[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Verify UI elements in Add Patient Dialog
+[INFO ]2026-03-2508:56:22.597[main]utils.LoggerLoad1)-Tearing down WebDriver and closing browser
+[INFO ]2026-03-2508:56:22.597[main]utils.LoggerLoad1)-Driver removed from ThreadLocal
+[INFO ]2026-03-2508:56:22.715[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2508:56:22.715[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2508:56:25.788[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2508:56:25.804[main]stepDefinitions.AddPatient_Step1)-Checking that user is on Home Page
+[INFO ]2026-03-2508:56:26.059[main]utils.LoggerLoad1)-Screenshot saved to: C:\Users\anand\OneDrive\Team03-DieticianProjectApplication\Team03Dietician_Project\.\target\screenshots\Verify UI elements in Add Patient Dialog.png

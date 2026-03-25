@@ -7,8 +7,8 @@ import io.cucumber.testng.CucumberOptions;
 	
 
 @CucumberOptions(
-	    features = "src/test/resources/FeatureFiles/01_Login.feature", // Path to your feature files
-	    //tags =  "",
+	    features = "src/test/resources/FeatureFiles", // Path to your feature files
+	    tags =  "@AddPatient",
 	    glue = "stepDefinitions", // Package where your step definitions are located
 //	    plugin = {
 //	        "pretty", // Pretty formatting for console output
