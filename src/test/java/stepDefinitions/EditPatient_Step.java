@@ -1,7 +1,20 @@
 package stepDefinitions;
 import io.cucumber.java.en.*;
+import pageObject.EditPatient_PageObject;
+import pageObject.PageObjectManager;
+import utils.TestContext;
 
 public class EditPatient_Step {
+	public TestContext context;
+	EditPatient_PageObject editPatientPage;
+	PageObjectManager poManager;
+	
+	public EditPatient_Step(TestContext context)
+	{
+		this.context=context;
+		this.editPatientPage = context.poManager.getEditPatientPage();
+	}
+		
 	@Given("User logged into the app and user is in my patient page")
 	public void user_logged_into_the_app_and_user_is_in_my_patient_page() {
 	    // Write code here that turns the phrase above into concrete actions
@@ -19,6 +32,21 @@ public class EditPatient_Step {
 	    // Write code here that turns the phrase above into concrete actions
 	    throw new io.cucumber.java.PendingException();
 	}
+	
+	@When("User checks dropdown {string} after clicks edit icon for the particular patient")
+	public void user_checks_dropdown_after_clicks_edit_icon_for_the_particular_patient(String string) {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("User should see  {string} popsup on the dialog box")
+	public void user_should_see_popsup_on_the_dialog_box(String string) {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	//------------------------------------------Data Validation---------------------------------------------------------------------------------
+	
 
 	@Given("User clicks edit icon for the particular patient and sees the edit popup window")
 	public void user_clicks_edit_icon_for_the_particular_patient_and_sees_the_edit_popup_window() {
@@ -44,11 +72,11 @@ public class EditPatient_Step {
 	    throw new io.cucumber.java.PendingException();
 	}
 
-	@Then("User should be redirected to the {string} page")
-	public void user_should_be_redirected_to_the_page(String string) {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
-	}
+//	@Then("User should be redirected to the {string} page")
+//	public void user_should_be_redirected_to_the_page(String string) {
+//	    // Write code here that turns the phrase above into concrete actions
+//	    throw new io.cucumber.java.PendingException();
+//	}
 
 	@Then("User should see updated values from Excel for {string} in My Patient table")
 	public void user_should_see_updated_values_from_excel_for_in_my_patient_table(String string) {

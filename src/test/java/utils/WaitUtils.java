@@ -2,81 +2,68 @@ package utils;
 
 import java.time.Duration;
 import java.util.List;
-
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.TimeoutException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import driverManager.DriverFactory;
-
 public class WaitUtils {
-	
-	private final WebDriverWait wait;
-	private final WebDriver driver;
 
-	public WaitUtils() {
-		this.driver = DriverFactory.getDriver();
-		this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-	}
+    private final WebDriver driver;
+    private final WebDriverWait wait;
 
-	public WebElement waitForClickable(WebElement element) {
-		return wait.until(ExpectedConditions.elementToBeClickable(element));
-	}
-	public void waitForPageLoad() {
-		wait.until((WebDriver driver) -> 
-	    ((JavascriptExecutor) driver)
-	        .executeScript("return document.readyState")
-	        .equals("complete")
-	);	}
+    public WaitUtils(WebDriver driver, int defaultTimeoutSeconds) {
+        this.driver = driver;
+        this.wait = new WebDriverWait(driver, Duration.ofSeconds(defaultTimeoutSeconds));
+    }
 
-	public boolean waitForVisibilityOfAll(List<WebElement> elements) {
+    public WebElement waitForClickable(WebElement element) {
+        return wait.until(ExpectedConditions.elementToBeClickable(element));
+    }
 
-		try {
-			wait.until(ExpectedConditions.visibilityOfAllElements(elements));
-			return !elements.isEmpty();
-		} catch (TimeoutException e) {
-			return false;
-		}
-	}
+    public void waitForPageLoad() {
+        wait.until(d -> ((JavascriptExecutor) d).executeScript("return document.readyState").equals("complete"));
+    }
 
-	public static void waitForUrlContains(WebDriver driver, String fragment, int timeoutSeconds) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(timeoutSeconds));
-		wait.until(ExpectedConditions.urlContains(fragment));
-	}
+    public boolean waitForVisibilityOfAll(List<WebElement> elements) {
+        try {
+            wait.until(ExpectedConditions.visibilityOfAllElements(elements));
+            return !elements.isEmpty();
+        } catch (TimeoutException e) {
+            return false;
+        }
+    }
 
-	public static WebElement waitForVisibility(WebDriver driver, WebElement element, int timeoutSeconds) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(timeoutSeconds));
-		return wait.until(ExpectedConditions.visibilityOf(element));
-	}
+    public static void waitForUrlContains(WebDriver driver, String fragment, int timeoutSeconds) {
+        new WebDriverWait(driver, Duration.ofSeconds(timeoutSeconds))
+            .until(ExpectedConditions.urlContains(fragment));
+    }
 
-	public static String getVisibleText(WebDriver driver, WebElement loginAlert, int timeoutSeconds) {
-		return waitForVisibility(driver, loginAlert, timeoutSeconds).getText().trim();
-	}
+    public static WebElement waitForVisibility(WebDriver driver, WebElement element, int timeoutSeconds) {
+        return new WebDriverWait(driver, Duration.ofSeconds(timeoutSeconds))
+            .until(ExpectedConditions.visibilityOf(element));
+    }
 
-	public static boolean isVisible(WebDriver driver, WebElement element, int timeoutSeconds) {
-		try {
-			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(timeoutSeconds));
-			wait.until(ExpectedConditions.visibilityOf(element));
-			return true;
-		} catch (TimeoutException e) {
-			return false;
-		}
-	}
+    public static String getVisibleText(WebDriver driver, WebElement element, int timeoutSeconds) {
+        return waitForVisibility(driver, element, timeoutSeconds).getText().trim();
+    }
 
-	public String waitForCodeMirrorOutput(String elementId, int timeoutSeconds) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(timeoutSeconds));
+    public static boolean isVisible(WebDriver driver, WebElement element, int timeoutSeconds) {
+        try {
+            new WebDriverWait(driver, Duration.ofSeconds(timeoutSeconds))
+                .until(ExpectedConditions.visibilityOf(element));
+            return true;
+        } catch (TimeoutException e) {
+            return false;
+        }
+    }
 
-		WebElement output = wait.until(driver -> {
-			WebElement el = driver.findElement(By.id(elementId));
-			String text = el.getAttribute("textContent").trim();
-			return !text.isEmpty() ? el : null;
-		});
-
-		return output.getAttribute("textContent").trim();
-	}
-
+    public String waitForCodeMirrorOutput(String elementId, int timeoutSeconds) {
+        WebDriverWait customWait = new WebDriverWait(driver, Duration.ofSeconds(timeoutSeconds));
+        WebElement output = customWait.until(d -> {
+            WebElement el = d.findElement(By.id(elementId));
+            String text = el.getAttribute("textContent").trim();
+            return !text.isEmpty() ? el : null;
+        });
+        return output.getAttribute("textContent").trim();
+    }
 }

@@ -9,23 +9,33 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObject.Login_PageObject;
+import utils.LoggerLoad;
+import utils.TestContext;
 
 public class Login_Step {
 	boolean isVisible;
 	String actualColor;
 	
-	Login_PageObject loginObj = new Login_PageObject();
+	//Login_PageObject loginObj = new Login_PageObject();
+	
+	private TestContext context;
+    private Login_PageObject loginObj;
+
+    public Login_Step(TestContext context) {
+        this.context = context;
+       // this.context.loginObj = this;
+    }
 	
 	@Given("User is on the browser")
 	public void user_is_on_the_browser() {
-		
-		
+		loginObj.browserIsOpen();
+		LoggerLoad.info("Browser is open and ready");
 	}
 
 	@When("user enters app url")
 	public void user_enters_app_url() {
-	    
-	    
+		String currentUrl = loginObj.getPageUrl();
+		LoggerLoad.info("Navigated to URL: "+ currentUrl);	    
 	}
 
 	@Then("User should see the {string} on {string} side of Navigation bar in login page")

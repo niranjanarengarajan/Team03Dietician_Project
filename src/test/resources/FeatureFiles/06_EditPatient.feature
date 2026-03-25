@@ -13,9 +13,9 @@ Then User should see  "<element>" on the dialog box
 Examples:
 |element                |
 |Title                  |
-|Submit button          |
+|Submit button Presence |
 |State of submit button |
-|Close button           |
+|Close button Presence  |
 |State of close button  |
 |9 Input field          |
 |3 DropDown count       |
@@ -24,9 +24,6 @@ Examples:
 |Lastname Field         | 
 |Email Field            |
 |Contact Number Field   |
-|Allergy info           | 
-|Food Preference        |
-|Cuisine Preference     |
 |Date Of Birth          | 
 |Sub Title Vitals       |
 |SP Field               |
@@ -37,6 +34,17 @@ Examples:
 |Upload Health Lable    |
 |No File Chosen Text    |
 |Close button color     |
+
+
+Scenario Outline: Validate dropdown <element> EditPatient dialogue box
+When User checks dropdown "<element>" after clicks edit icon for the particular patient 
+Then User should see  "<element>" popsup on the dialog box
+
+Examples:
+|element                |
+|Allergy info           | 
+|Food Preference        |
+|Cuisine Preference     |
 
 #--------------Data validation---------------------------------------------------------------------
 
@@ -55,7 +63,7 @@ Examples:
   | Last Name Field      | Last Name     |
   | Email Field          | Email         |
   | Contact Number Field | Contact       |
-  | File Upload          | No file chosen|
+  
   
  Scenario Outline: Validate edit patient functionality for valid data - <ScenarioName>
   When User clicks the "Submit" button after entering valid data from Excel for "<ScenarioName>" edit window
@@ -157,7 +165,7 @@ Examples:
   | Boundary Year                  |
   | NonLeapYear                    |
   
-  Scenario Outline: Validate File upload functionality for invalid - <ScenarioName>
+  Scenario Outline: Validate File upload functionality for validAndInvalid - <ScenarioName>
   When User uploads file for "<ScenarioName>" from excel for editPatient
   And  User clicks the "Submit" button in edit window
   Then User should see the error message "<ErrorMessage>" from Excel

@@ -8,8 +8,15 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import driverManager.DriverFactory;
+import utils.LoggerLoad;
 
 public class Login_PageObject {
+	
+	public Login_PageObject() {
+		//this.driver = DriverFactory.getDriver();
+//		this.driver = driver;
+		PageFactory.initElements(driver, this);
+	}
 	
 	private WebDriver driver;
 	private WebElement element;
@@ -43,11 +50,6 @@ public class Login_PageObject {
 	
 	@FindBy (xpath="//input") 
 	private List<WebElement> inputFields;
-
-	public Login_PageObject() {
-		this.driver = DriverFactory.getDriver();
-		PageFactory.initElements(driver, this);
-	}
 
 	public String elementLeftAligned(String scenario) {
 		switch (scenario) {
@@ -135,8 +137,17 @@ public class Login_PageObject {
 		passwordField.sendKeys(password);
 	}
 	
-	public void getPageUrl(String page) {
-//		String url = driver.getCurrentUrl();
-//		return url;
+	public String getPageUrl() {
+		String url = driver.getCurrentUrl();
+		return url;
+	}
+	
+	public void browserIsOpen() {
+		LoggerLoad.info("Checking if browser is initialized.");
+		if (driver == null) {
+			LoggerLoad.error("WebDriver is not initialized.");
+			throw new IllegalStateException("WebDriver is not initialized");
+		}
+		LoggerLoad.info("WebDriver is active.");
 	}
 }
