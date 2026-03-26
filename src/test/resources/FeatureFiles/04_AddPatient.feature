@@ -1,4 +1,4 @@
-@AddPatient  @Login  
+@AddPatient @Login 
 Feature: Add Patient Dialog Box -Validation   
 
 Rule: Basic Add Patient Dialog Box UI Validation
@@ -369,6 +369,10 @@ Examples:
 | largefile  | File size exceeds the allowed limit                 |
 | none       | Patient created successfully without file           |
 
+
+Scenario: Upload without selecting file
+    When User clicks Submit button after User enters valid patient details and skips file upload
+    Then User is directed to My Patient Page with New Patient Details created
 
 Scenario: Close add dialog using Close button
 When User clicks Close button after submit in the Add patient detail page

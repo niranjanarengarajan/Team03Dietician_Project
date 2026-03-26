@@ -11,9 +11,9 @@ public class WaitUtils {
     private final WebDriver driver;
     private final WebDriverWait wait;
 
-    public WaitUtils(WebDriver driver, int defaultTimeoutSeconds) {
+    public WaitUtils(WebDriver driver) {
         this.driver = driver;
-        this.wait = new WebDriverWait(driver, Duration.ofSeconds(defaultTimeoutSeconds));
+        this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));
     }
 
     public WebElement waitForClickable(WebElement element) {

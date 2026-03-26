@@ -52,7 +52,7 @@ public class DriverFactory {
 		}
 	}
 
-	public WebDriver getDriver() {
+	public static WebDriver getDriver() {
 		logger.debug("Fetching WebDriver instance from ThreadLocal.");
 		return mydriver.get();
 	}
