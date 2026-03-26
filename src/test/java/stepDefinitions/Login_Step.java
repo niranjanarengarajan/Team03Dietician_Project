@@ -10,12 +10,21 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObject.Login_PageObject;
 import utils.LoggerLoad;
+import utils.TestContext;
 
 public class Login_Step {
 	boolean isVisible;
 	String actualColor;
 	
-	Login_PageObject loginObj = new Login_PageObject();
+	//Login_PageObject loginObj = new Login_PageObject();
+	
+	private TestContext context;
+    private Login_PageObject loginObj;
+
+    public Login_Step(TestContext context) {
+        this.context = context;
+       // this.context.loginObj = this;
+    }
 	
 	@Given("User is on the browser")
 	public void user_is_on_the_browser() {

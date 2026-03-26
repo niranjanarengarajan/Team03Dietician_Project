@@ -13,7 +13,7 @@ import utils.LoggerLoad;
 public class Login_PageObject {
 	
 	public Login_PageObject() {
-		this.driver = DriverFactory.getDriver();
+		//this.driver = DriverFactory.getDriver();
 //		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}

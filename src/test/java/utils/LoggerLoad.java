@@ -30,5 +30,8 @@ private static Logger logger = LogManager.getLogger();
 	{
 	logger.debug(message);
 	}
+	public static void info(String message, Object... params) {
+	    logger.info(message, params);
+	}
 
 }

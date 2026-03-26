@@ -7,7 +7,7 @@ public class PageObjectManager {
 	public WebDriver driver;
 	public Login_PageObject loginPage;
 	public Dashboard_PageObject dashboardPage;
-	public MyPatients_PageObject myPatientPage;
+	//public MyPatients_PageObject myPatientPage;
 	public AddPatient_PageObject addPatientPage;
 	public EditPatient_PageObject editPatientPage;
 	public ViewTestReport_PageObject viewReportPage;
@@ -30,17 +30,18 @@ public class PageObjectManager {
 	 return dashboardPage;
 	}
 	
-	public MyPatients_PageObject getMyPatientPage()
-	{
-	myPatientPage= new MyPatients_PageObject();
-	 return myPatientPage;
-	}
+//	public MyPatients_PageObject getMyPatientPage()
+//	{
+//	myPatientPage= new MyPatients_PageObject();
+//	 return myPatientPage;
+//	}
 	
 	public AddPatient_PageObject getAddPatientPage()
 	{
 	addPatientPage= new AddPatient_PageObject(driver);
 	 return addPatientPage;
 	}
+	
 	public EditPatient_PageObject getEditPatientPage()
 	{
 		editPatientPage= new EditPatient_PageObject(driver);
@@ -58,14 +59,6 @@ public class PageObjectManager {
 	viewReportPage= new ViewTestReport_PageObject();
 	 return viewReportPage;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 }

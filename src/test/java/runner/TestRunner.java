@@ -1,27 +1,24 @@
 package runner;
 
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Parameters;
+
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
-
-	
-
 @CucumberOptions(
-	    features = "src/test/resources/FeatureFiles/01_Login.feature", // Path to your feature files
-	    //tags =  "",
-	    glue = "stepDefinitions", // Package where your step definitions are located
-//	    plugin = {
-//	        "pretty", // Pretty formatting for console output
-//	        "html:target/cucumber-reports.html", // Generate HTML report
-//	        "json:target/cucumber-reports.json" // Generate JSON report
-	   // },
-	    monochrome = true // Clean console output
-	)
-	public class TestRunner extends AbstractTestNGCucumberTests {
-	    // This class doesn't need any code; it's just a configuration class.
-	}
-	
-	
-	
+        features = "src/test/resources/FeatureFiles", 
+        tags= "@AddPatient",
+        glue = "stepDefinitions", 
+        plugin = { "pretty", "html:target/cucumber-html-report", "json:target/cucumber.json" },
+        monochrome = true
+)
+public class TestRunner extends AbstractTestNGCucumberTests {
+	public static ThreadLocal<String> browserName = new ThreadLocal<>();
 
-
+    @Parameters("browser")
+    @BeforeClass
+    public void setBrowser(String browser) {
+        browserName.set(browser);
+    }
+}
