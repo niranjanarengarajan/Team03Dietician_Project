@@ -7,8 +7,8 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
         plugin = {"pretty",
-                "html:target/Team03Dietician_Project.html", "json:target/cucumber.json",
-                "rerun:target/failedrerun.txt"
+                "html:target/Team03Dietician_Project.html", "json:target/cucumber.json"
+                
         }, //reporting purpose
         monochrome = true,  //console output color
         features = {"@target/failedrerun.txt"}, //location of feature files

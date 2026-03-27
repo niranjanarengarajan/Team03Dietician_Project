@@ -12,46 +12,39 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
 public class DriverFactory {
-	
+
 	public static ThreadLocal<WebDriver> mydriver = new ThreadLocal<>();
 
 	public void launchBrowser(String browser) {
 
-
-		
-
 		WebDriver driver;
 		LoggerLoad.info("Launching browser: {}", browser);
 
-
 		try {
-			
-			if (browser.equalsIgnoreCase("Chrome")){
+
+			if (browser.equalsIgnoreCase("Chrome")) {
 				ChromeOptions co = new ChromeOptions();
-										
+
 				co.addArguments("--headless=new");
 				co.setPageLoadStrategy(PageLoadStrategy.NORMAL);
-					
+
 				driver = new ChromeDriver(co);
 				mydriver.set(driver);
 				LoggerLoad.info("Chrome browser launched successfully.");
-			}
-			else if (browser.equalsIgnoreCase("Firefox")) {
-	            FirefoxOptions fo = new FirefoxOptions();
-	            fo.addArguments("-headless"); // Firefox uses a single dash
-	            driver = new FirefoxDriver(fo);
-	            mydriver.set(driver);
-	            LoggerLoad.info("Firefox browser launched successfully.");
-			}
-			else if (browser.equalsIgnoreCase("Edge")) {
-	            EdgeOptions eo = new EdgeOptions();
-	            eo.addArguments("--headless=new"); // Edge is Chromium-based
-	            driver = new EdgeDriver(eo);
-	            mydriver.set(driver);
-	            LoggerLoad.info("Edge browser launched successfully.");
-			}
-			else {
-				LoggerLoad.error("Browser not supported: "+ browser);
+			} else if (browser.equalsIgnoreCase("Firefox")) {
+				FirefoxOptions fo = new FirefoxOptions();
+				fo.addArguments("-headless"); // Firefox uses a single dash
+				driver = new FirefoxDriver(fo);
+				mydriver.set(driver);
+				LoggerLoad.info("Firefox browser launched successfully.");
+			} else if (browser.equalsIgnoreCase("Edge")) {
+				EdgeOptions eo = new EdgeOptions();
+				eo.addArguments("--headless=new"); // Edge is Chromium-based
+				driver = new EdgeDriver(eo);
+				mydriver.set(driver);
+				LoggerLoad.info("Edge browser launched successfully.");
+			} else {
+				LoggerLoad.error("Browser not supported: " + browser);
 				throw new IllegalArgumentException("Browser not supported: " + browser);
 			}
 
@@ -65,7 +58,7 @@ public class DriverFactory {
 			LoggerLoad.info("Implicit wait set to 10 seconds.");
 
 		} catch (Exception e) {
-			LoggerLoad.error("Error while launching browser: "+ e.getMessage());
+			LoggerLoad.error("Error while launching browser: " + e.getMessage());
 			throw e;
 		}
 	}
@@ -74,14 +67,14 @@ public class DriverFactory {
 		LoggerLoad.debug("Fetching WebDriver instance from ThreadLocal.");
 		return mydriver.get();
 	}
-	
+
 	public void closeDriver() {
-	    if (getDriver() != null) {
-	        getDriver().quit();
-	        mydriver.remove(); // This clears the thread memory
-	        LoggerLoad.info("Driver quit and removed from ThreadLocal.");
-	    }
-	
+		if (getDriver() != null) {
+			getDriver().quit();
+			mydriver.remove(); // This clears the thread memory
+			LoggerLoad.info("Driver quit and removed from ThreadLocal.");
+		}
+
 	}
-	
+
 }

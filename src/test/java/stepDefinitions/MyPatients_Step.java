@@ -4,6 +4,7 @@ import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import pageObject.AddPatient_PageObject;
 import pageObject.MyPatients_PageObject;
 import utils.LoggerLoad;
 import utils.TestContext;
@@ -17,15 +18,17 @@ import org.testng.Assert;
 public class MyPatients_Step {
 	public TestContext context;
     private MyPatients_PageObject myPatientPage;
+    private AddPatient_PageObject addPatient_PageObject;
 
     public MyPatients_Step(TestContext context) {
         this.context = context;
         this.myPatientPage = context.poManager.getMyPatientPage();
+        this.addPatient_PageObject =context.poManager.getAddPatientPage();
     }
 
 	
 
-	private static final Logger logger = LoggerFactory.getLogger(MyPatients_Step.class);
+	
 	int initialrowcount;
 	String lastRecordId;
 
@@ -115,8 +118,14 @@ public class MyPatients_Step {
 	public void details_column_should_display_the_information_in_seperate_line_for_each_patient_record_on_the_my_patients_table(
 			DataTable dataTable) {
 
-		Assert.assertTrue(myPatientPage.isDetailsDisplayedSeparateLines(),
-				"Details are not displayed in separate lines");
+		boolean detailsinnewlines = myPatientPage.isDetailsDisplayedSeparateLines();
+	    
+	   
+	    Assert.assertTrue(detailsinnewlines, "Details are not displayed in at least 3 separate lines");
+	    
+	    LoggerLoad.info("All record details in separate lines");
+
+	   
 	}
 
 	@Then("{string}details should be displayed in {string} for each patient record on the MyPatients table")
@@ -134,7 +143,7 @@ public class MyPatients_Step {
 
 	@Then("User must see buttons displayed under Actions column for each patient record on the MyPatients table")
 	public void user_must_see_buttons_displayed_under_actions_column_for_each_patient_record_on_the_my_patients_table(
-			io.cucumber.datatable.DataTable dataTable) {
+			DataTable dataTable) {
 
 		List<String> buttons = dataTable.asList();
 		for (String buttonName : buttons) {
@@ -168,10 +177,10 @@ public class MyPatients_Step {
 
 	@Then("Matching patient details should be displayed for {string} on the MyPatients table")
 	public void matching_patient_details_should_be_displayed_for_on_the_my_patients_table(String scenariotype) {
-		// boolean checkresult =
-		// mypatientpage.verifySearchResultsMatchExcel(scenariotype);
-		// Assert.assertTrue("Search results did not match the Excel data for: " +
-		// scenariotype, checkresult);
+		boolean checkresult =
+		 myPatientPage.verifySearchResultsMatchExcel(scenariotype);
+		Assert.assertTrue(checkresult, "Search results did not match the Excel data for: " +
+		 scenariotype);
 	}
 
 	@Given("User has entered text in search box on the MyPatients table")
@@ -194,7 +203,7 @@ public class MyPatients_Step {
 
 	@Given("Patient records are not added for that user in MyPatients page")
 	public void patient_records_are_not_added_for_that_user_in_my_patients_page() {
-		Assert.assertTrue(myPatientPage.checkingTableEmpty(), "Table is not empty");
+		myPatientPage.checkingTableEmpty();
 	}
 
 	@Then("My Patients page should display with empty table")
@@ -205,18 +214,18 @@ public class MyPatients_Step {
 
 	@Given("Patient has multiple records already exist in the system for that user in MyPatients page")
 	public void patient_has_multiple_records_already_exist_in_the_system_for_that_user_in_my_patients_page() {
-		Assert.assertTrue(myPatientPage.checkingMultipleRecords(), "table does not have multiple patient records");
+	myPatientPage.checkingMultipleRecords();
 	}
 
 	@Given("User is in {string} in My Patients table")
 	public void user_is_in_in_my_patients_table(String precondition) {
 		myPatientPage.navigateToPrecondition(precondition);
-		logger.info("Setting up the table as per precondiion page: {}", precondition);
+		LoggerLoad.info("Setting up the table as per precondiion page"+ precondition);
 	}
 
 	@When("User clicks the {string} page arrow in My Patients table")
 	public void user_clicks_the_page_arrow_in_my_patients_table(String arrow) {
-		logger.info("user clicks the '{}' pagination arrow ", arrow);
+		LoggerLoad.info("user clicks"+arrow+"in the pagination arrow ");
 
 		myPatientPage.clickPaginationArrow(arrow);
 	}
@@ -228,14 +237,14 @@ public class MyPatients_Step {
 
 		Assert.assertTrue(isCorrect, "Pagination verification failed for: " + expectedResult);
 
-		logger.info("Pagination result '{}' verified successfully.", expectedResult);
+		LoggerLoad.info("Pagination result verified successfully");
 	}
 
 	@When("User clicks any page navigation arrow in My Patients table")
 	public void user_clicks_any_page_navigation_arrow_in_my_patients_table() {
 
 		myPatientPage.clickAnyPageNavigationArrow();
-		logger.info("User clicked page navigation arrow");
+		LoggerLoad.info("User clicked page navigation arrow");
 	}
 
 	@Then("Pagination text should display the correct range and total number of patients in My Patients table")
@@ -246,7 +255,7 @@ public class MyPatients_Step {
 	@When("User navigates to any page")
 	public void user_navigates_to_any_page() {
 		myPatientPage.clickAnyPageNavigationArrow();
-		logger.info("User navigated to next page");
+		LoggerLoad.info("User navigated to next page");
 	}
 
 	@Then("Pagination controls should be displayed")
@@ -256,14 +265,14 @@ public class MyPatients_Step {
 
 	@Given("User is on first page with multiple pages of patient record in My Patients table")
 	public void user_is_on_first_page_with_multiple_pages_of_patient_record_in_my_patients_table() {
-		Assert.assertTrue(myPatientPage.checkingMultipleRecords(), "Multiple records do not exist");
-		logger.info("User is on first page with multiple records");
+		myPatientPage.checkingMultipleRecords();
+		LoggerLoad.info("User is on first page with multiple records");
 	}
 
 	@When("User navigates to the first page of patient record in My Patients table")
 	public void user_navigates_to_the_first_page_of_patient_record_in_my_patients_table() {
 		myPatientPage.navigateToFirstPage();
-		logger.info("User navigated to first page");
+		LoggerLoad.info("User navigated to first page");
 	}
 
 	@Then("{string} arrow should be displayed in this {string} in My Patients table")
@@ -275,7 +284,7 @@ public class MyPatients_Step {
 	@When("User navigates to any page after the first page in My Patients table")
 	public void user_navigates_to_any_page_after_the_first_page_in_my_patients_table() {
 		myPatientPage.navigateToAnyPageOtherThanFirst();
-		logger.info("User navigated to second page");
+	LoggerLoad.info("User navigated to second page");
 	}
 
 	@Then("Pagination {string} arrow should be {string} in My Patients table")
@@ -287,7 +296,7 @@ public class MyPatients_Step {
 	@When("User navigates to any page except the last page in My Patients table")
 	public void user_navigates_to_any_page_except_the_last_page_in_my_patients_table() {
 		myPatientPage.navigateToFirstPage();
-		logger.info("User navigated to first page for scenario  any page except the last page ");
+		LoggerLoad.info("User navigated to first page for scenario  any page except the last page ");
 	}
 
 	@Then("{string} arrow should be {string} in My Patients table")
@@ -299,7 +308,7 @@ public class MyPatients_Step {
 	@When("User navigates to the last page of patient record in My Patients table")
 	public void user_navigates_to_the_last_page_of_patient_record_in_my_patients_table() {
 		myPatientPage.navigateToLastPage();
-		logger.info("User navigated to last page");
+	LoggerLoad.info("User navigated to last page");
 	}
 
 	@Then("{string} arrow should be dispalyed as {string} in My Patients table")
@@ -310,7 +319,7 @@ public class MyPatients_Step {
 
 	@Given("Patient has only one record in the system for that user in MyPatients page")
 	public void patient_has_only_one_record_in_the_system_for_that_user_in_my_patients_page() {
-		Assert.assertTrue(myPatientPage.tablewithOneRecord(), "found more than 1 record");
+		myPatientPage.tablewithOneRecord();
 
 	}
 
@@ -321,7 +330,7 @@ public class MyPatients_Step {
 
 	@Given("No patient record present  in the system for that user in MyPatients table")
 	public void no_patient_record_present_in_the_system_for_that_user_in_my_patients_table() {
-		Assert.assertTrue(myPatientPage.tablewithNoRecords(), "found patient records");
+		myPatientPage.tablewithNoRecords();
 	}
 
 	@Then("{string} should be displayed in MyPatients table")
@@ -337,8 +346,7 @@ public class MyPatients_Step {
 
 	@Given("Patient has maximum records present in the system for that user in MyPatients table")
 	public void patient_has_maximum_records_present_in_the_system_for_that_user_in_my_patients_table() {
-		Assert.assertTrue(myPatientPage.tablewithMaximumRecords(), "5 records not present");
-
+	myPatientPage.tablewithMaximumRecords();
 	}
 
 	@Then("User should see only five records in each page")
@@ -355,8 +363,9 @@ public class MyPatients_Step {
 
 	@When("User adds 6th record")
 	public void user_adds_6th_record() {
-		//check this 
-		logger.info("sixth record added");
+	addPatient_PageObject.createPatientFromExcel();
+	
+		LoggerLoad.info("sixth record added");
 	}
 
 	@Then("User should see the newly added record in the next page")

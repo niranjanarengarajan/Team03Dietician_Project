@@ -19,7 +19,7 @@ public class EditPatient_PageObject {
 
 	private WebDriver driver;
 	private WaitUtils waitUtils;
-	private WebElement element;
+	
 	private JSUtils jsUtils;
 
 	// PageObject of My Patient page and EditWindow
@@ -281,7 +281,7 @@ public class EditPatient_PageObject {
 			
 
 		default:
-			throw new IllegalArgumentException("Unknown element: " + element);
+			throw new IllegalArgumentException("Unknown element: " + scenarioName);
 		}
 	}
 
@@ -473,10 +473,10 @@ public class EditPatient_PageObject {
 		    return patientDetailsCell.getText();
 		}
 		
-		public void getPatientId(String patientName) {		
+		public String getPatientId(String patientName) {		
 			searchForPatienName(patientName);
-		     patientId.getText();
-		     return;
+		     String patientID = patientId.getText();
+		     return patientID;
 		}
 		public void viewPatientTestReport() {
 			waitUtils.getVisibleText(driver, ViewTestReport, 5);

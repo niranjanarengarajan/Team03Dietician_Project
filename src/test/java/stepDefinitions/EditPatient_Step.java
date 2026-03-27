@@ -40,7 +40,7 @@ public class EditPatient_Step {
 		context.testData= ExcelReader.getTestData("AddPatient");
 		String existingPatientName =context.testData.get("first_name");		
 		editPatientPage.searchForPatienName(existingPatientName);
-		String patientId = editPatientPage.getPatientId(existingPatientName);
+		String patientID = editPatientPage.getPatientId(existingPatientName);
 		editPatientPage.clickOnEditButton();
 	}
 
