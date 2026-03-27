@@ -5,7 +5,7 @@ Background: User logged into the app and patients already exists
 Given User logged into the app and user is in my patient page 
 When User clicks edit icon for the particular patient 
 
-#Rule: Visibility of EditPatient Dialogue box UI elements
+
 
 Scenario Outline: Validate "<element>" EditPatient dialogue box
 Then User should see  "<element>" on the dialog box
@@ -50,7 +50,7 @@ Examples:
 
 #--------------Data validation---------------------------------------------------------------------
 
-#Rule: User Validates Edit window Funtionality
+
     
 Scenario Outline: Validate presence of placholder "<element>" of Edit Patient dialogue box  
 When User clears existing value in "<element>" of edit patient dialogue box

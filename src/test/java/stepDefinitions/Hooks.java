@@ -55,7 +55,7 @@ public class Hooks {
 		ExcelReader.readDataFromExcel(prop.getProperty("AddPatientSheetName"));
 		ExcelReader.readDataFromExcel(prop.getProperty("editPatientSheetName"));
 		ExcelReader.readDataFromExcel(prop.getProperty("reportsheetName"));
-		ExcelReader.readDataFromExcel(prop.getProperty("MyPatientsSheetName"));
+		ExcelReader.readDataFromExcel(prop.getProperty("MyPatientSheetName"));
 
 	}
 	@Before(value = "@Login", order = 1)

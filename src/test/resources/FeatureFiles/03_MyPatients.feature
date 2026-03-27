@@ -1,4 +1,4 @@
-@MyPatientsfeature @login
+@MyPatientsfeature @Login
 Feature: My Patient Page functionality
 
   Background:

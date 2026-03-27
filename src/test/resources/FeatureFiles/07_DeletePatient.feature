@@ -1,4 +1,4 @@
-@DeletePatient
+@DeletePatient @Login
 Feature: 
     
     Background: 
