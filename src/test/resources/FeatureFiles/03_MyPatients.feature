@@ -8,10 +8,10 @@ Feature: My Patient Page functionality
     Then Page header "My Patients" should be displayed on MyPatients page
 
   Scenario: Verifying display of search bar on the MyPatients page
-    Then "Search bar" should be displayed on MyPatients page
+    Then Search bar should be displayed on MyPatients page
 
   Scenario: Verifying display of search icon inside search bar on the MyPatients page
-    Then "Search icon" should be displayed inside search bar on MyPatients page
+    Then Search icon should be displayed inside search bar on MyPatients page
 
   Scenario: Verifying display of placeholder text inside search bar on the MyPatients page
     Then "Search" placeholder text should be displayed inside search bar on MyPatients page
@@ -25,11 +25,13 @@ Feature: My Patient Page functionality
       | Actions         |
       | Edit/Delete     |
 
-  Scenario: Verify up and down arrow icons are displayed in Patient ID column header on the  MyPatients page
-    Then Up and down arrow icons should be displayed in the "Patient Id" column header on the  MyPatients page
+  Scenario Outline: Verify up and down arrow icons in "<column_name>" column header on the MyPatients page
+    Then Up and down arrow icons should be displayed in the "<column_name>" column header on the MyPatients page
 
-  Scenario: Verify up and down arrow icons are displayed in Name column header on the  MyPatients page
-    Then Up and down arrow icons should be displayed in the "Name" column header on the  MyPatients page
+    Examples:
+      | column_name |
+      | Patient Id  |
+      | Name        |
 
   Rule: Patient table details with record
 
@@ -79,47 +81,38 @@ Feature: My Patient Page functionality
         | Create New Report/plan     |
 
     Scenario Outline: Verify Edit and Delete icons are displayed for each row on the MyPatients table
-      Then "<icon>" icon should be displayed for each patient record on the MyPatients table
+      Then icon "<icon>" should be displayed for each patient record on the MyPatients table
 
       Examples:
         | icon   |
         | Edit   |
         | Delete |
 
-    Scenario Outline: Verify Patient Id column sorting on the MyPatients table
-      Given User is in My Patients page
-      When User clicks "<arrow>" arrow in Patient Id column on the MyPatients table
-      Then Patient records should be sorted in "<order>" order by patient id on the MyPatients table
+    Scenario Outline: Verify column sorting on the MyPatients table
+      When user clicks "<arrow>" arrow in "<column>" column on the MyPatients table
+      Then patient records should be sorted in "<order>" order by "<column>" on the MyPatients table
 
       Examples:
-        | arrow | order      |
-        | up    | ascending  |
-        | down  | descending |
-
-    Scenario Outline: Verify Name column sorting on the MyPatients table
-      When User clicks "<arrow>" arrow in Name column on the MyPatients table
-      Then Patient records should be sorted in "<order>" order by name on the MyPatients table
-
-      Examples:
-        | arrow | order      |
-        | up    | ascending  |
-        | down  | descending |
+        | column     | arrow | order      |
+        | Patient Id | up    | ascending  |
+        | Patient Id | down  | descending |
+        | Name       | up    | ascending  |
+        | Name       | down  | descending |
 
     Scenario Outline: Verify search functionality on the MyPatients table
-      When User searches using "<search_by>" information on the MyPatients table
-      Then Matching patient details should be displayed on the MyPatients table
+      When User searches using "<scenario_type>" information on the MyPatients table
+      Then Matching patient details should be displayed for "<scenario_type>" on the MyPatients table
 
       Examples:
-        | search_by    |
-        | patient name |
-        | patient id   |
+        | scenario_type       |
+        | SearchByPatientName |
+        | SearchByPatientId   |
 
     Scenario: Verify the table contents when search is cleared on the MyPatients table
       Given User has entered text in search box on the MyPatients table
       When User clears the search text on the MyPatients table
       Then All patient records should be displayed again on the MyPatients table
 
-  # check rule syntax
   Rule: Patient table details without record
 
     Background:
@@ -140,11 +133,11 @@ Feature: My Patient Page functionality
       Then "<expected_result>" should be displayed for user in My Patients table
 
       Examples:
-        | precondition                          | arrow | expected_result                 |
-        | My Patients table with multiple pages | >     | Next set of patient records     |
-        | later page of My Patients page        | <     | Previous set of patient records |
-        | any page except first page            | <<    | First page of patient records   |
-        | any page except last page             | >>    | Last page of patient records    |
+        | precondition     | arrow | expected_result |
+        | multiple pages   | >     | next set        |
+        | later page       | <     | previous set    |
+        | any except first | <<    | first page      |
+        | any except last  | >>    | last page       |
 
     Scenario: Verify pagination count is updated correctly in My Patients table
       When User clicks any page navigation arrow in My Patients table
@@ -193,10 +186,10 @@ Feature: My Patient Page functionality
         | >     | disabled |
         | >>    | disabled |
 
-  Rule: Pagination management with only one record
+  #Rule: Pagination management with only one record
 
-    Background:
-      Given Patient has only one record in the system for that user in MyPatients page
+    #Background:
+      #Given Patient has only one record in the system for that user in MyPatients page
 
     Scenario Outline: Verify all pagination arrows are disabled when Patient has only one record in My Patient table
       Then Pagination "<arrow>" arrows should be disabled in My Patient table
@@ -232,10 +225,10 @@ Feature: My Patient Page functionality
       Given Patient has maximum records present in the system for that user in MyPatients table
 
     Scenario: Verify each page displays only 5 records in MyPatients table
-      Then User should see only 5 records in each page
+      Then User should see only five records in each page
 
     Scenario: Verify newly added record moves to next page when sixth record is added in MyPatients table
-      Given User is in My Patients table displays maximum of 5 records per page
+      Given User is in My Patients table displays maximum of five records per page
       When User adds 6th record
       Then User should see the newly added record in the next page
 

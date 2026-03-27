@@ -22,6 +22,10 @@ public class Hooks {
 	public Hooks(TestContext context) {
 		this.context = context;
 	}
+
+	
+	
+   
 	@Before(order = 0)
 	public void setup() {
 
@@ -50,20 +54,19 @@ public class Hooks {
 		LoggerLoad.info("Navigated to base URL: " + prop.getProperty("baseURL"));
 
 		ExcelReader.readDataFromExcel(prop.getProperty("loginsheetName"));
+		ExcelReader.readDataFromExcel(prop.getProperty("dashboardsheetName"));
 		ExcelReader.readDataFromExcel(prop.getProperty("AddPatientSheetName"));
-		ExcelReader.readDataFromExcel(prop.getProperty("editPatient"));
-		ExcelReader.readDataFromExcel(prop.getProperty("deletePatient"));
+		ExcelReader.readDataFromExcel(prop.getProperty("editPatientSheetName"));
 		ExcelReader.readDataFromExcel(prop.getProperty("reportsheetName"));
 
 	}
-
 	@Before(value = "@Login", order = 1)
-	public void performLogin() {
+    public void performLogin() {
 		LoggerLoad.info("Performing background login...");
 		context.loginStep.user_clicks_login_button_after_entering_valid_credentials_in_login_page("valid credentials");
 		LoggerLoad.info("Performed login with valid credentials");
-	}
 
+	}
 	@After
 	public void tearDown(Scenario scenario) {
 		if (scenario.isFailed()) {

@@ -65,7 +65,6 @@ public class ExcelReader {
 					                        .format(cell.getDateCellValue());
 					            } else {
 					                double num = cell.getNumericCellValue();
-					                // If whole number → "123", else → "75.5"
 					                value = (num == (long) num)
 					                        ? String.valueOf((long) num)
 					                        : String.valueOf(num);
