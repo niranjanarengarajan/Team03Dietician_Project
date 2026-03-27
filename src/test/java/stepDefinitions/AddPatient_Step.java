@@ -2,10 +2,13 @@ package stepDefinitions;
 
 import java.util.List;
 import org.testng.Assert;
+
+import driverManager.DriverFactory;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObject.AddPatient_PageObject;
+import pageObject.MyPatients_PageObject;
 import utils.TestContext;
 import utils.LoggerLoad;
 import utils.TestContext;
@@ -14,10 +17,12 @@ public class AddPatient_Step {
 
     public TestContext context;
     private AddPatient_PageObject addPatientPage;
+    private MyPatients_PageObject myPatientPage;
 
     public AddPatient_Step(TestContext context) {
         this.context = context;
         this.addPatientPage = context.poManager.getAddPatientPage();
+        this.myPatientPage = context.poManager.getMyPatientPage();
     }
    
     @Given("User is in Home Page")
@@ -355,7 +360,7 @@ public class AddPatient_Step {
 	
 	@When("User clicks Submit button after User enters valid patient details and skips file upload")
 	public void user_clicks_submit_button_after_user_enters_valid_patient_details_and_skips_file_upload() {
-		TestContext.testData.put("patientCountBefore", 
+		context.testData.put("patientCountBefore", 
 		        String.valueOf(myPatientPage.getPatientCount()));
 		
 		    addPatientPage.clickSubmit();
@@ -363,7 +368,7 @@ public class AddPatient_Step {
 
 	@Then("User is directed to My Patient Page with New Patient Details created")
 	public void user_is_directed_to_my_patient_page_with_new_patient_details_created() {
-		 int beforeCount = Integer.parseInt(TestContext.testData.get("patientCountBefore"));
+		 int beforeCount = Integer.parseInt(context.testData.get("patientCountBefore"));
 		    int afterCount = myPatientPage.getPatientCount();
 
 		    String currentUrl = DriverFactory.getDriver().getCurrentUrl();

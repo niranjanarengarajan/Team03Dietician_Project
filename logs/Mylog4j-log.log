@@ -27791,3 +27791,33 @@
 [INFO ]2026-03-2701:10:09.760[TestNG-tests-2]utils.LoggerLoad1)-Loaded configuration properties
 [INFO ]2026-03-2701:10:09.760[TestNG-tests-2]utils.LoggerLoad1)-Launching browser: firefox
 [INFO ]2026-03-2701:10:09.760[TestNG-tests-2]utils.LoggerLoad1)-Launching browser: firefox
+[INFO ]2026-03-2711:26:04.947[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2711:26:04.951[main]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-03-2711:26:04.980[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2711:26:04.981[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-03-2711:26:04.984[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-03-2711:26:10.274[main]utils.LoggerLoad1)-Chrome browser launched successfully.
+[INFO ]2026-03-2711:26:10.316[main]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-03-2711:26:10.390[main]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-03-2711:26:10.395[main]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-03-2711:26:10.827[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2711:26:13.619[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2711:26:13.619[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2711:26:13.620[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2711:26:13.634[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-03-2711:26:24.058[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2711:26:24.371[main]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-03-2711:26:24.510[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2711:26:24.510[main]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-03-2711:26:24.511[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2711:26:24.511[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-03-2711:26:24.511[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-03-2711:26:26.125[main]utils.LoggerLoad1)-Chrome browser launched successfully.
+[INFO ]2026-03-2711:26:26.169[main]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-03-2711:26:26.225[main]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-03-2711:26:26.231[main]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-03-2711:26:26.584[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2711:26:26.596[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2711:26:26.597[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2711:26:26.603[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2711:26:26.649[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
