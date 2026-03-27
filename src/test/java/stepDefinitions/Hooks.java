@@ -1,6 +1,9 @@
 package stepDefinitions;
 
 import java.util.Properties;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.openqa.selenium.WebDriver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
@@ -11,13 +14,14 @@ import utils.TestContext;
 import utils.Screenshot;
 import runner.TestRunner;
 
+
 public class Hooks {
+	private WebDriver driver;
 	private TestContext context;
 
 	public Hooks(TestContext context) {
 		this.context = context;
 	}
-
 	@Before(order = 0)
 	public void setup() {
 

@@ -8,7 +8,6 @@ import org.openqa.selenium.support.PageFactory;
 import utils.LoggerLoad;
 
 public class Login_PageObject {
-
 	
 	private WebDriver driver;
 	private WebElement element;

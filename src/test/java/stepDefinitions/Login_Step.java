@@ -23,7 +23,7 @@ public class Login_Step {
 		this.context=context;
 		this.loginObj = context.poManager.getLoginPage();
 	}
-		
+
 	@Given("User is on the browser")
 	public void user_is_on_the_browser() {
 		loginObj.browserIsOpen();

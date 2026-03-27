@@ -1,22 +1,31 @@
 package utils;
 
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import driverManager.DriverFactory;
+public class JSUtils {
+	private JavascriptExecutor js;
+	
+      public JSUtils(WebDriver driver) {
+       this.js = (JavascriptExecutor) driver;
+      }
 
-public class JSUtils extends  DriverFactory {
+    public void scrollIntoView(WebElement element) {
+       js.executeScript("arguments[0].scrollIntoView(true);", element);
+    }
 
-	public static void scrollIntoView(WebElement element) {
-		((JavascriptExecutor) DriverFactory.getDriver()).executeScript("arguments[0].scrollIntoView(true);", element);
-	}
+    public String getPageInnerText() {
+        return (String) js.executeScript("return document.documentElement.innerText;");
+    }
 
-	public static String getPageInnerText() {
-		return (String) ((JavascriptExecutor) DriverFactory.getDriver())
-				.executeScript("return document.documentElement.innerText;");
-	}
-
-	public static void clickElement(WebElement element) {
-		((JavascriptExecutor) DriverFactory.getDriver()).executeScript("arguments[0].click();", element);
-	}
+    public void clickElement(WebElement element) {
+        js.executeScript("arguments[0].click();", element);
+    }
+    public boolean hasScroll(WebElement element) {
+        return (Boolean) js.executeScript(
+            "return arguments[0].scrollHeight > arguments[0].clientHeight;", element
+        );
+    }
 }
+

@@ -15,8 +15,6 @@ public class PageObjectManager {
 		
 	public PageObjectManager (WebDriver driver) {
 		this.driver = driver;
-		System.out.println("driver in page obj manager " +driver);
-		
 	}
 	
 	public Login_PageObject getLoginPage()
@@ -42,6 +40,7 @@ public class PageObjectManager {
 	addPatientPage= new AddPatient_PageObject(driver);
 	 return addPatientPage;
 	}
+	
 	public EditPatient_PageObject getEditPatientPage()
 	{
 		editPatientPage= new EditPatient_PageObject(driver);
@@ -59,14 +58,6 @@ public class PageObjectManager {
 	viewReportPage= new ViewTestReport_PageObject(driver);
 	 return viewReportPage;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 }
