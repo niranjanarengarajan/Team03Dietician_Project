@@ -1,22 +1,28 @@
 package utils;
 
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import driverManager.DriverFactory;
 
-public class JSUtils extends  DriverFactory {
 
-	public static void scrollIntoView(WebElement element) {
-		((JavascriptExecutor) DriverFactory.getDriver()).executeScript("arguments[0].scrollIntoView(true);", element);
-	}
+public class JSUtils  {
+	private JavascriptExecutor js;
 
-	public static String getPageInnerText() {
-		return (String) ((JavascriptExecutor) DriverFactory.getDriver())
-				.executeScript("return document.documentElement.innerText;");
-	}
+    // Constructor: Pass the driver here from your TestContext
+    public JSUtils(WebDriver driver) {
+        this.js = (JavascriptExecutor) driver;
+    }
 
-	public static void clickElement(WebElement element) {
-		((JavascriptExecutor) DriverFactory.getDriver()).executeScript("arguments[0].click();", element);
-	}
+    public void scrollIntoView(WebElement element) {
+        js.executeScript("arguments[0].scrollIntoView(true);", element);
+    }
+
+    public String getPageInnerText() {
+        return (String) js.executeScript("return document.documentElement.innerText;");
+    }
+
+    public void clickElement(WebElement element) {
+        js.executeScript("arguments[0].click();", element);
+    }
 }

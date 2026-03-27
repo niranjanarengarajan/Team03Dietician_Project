@@ -7,14 +7,14 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import driverManager.DriverFactory;
+
 import utils.LoggerLoad;
 
 public class Login_PageObject {
 	
-	public Login_PageObject() {
-		this.driver = DriverFactory.getDriver();
-//		this.driver = driver;
+	public Login_PageObject(WebDriver driver) {
+		
+		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}
 	

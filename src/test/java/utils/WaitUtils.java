@@ -10,16 +10,16 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import utils.LoggerLoad;
 
-import driverManager.DriverFactory;
 
 public class WaitUtils {
 	
 	private final WebDriverWait wait;
 	private final WebDriver driver;
 
-	public WaitUtils() {
-		this.driver = DriverFactory.getDriver();
+	public WaitUtils(WebDriver driver) {
+		this.driver = driver;
 		this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 	}
 
@@ -42,6 +42,10 @@ public class WaitUtils {
 			return false;
 		}
 	}
+	
+	public void waitForVisible(WebElement element) {
+        wait.until(ExpectedConditions.visibilityOf(element));
+    }
 
 	public static void waitForUrlContains(WebDriver driver, String fragment, int timeoutSeconds) {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(timeoutSeconds));
@@ -55,6 +59,19 @@ public class WaitUtils {
 
 	public static String getVisibleText(WebDriver driver, WebElement loginAlert, int timeoutSeconds) {
 		return waitForVisibility(driver, loginAlert, timeoutSeconds).getText().trim();
+	}
+	public String getTextAfterVisibility(WebDriver driver, WebElement element, String elementName) {
+	    try {
+	        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
+	        wait.until(ExpectedConditions.visibilityOf(element));
+	        
+	        String text = element.getText().trim();
+	        
+	        return text;
+	    } catch (Exception e) {
+	        LoggerLoad.error("Failed to get text for " + elementName + ". Error: " + e.getMessage());
+	        throw e; 
+	    }
 	}
 
 	public static boolean isVisible(WebDriver driver, WebElement element, int timeoutSeconds) {

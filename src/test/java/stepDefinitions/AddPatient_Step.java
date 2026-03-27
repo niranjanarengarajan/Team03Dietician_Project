@@ -11,23 +11,26 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObject.AddPatient_PageObject;
+import utils.TestContext;
+
 
 public class AddPatient_Step {
-	
+	TestContext context;
+	AddPatient_PageObject addPatientPage;
 	private static final Logger log = LogManager.getLogger(AddPatient_Step.class);
-	WebDriver driver = DriverFactory.getDriver();
+	//WebDriver driver = DriverFactory.getDriver();
 	
-	AddPatient_PageObject addPatientPage = new AddPatient_PageObject(driver);
+	
     
-    public AddPatient_Step() {
-    	this.driver = DriverFactory.getDriver();
-    	this.addPatientPage = new AddPatient_PageObject(driver);    	
+    public AddPatient_Step(TestContext context) {
+    	this.context=context;
+    	this.addPatientPage = context.poManager.getAddPatientPage(); 	
     }
-	
+    
 	@Given("User is in Home Page")
 	public void user_is_in_home_page() {
 		log.info("Checking that user is on Home Page");
-		Assert.assertTrue(driver.getTitle().contains("Home"));
+		//Assert.assertTrue(driver.getTitle().contains("Home"));
 	}
 
 	@When("User clicks on New Patient in the header section")

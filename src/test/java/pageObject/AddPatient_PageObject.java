@@ -22,7 +22,7 @@ public class AddPatient_PageObject {
 	 private WaitUtils waitUtils;
 	 public AddPatient_PageObject(WebDriver driver) { 
 	        this.driver = driver;
-	        this.waitUtils = new WaitUtils();
+	        this.waitUtils = new WaitUtils(driver);
 	        PageFactory.initElements(driver, this);
 	    }
 	

@@ -7,10 +7,10 @@ public class PageObjectManager {
 	public WebDriver driver;
 	public Login_PageObject loginPage;
 	public Dashboard_PageObject dashboardPage;
-	public MyPatients_PageObject myPatientPage;
+	//public MyPatients_PageObject myPatientPage;
 	public AddPatient_PageObject addPatientPage;
 	public EditPatient_PageObject editPatientPage;
-	public ViewTestReport_PageObject viewReportPage;
+	//public ViewTestReport_PageObject viewReportPage;
 	public DeletePatient_PageObject deletePatientPage;
 		
 	public PageObjectManager (WebDriver driver) {
@@ -20,21 +20,21 @@ public class PageObjectManager {
 	
 	public Login_PageObject getLoginPage()
 	{
-	loginPage= new Login_PageObject();
+	loginPage= new Login_PageObject(driver);
 	 return loginPage;
 	}
 	
-	public Dashboard_PageObject getDashboardPage()
-	{
-	dashboardPage= new Dashboard_PageObject();
-	 return dashboardPage;
-	}
-	
-	public MyPatients_PageObject getMyPatientPage()
-	{
-	myPatientPage= new MyPatients_PageObject();
-	 return myPatientPage;
-	}
+//	public Dashboard_PageObject getDashboardPage()
+//	{
+//	dashboardPage= new Dashboard_PageObject(driver);
+//	 return dashboardPage;
+//	}
+//	
+//	public MyPatients_PageObject getMyPatientPage()
+//	{
+//	myPatientPage= new MyPatients_PageObject(driver);
+//	 return myPatientPage;
+//	}
 	
 	public AddPatient_PageObject getAddPatientPage()
 	{
@@ -53,15 +53,15 @@ public class PageObjectManager {
 	 return deletePatientPage;
 	}
 	
-	public ViewTestReport_PageObject getViewTestReportPage()
-	{
-	viewReportPage= new ViewTestReport_PageObject();
-	 return viewReportPage;
-	}
+//	public ViewTestReport_PageObject getViewTestReportPage()
+//	{
+//	viewReportPage= new ViewTestReport_PageObject(driver);
+//	 return viewReportPage;
+//	}
 	
 	
 	
-	
+
 	
 	
 	

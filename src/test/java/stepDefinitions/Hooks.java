@@ -33,21 +33,25 @@ public class Hooks {
         LoggerLoad.info("Loaded configuration properties");        
        
         context.drfactory.launchBrowser(prop.getProperty("browserName")); 
-    	context.drfactory.getDriver().get(prop.getProperty("baseURL"));
+        LoggerLoad.info("browserName: " + prop.getProperty("browserName"));
+        context.setupManagers();        
+       	context.drfactory.getDriver().get(prop.getProperty("baseURL"));
     	LoggerLoad.info("Navigated to base URL: " + prop.getProperty("baseURL"));
-    	
+        	
         ExcelReader.readDataFromExcel(prop.getProperty("loginsheetName"));
     	ExcelReader.readDataFromExcel(prop.getProperty("editPatient"));
     	ExcelReader.readDataFromExcel(prop.getProperty("deletePatient"));       
-        
+    	
+  
         
     }
 	
-   @Before(value = "@Login", order = 1)
+   @Before(value = "@loginPage", order = 1)
     public void performLogin() {
 	    logger.info("Performing background login...");
 	    // Using instance from context
-	    context.loginStep.user_clicks_login_button_after_entering_valid_credentials_in_login_page();
+	    //context.loginStep.user_clicks_login_button_after_entering_valid_credentials_in_login_page();
+	    context.loginStep.user_is_on_the_browser();
 	    logger.info("Performed login with valid credentials");
 	}
 
