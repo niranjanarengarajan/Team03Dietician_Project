@@ -23,9 +23,6 @@ public class Hooks {
 		this.context = context;
 	}
 
-	
-	
-   
 	@Before(order = 0)
 	public void setup() {
 

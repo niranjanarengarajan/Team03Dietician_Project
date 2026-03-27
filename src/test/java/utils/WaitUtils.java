@@ -91,4 +91,30 @@ public class WaitUtils {
         });
         return output.getAttribute("textContent").trim();
     }
+    
+    public String getActualErrorMessage(List<WebElement> elements) {
+	    try {
+	       
+	        WebElement activeError = waitForVisibility(driver, elements.get(0), 5);
+
+	        if (activeError.isDisplayed()) {
+	            String text = activeError.getText().trim();
+	            LoggerLoad.info("Captured  error: " + text);
+	            return text;
+	        }
+	    } catch (Exception e) {
+	        LoggerLoad.error("No error message element was found on the page.");
+	        return "No error message displayed";
+	    }
+	    return "No error message displayed";
+	}
+	
+    
+    
+    
+    
+    
+    
+    
+    
 }

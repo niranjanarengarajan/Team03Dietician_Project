@@ -2,9 +2,7 @@ package pageObject;
 
 import java.util.List;
 
-import org.jspecify.annotations.Nullable;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Dimension;
+
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -14,6 +12,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 
 import utils.JSUtils;
+import utils.LoggerLoad;
 import utils.WaitUtils;
 
 public class EditPatient_PageObject {
@@ -24,6 +23,9 @@ public class EditPatient_PageObject {
 	private JSUtils jsUtils;
 
 	// PageObject of My Patient page and EditWindow
+	
+	@FindBy (xpath="//a[text()='My Patients']") 
+	private WebElement myPatientLink;
 	
 	@FindBy(id = "My Patients")
 	private WebElement MyPatientPageTitle;
@@ -43,7 +45,6 @@ public class EditPatient_PageObject {
 	@FindBy(xpath = "//span[text()='Edit Patient Details']")
 	private WebElement editPatientDetails;
 
-	
 	@FindBy(id = "edit Patient Details")
 	private WebElement editWindowTitle;
 
@@ -74,11 +75,18 @@ public class EditPatient_PageObject {
 	@FindBy(xpath = "//input[@id='dob']")
 	private WebElement dateOfBirth;
 
-	// @FindBy (xpath= "//div[text()='" + year + "']")
-	private WebElement YearDatePicker;
-	// @FindBy (xpath= "//div[text()='" + month + "']")
-	private WebElement MonthDatePicker;
-
+	@FindBy(xpath = "//select[@class='year']")
+    private WebElement yearDropdown;
+	
+	@FindBy(xpath = "//select['month']")
+    private WebElement monthDropdown;
+	
+	@FindBy(xpath = "//select['disabled']")
+    private WebElement futureDatearrow;
+	
+	@FindBy(xpath = "//table[@class//td/a")
+	private List<WebElement> allDaysDatepicker;
+	
 	@FindBy(id = "Vitals")
 	private WebElement vitalsText;
 
@@ -110,7 +118,13 @@ public class EditPatient_PageObject {
 	private WebElement upLoadHealthReportText;
 
 	@FindBy(xpath = "//a[contains(@href, '.pdf')]")
-	private WebElement pdfFile;
+	private WebElement pdfFileLink;
+	
+	@FindBy(xpath = "//td[@id='record-no']") 
+	private WebElement recordNumber;
+	
+	@FindBy(xpath = "//td[@id='condition']")
+	private WebElement healthCondition;
 
 	@FindBy(id = "submit")
 	private WebElement submitButton;
@@ -118,7 +132,7 @@ public class EditPatient_PageObject {
 	@FindBy(css = "#closeButton")
 	private WebElement closeButton;
 
-	@FindBy(xpath = "//div[contains(@class,'p-datepicker-group-container']")
+	@FindBy(xpath = "//div[@class,container']")
 	private WebElement calenderWindow;
 
 	@FindBy(xpath = "//table//tbody//tr//td")
@@ -142,6 +156,12 @@ public class EditPatient_PageObject {
 	@FindBy(xpath = "//table//th//tr/td[5]")
 	private WebElement vitalsViewReport;
 	
+	@FindBy(xpath = "//div[@id='errormsg']")
+	private WebElement dobErrorMessage;
+	
+	@FindBy(xpath = "//mat-error")
+	private List<WebElement> errorMessages;
+	
 	
 
 	// -------------------------------------------------------------------------------------
@@ -158,7 +178,11 @@ public class EditPatient_PageObject {
 	}
     //---------------------------------------------------------------------------------------------------------------
 	// Methods
-
+	
+	public void clickMypatient() {
+		myPatientLink.click();
+	}
+	
 	public void clickOnEditButton() {
 		waitUtils.waitForClickable(EditPatientButton);
 
@@ -174,8 +198,8 @@ public class EditPatient_PageObject {
 	
 	//Validate elements in the edit popup window
 
-	public void validateElementEditPopup(String element) {
-		switch (element.toLowerCase()) {
+	public void validateElementEditPopup(String scenarioName) {
+		switch (scenarioName.toLowerCase()) {
 		case "edit patient title":
 			String title = editWindowTitle.getText();
 			Assert.assertEquals(title, "Edit Patient Details", "Title Mismatch");
@@ -250,6 +274,11 @@ public class EditPatient_PageObject {
 			String dpFieldPlaceholder = DPField.getAttribute("placeholder");
 			Assert.assertEquals(dpFieldPlaceholder, "DP", "Placeholder mismatch");
 			break;
+		case "prevent future date DOB":
+			boolean futureDate = futureDatearrow.isDisplayed();
+			Assert.assertEquals(futureDate, "future date", "future date disabled");
+			break;
+			
 
 		default:
 			throw new IllegalArgumentException("Unknown element: " + element);
@@ -366,7 +395,6 @@ public class EditPatient_PageObject {
 		  public void clearEnterAndSubmitValidData(String scenarioName, String value) {
 			    WebElement editField;
 
-			    // 1. Identify the element based on the 'Field' column in Excel
 			    switch (scenarioName.toLowerCase()) {
 			        case "ValidFirst Name": 
 			        	editField = firstNamefield; 
@@ -445,9 +473,10 @@ public class EditPatient_PageObject {
 		    return patientDetailsCell.getText();
 		}
 		
-		public String getPatientId(String patientName) {		
+		public void getPatientId(String patientName) {		
 			searchForPatienName(patientName);
-		    return patientId.getText();
+		     patientId.getText();
+		     return;
 		}
 		public void viewPatientTestReport() {
 			waitUtils.getVisibleText(driver, ViewTestReport, 5);
@@ -561,60 +590,101 @@ public class EditPatient_PageObject {
 			    editField.clear();
 			    editField.sendKeys(value);
 			    jsUtils.clickElement(submitButton);
+			    waitUtils.getActualErrorMessage(errorMessages);
 			    
 			}	
+		 
+		 public String getErrorMessages() {
+			 return waitUtils.getActualErrorMessage(errorMessages);
+		 }
+		 
+		 
+		 
+		 
+		
+	//-----------------------------------------------------------------------------------------------------------------------
+		 
+		 public void clickDOBField() {
+			 dateOfBirth.click();
+		    }
+		
+		 public boolean isDatePickerDisplayed() {
+		        // Use your WaitUtils to ensure the element is actually there
+		        return calenderWindow.isDisplayed();
+		    }
 		
 		
+			public void selectDateFromPicker(String date) {
+			   
+			    String[] dateParts = date.split("/");
+			    String month = dateParts[0];
+			    String day = Integer.toString(Integer.parseInt(dateParts[1])); 
+			    String year = dateParts[2];
+
+     		    Select selectYear = new Select(yearDropdown);
+			    selectYear.selectByVisibleText(year);
+			    
+			    Select selectMonth = new Select(monthDropdown);
+			    int monthIndex = Integer.parseInt(month) - 1; 
+			    selectMonth.selectByIndex(monthIndex);
+			   
+			    for (WebElement dayElement : allDaysDatepicker) {
+			        if (dayElement.getText().equals(day)) {
+			            dayElement.click();
+			            break;
+			        }
+			    }
+			}
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-			public String getCellValueOfPatientDetails(String scenarioName) {
-				  WebElement field;
-			switch (scenarioName.toLowerCase()) {
-			case "ValidFirst Name":
-				field = nameCell;
-				break;
-			case "ValidLast Name":
-				field = nameCell;
-				break;
-			case "ValidEmail":
-				field = patientDetailsCell;
-				break;
-			case "ValidContact No":
-				field = patientDetailsCell;
-				break;
-			default:
-				throw new IllegalArgumentException("dropdown not found: " + scenarioName);
+			public String getActualDOBErrorMessage() {
+			    try {
+			        // Use your WaitUtils to wait for visibility (usually 2-5 seconds)
+			        WebElement visibleError = waitUtils.waitForVisibility(driver, dobErrorMessage, 5);
+			        String actualText = visibleError.getText().trim();
+			        
+			        LoggerLoad.info("Actual message  " + actualText);
+			        return actualText;
+			        
+			    } catch (Exception e) {
+			        LoggerLoad.error("Error message element not found or not visible: " + e.getMessage());
+			        return "No message displayed"; 
+			    }
 			}
 			
-			 waitUtils. waitForVisibility(driver, field, 5);
-			return field.getText();
-			 
+	//--------------------------------------------------------------------------------------------------------------------------	
 			
-		    }
+			public void submituponUploadFile(String PatientId) {
+				getPatientId(PatientId);
+				submitButton.click();
+				
+			}
 			
-			
-			
-			
-			
+		
+		
+			public String getReportDetailValue(String fieldName) {
+			    WebElement element;
+			    
+			    switch (fieldName.toLowerCase().trim()) {
+			        case "record number":
+			            element = recordNumber;
+			            break;
+			        case "pdf file":
+			            element = pdfFileLink;
+			            // For a PDF, you might want the file name or the 'href' attribute
+			            return waitUtils.waitForVisibility(driver, element, 5).getText();
+			        case "upload date":
+			            element = chooseFile;
+			            break;
+			        case "health condition":
+			            element = healthCondition;
+			            break;
+			        default:
+			            throw new IllegalArgumentException("Report field not recognized: " + fieldName);
+			    }
+
+			    waitUtils.waitForVisibility(driver, element, 5);
+			    return element.getText().trim();
+			}
 			
 			
 		

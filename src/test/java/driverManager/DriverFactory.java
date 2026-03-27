@@ -15,12 +15,12 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
 public class DriverFactory {
-	public WebDriver driver;
+	
 	public static ThreadLocal<WebDriver> mydriver = new ThreadLocal<>();
 	private static final Logger logger = LoggerFactory.getLogger(DriverFactory.class);
 
 	public void launchBrowser(String browser) {
-
+		WebDriver driver;
 		logger.info("Launching browser: {}", browser);
 
 		try {

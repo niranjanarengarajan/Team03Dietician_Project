@@ -2,7 +2,7 @@
 Feature: Validating Edit Patient Page
 
 Background: User logged into the app and patients already exists
-Given User logged into the app and user is in my patient page
+Given User logged into the app and user is in my patient page 
 When User clicks edit icon for the particular patient 
 
 #Rule: Visibility of EditPatient Dialogue box UI elements
@@ -34,7 +34,8 @@ Examples:
 |upload health report text  |
 |no file chosen text    	|
 |close button color      	|
-|no mandatory mark in vitals|                           
+|no mandatory mark in vitals| 
+|prevent future date DOB    |                          
 
 
 Scenario Outline: Validate dropdown <element> EditPatient dialogue box
@@ -62,7 +63,7 @@ Examples:
   | Email Field          | Email         |
   | Contact Number Field | Contact Number|
   
-  
+  @ete
  Scenario Outline: Validate edit patient functionality for valid data - <ScenarioName>
   When User clicks the Submit button after entering valid data of "<colomnName>" from Excel for "<ScenarioName>" edit window
   Then User should be redirected to the "My Patient" page 
@@ -79,7 +80,7 @@ Examples:
   | ValidTemperature   |temperature		|
   | ValidSP            |sp				|
   | ValidDP            |dp				|
-  | Valid SP and DP    |  				|
+  | Valid SP and DP    |  	sp,dp		|
  
   
   Scenario Outline: Updated patient details on MyPatient page for valid data - <ScenarioName>
@@ -112,36 +113,36 @@ Examples:
  
 Scenario Outline: Validate edit patient funtionality for invalid data - <ScenarioName>
   When User clicks the Submit button after entering invalid data of "<colomnName>" from Excel for "<ScenarioName>" edit window
-  Then User should see the error message "<ErrorMessage>" from Excel
+  Then User should see the error message ErrorMessage from Excel
 
 Examples:
-  | ScenarioName                         | columnName  |
-  | FirstName with numeric               |             |
-  | FirstName with spl Char and Numeric  |             |
-  | FirstName with spl Char              |             |
-  | LastName with numeric                |             |
-  | LastName with spl Char and Numeric   |             |
-  | LastName with spl Char               |             |
-  | Email with invalid format            |             |
-  | Email with spl char                  |             |
-  | Email with missing @                 |             |
-  | Email with empty field               |             |
-  | ContactNumber with alphabets         |             |
-  | ContactNumber with spl Char          |             |
-  | ContactNumber with less Digits       |             |
-  | ContactNumber as Empty               |             |
-  | Weight with Alphabets                |             |
-  | Weight with spl char                 |             |
-  | Height with Alphabets                |			   |
-  | Height with spl char                 |             |
-  | Temp with Alphabets                  |             |
-  | Temp with spl char                   |             |
-  | SP with spl char                     |             |
-  | SP with Alphabets                    |             |
-  | Only SP                              |             |
-  | DP with spl char                     |             |
-  | DP with Alphabets                    |             |
-  | only DP                              |             |
+  | ScenarioName                         | columnName    	|
+  | FirstName with numeric               | first_name    	|
+  | FirstName with spl Char and Numeric  | first_name     	|
+  | FirstName with spl Char              | first_name       |
+  | LastName with numeric                | last_name        |
+  | LastName with spl Char and Numeric   | last_name        |
+  | LastName with spl Char               | last_name        |
+  | Email with invalid format            | email            |
+  | Email with spl char                  | email            |
+  | Email with missing @                 | email            |
+  | Email with empty field               | email            |
+  | ContactNumber with alphabets         | contact_number   |
+  | ContactNumber with spl Char          | contact_number   |
+  | ContactNumber with less Digits       | contact_number   |
+  | ContactNumber as Empty               | contact_number   |
+  | Weight with Alphabets                | weight           |
+  | Weight with spl char                 | weight           |
+  | Height with Alphabets                | height	        |
+  | Height with spl char                 | height           |
+  | Temp with Alphabets                  | temperature      |
+  | Temp with spl char                   | temperature      |
+  | SP with spl char                     |   sp             | 
+  | SP with Alphabets                    |   sp             |
+  | Only SP                              |   sp             |
+  | DP with spl char                     |   dp             |
+  | DP with Alphabets                    |   dp             |
+  | only DP                              |   dp             |
   
   Scenario: Validate visibility of DOB Date Picker in EditPatient
   When User clicks on the DOB input field
@@ -149,18 +150,18 @@ Examples:
   
   Scenario Outline: Validate DOB Date Picker constraints - <ScenarioName>
   When User enters "<InputDate>" for "<ScenarioName>" for editPatient
-  Then User should see the date picker "<expected message>" from Excel
+  Then User should see the date picker "<expected message>" from "<ScenarioName>"
 
   Examples:
-  | ScenarioName                   |
-  | Prevent future date            |
-  | Selecting current date         |
-  | Selecting Invalid date         |
-  | User enters non-numeric value  |
-  | Selecting partial date         |
-  | Leap Year                      |
-  | Boundary Year                  |
-  | NonLeapYear                    |
+  | ScenarioName                   |InputDate     |
+  | Valid date                     |dob           | 
+  | Selecting current date         |dob           |
+  | Selecting Invalid date         |dob           |
+  | User enters non-numeric value  |dob           |
+  | Selecting partial date         |dob           |
+  | Leap Year                      |dob           |
+  | Boundary Year                  |dob           |
+  | NonLeapYear                    |dob           |
   
   Scenario Outline: Validate File upload functionality for validAndInvalid - <ScenarioName>
   When User uploads file for "<ScenarioName>" from excel for editPatient
@@ -177,7 +178,7 @@ Examples:
  Scenario: Validate File upload functionality for valid - <Upload Valid File>  
   When User clicks the "Submit" button and uploads file for "<Upload Valid File>" from excel for editPatient
   And   User clicks "View Previous Test Report" after being redirected to the My Patient page  
-  And User clicks "View Previous Test Report" and verifies the following report details:
+  Then User clicks "View Previous Test Report" and verifies the following report details:
     | field            |
     | record number    |
     | pdf file         |
@@ -188,44 +189,6 @@ Examples:
 #---------------------------------------------------------------------------------------------------------------------------------------------------------  
   
 
-
-# Delete Patient Test cases
-Rule: User Validates Delete window Funtionality in MyPatients Page
-    
-    Background: 
-      Given User logged into the app and user is in my patient page
-
-
-Scenario Outline: Validate Delete Popup Alert info and buttons- <ScenarioName>
-When User clicks the Delete icon in MyPatientPage for "<ScenarioName>"
-Then Alert box should see "<element>" in delete popup
-
-Examples:
-|ScenarioName|
-|Alert Title |
-|Alert text  |
-|Yes button  |
-|No button   |
-
-
-Scenario: Validate Confirm Navigation in Delete Popup -<ScenarioName>
-When User clicks the Delete icon in MyPatientPage and performs "<Action>" deletion 
-Then User should be navigated to MyPatient Page upon deletion
-
-Examples:
-|ScenarioName         |Action |
-|Confirm for Deletion |Confirm|
-|Cancel for Deletion  |Cancle |
-
-
-Scenario: Validate Confirm Navigation in Delete Popup -<ScenarioName>
-When User clicks the Delete icon in MyPatientPage and performs "<Action>" deletion 
-Then User verifies the Patient record state is "<ExpectedState>" for "<ScenarioName>" after being directed MyPatient Page
-
-Examples:
-| ScenarioName         | Action  | ExpectedState   |
-| Confirm for Deletion | Confirm | Patient Removed |
-| Cancel for Deletion  | Cancel  | Patient Remains |
 
 
 

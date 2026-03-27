@@ -10,8 +10,9 @@ public class PageObjectManager {
 //	public MyPatients_PageObject myPatientPage;
 	public AddPatient_PageObject addPatientPage;
 	public EditPatient_PageObject editPatientPage;
-	//public ViewTestReport_PageObject viewReportPage;
+	public ViewTestReport_PageObject viewReportPage;
 	public DeletePatient_PageObject deletePatientPage;
+	
 		
 	public PageObjectManager (WebDriver driver) {
 		this.driver = driver;
@@ -23,32 +24,20 @@ public class PageObjectManager {
 	 return loginPage;
 	}
 	
-<<<<<<< HEAD
 
-//	public Dashboard_PageObject getDashboardPage()
-//	{
-//	dashboardPage= new Dashboard_PageObject(driver);
-//	 return dashboardPage;
-//	}
-//	
-=======
 	public Dashboard_PageObject getDashboardPage()
 	{
 	dashboardPage= new Dashboard_PageObject(driver);
 	 return dashboardPage;
 	}
 	
->>>>>>> master
+
 //	public MyPatients_PageObject getMyPatientPage()
 //	{
 //	myPatientPage= new MyPatients_PageObject(driver);
-//
-//	public Dashboard_PageObject getDashboardPage()
-//	{
-//	dashboardPage= new Dashboard_PageObject();
-//	 return dashboardPage;
+//    return myPatientPage;
 //	}
-	
+//	
 
 	public AddPatient_PageObject getAddPatientPage()
 	{
@@ -68,29 +57,12 @@ public class PageObjectManager {
 	 return deletePatientPage;
 	}
 	
-<<<<<<< HEAD
-//	public ViewTestReport_PageObject getViewTestReportPage()
-//	{
-//	viewReportPage= new ViewTestReport_PageObject(driver);
-//	 return viewReportPage;
-//	}
-	
 
-=======
 	public ViewTestReport_PageObject getViewTestReportPage()
 	{
 	viewReportPage= new ViewTestReport_PageObject(driver);
 	 return viewReportPage;
 	}
->>>>>>> master
-	
-	
 
 	
-	
-	
-	
-	
-	
-
 }

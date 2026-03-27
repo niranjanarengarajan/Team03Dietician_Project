@@ -18758,3 +18758,41 @@
 [INFO ]2026-03-2617:54:50.819[TestNG-tests-3]utils.LoggerLoad1)-Loaded configuration properties
 [INFO ]2026-03-2617:54:50.819[TestNG-tests-3]utils.LoggerLoad1)-Launching browser: edge
 >>>>>>> master
+[INFO ]2026-03-2623:59:37.690[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2623:59:37.694[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2623:59:43.654[main]utils.LoggerLoad1)-browserName: edge
+[INFO ]2026-03-2623:59:44.607[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2713:36:59.020[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2713:36:59.024[main]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-03-2713:36:59.024[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2713:36:59.025[main]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-03-2713:37:01.977[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2713:37:02.675[main]utils.LoggerLoad1)-Performing background login...
+[INFO ]2026-03-2713:37:02.675[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2713:37:02.675[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2713:37:02.675[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2713:37:02.828[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2713:37:03.026[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2713:37:03.026[main]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-03-2713:37:03.027[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2713:37:03.027[main]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-03-2713:37:04.554[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2713:37:04.591[main]utils.LoggerLoad1)-Performing background login...
+[INFO ]2026-03-2713:37:04.591[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2713:37:04.591[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2713:37:04.591[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2713:37:04.871[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2713:37:05.037[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2713:37:05.037[main]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-03-2713:37:05.038[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2713:37:05.038[main]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-03-2713:37:06.527[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2713:37:06.558[main]utils.LoggerLoad1)-Performing background login...
+[INFO ]2026-03-2713:37:06.558[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2713:37:06.558[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2713:37:06.558[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2713:37:06.829[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2713:37:06.992[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2713:37:06.992[main]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-03-2713:37:06.993[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2713:37:06.993[main]utils.LoggerLoad1)-Launching browser: edge
