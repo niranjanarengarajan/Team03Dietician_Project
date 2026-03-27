@@ -15,19 +15,7 @@ import utils.TestContext;
 public class Login_Step {
 	boolean isVisible;
 	String actualColor;
-<<<<<<< HEAD
-	TestContext context;
-	Login_PageObject loginObj;
 	
-	public Login_Step(TestContext context){
-		this.context=context;
-		loginObj = context.poManager.getLoginPage();
-		//this.driver = context.driver;
-	}
-	
-
-	
-=======
 	public TestContext context;
 	Login_PageObject loginObj;
 	PageObjectManager poManager;
@@ -37,7 +25,6 @@ public class Login_Step {
 		this.loginObj = context.poManager.getLoginPage();
 	}
 
->>>>>>> master
 	@Given("User is on the browser")
 	public void user_is_on_the_browser() {
 		
@@ -121,24 +108,24 @@ public class Login_Step {
 
 	@When("User clicks login button after entering {string} in login page")
 	public void user_clicks_login_button_after_entering_valid_credentials_in_login_page(String scenario) {
-		TestContext.testData = ExcelReader.getTestData(scenario);
-		loginObj.enterUsername(TestContext.testData.get("username"));
-		loginObj.enterPassword(TestContext.testData.get("password"));
+		context.testData = ExcelReader.getTestData(scenario);
+		loginObj.enterUsername(context.testData.get("username"));
+		loginObj.enterPassword(context.testData.get("password"));
 		loginObj.clickLoginBtn();
 	}
 
 	@Then("User should be redirected to {string} from login page")
 	public void user_should_be_redirected_to_dashboard_page_from_login_page(String page) {
-	    String expected= TestContext.testData.get(page);
+	    String expected= context.testData.get(page);
 	    String actual = loginObj.getPageUrl();
 	    assertEquals(actual, expected);
 	}
 
 	@When("User clicks login button after entering invalid {string} in login page")
 	public void user_clicks_login_button_after_entering_invalid_in_login_page(String scenario) {
-		TestContext.testData = ExcelReader.getTestData(scenario);
-		loginObj.enterUsername(TestContext.testData.get("username"));
-		loginObj.enterPassword(TestContext.testData.get("password"));
+		context.testData = ExcelReader.getTestData(scenario);
+		loginObj.enterUsername(context.testData.get("username"));
+		loginObj.enterPassword(context.testData.get("password"));
 		loginObj.clickLoginBtn();
 	}
 
@@ -150,23 +137,23 @@ public class Login_Step {
 
 	@When("User clicks login button after entering {string} in password field")
 	public void user_clicks_login_button_after_entering_in_password_field(String scenario) {
-		TestContext.testData = ExcelReader.getTestData(scenario);
-		loginObj.enterUsername(TestContext.testData.get("username"));
-		loginObj.enterPassword(TestContext.testData.get("password"));
+		context.testData = ExcelReader.getTestData(scenario);
+		loginObj.enterUsername(context.testData.get("username"));
+		loginObj.enterPassword(context.testData.get("password"));
 		loginObj.clickLoginBtn();
 	}
 
 	@When("User clicks login button after entering only password and {string}")
 	public void user_clicks_login_button_after_entering_only_password_and(String scenario) {
-		TestContext.testData = ExcelReader.getTestData(scenario);
-		loginObj.enterPassword(TestContext.testData.get("password"));
+		context.testData = ExcelReader.getTestData(scenario);
+		loginObj.enterPassword(context.testData.get("password"));
 		loginObj.clickLoginBtn();
 	}
 	
 	@When("User clicks login button after entering only username and {string}")
 	public void user_clicks_login_button_after_entering_only_username_and(String scenario) {
-		TestContext.testData = ExcelReader.getTestData(scenario);
-		loginObj.enterPassword(TestContext.testData.get("password"));
+		context.testData = ExcelReader.getTestData(scenario);
+		loginObj.enterPassword(context.testData.get("password"));
 		loginObj.clickLoginBtn();
 	}
 

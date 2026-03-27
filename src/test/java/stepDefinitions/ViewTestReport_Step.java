@@ -36,14 +36,14 @@ public class ViewTestReport_Step {
 
 	@When("User clicks View Previous Test Reports button for a {string}")
 	public void user_clicks_view_previous_test_reports_button_for_a_specific_record(String scenario) {
-		TestContext.testData = ExcelReader.getTestData(scenario);
-		reportObj.clickPreviousTestReport(TestContext.testData.get("Patient id"));
+		context.testData = ExcelReader.getTestData(scenario);
+		reportObj.clickPreviousTestReport(context.testData.get("Patient id"));
 	}
 
 	@Then("Corresponding report for that record should be opened")
 	public void corresponding_report_for_that_record_should_be_opened() {
 	    actual=reportObj.validateRecord("Patient id");
-	    expected = TestContext.testData.get("Patient id");
+	    expected = context.testData.get("Patient id");
 	    assertEquals(actual, expected);	    
 	}
 
@@ -54,7 +54,7 @@ public class ViewTestReport_Step {
 
 	@Then("{string} corresponding to the record selected in My Patients page should be displayed in View Test Report popup")
 	public void corresponding_to_the_record_selected_in_my_patients_page_should_be_displayed_in_view_test_report_popup(String field) {
-	    expected = TestContext.testData.get(field);
+	    expected = context.testData.get(field);
 	    actual = reportObj.validateRecord(field);
 	    assertEquals(actual, expected);	  
 	}
@@ -100,7 +100,7 @@ public class ViewTestReport_Step {
 
 	@Then("Corresponding PDF report for that record should be opened")
 	public void corresponding_pdf_report_for_that_record_should_be_opened() {
-	    expected = TestContext.testData.get("ReportName");
+	    expected = context.testData.get("ReportName");
 	    actual = reportObj.getPageUrl();
 	    assertTrue(actual.contains(expected),"Corresponding PDF report did not open");
 	}
@@ -127,15 +127,15 @@ public class ViewTestReport_Step {
 
 	@Then("Pagination text should display the correct range and total number of patients in View Test Report popup")
 	public void pagination_text_should_display_the_correct_range_and_total_number_of_patients_in_view_test_report_popup() {
-	    expected = TestContext.testData.get("PaginationRange");
+	    expected = context.testData.get("PaginationRange");
 	    actual = reportObj.paginationText();
 	    assertEquals(actual, expected);
 	}
 
 	@Given("User is in View Patient Test Reports page for {string}")
 	public void user_is_in_view_patient_test_reports_page_for(String scenario) {
-		TestContext.testData = ExcelReader.getTestData(scenario);
-		reportObj.clickPreviousTestReport(TestContext.testData.get("Patient id"));
+		context.testData = ExcelReader.getTestData(scenario);
+		reportObj.clickPreviousTestReport(context.testData.get("Patient id"));
 	}
 
 	@When("User navigates to the first page of patient record in View Test Report popup")
@@ -160,8 +160,8 @@ public class ViewTestReport_Step {
 
 	@When("User clicks on View Patient Test Reports button for {string}")
 	public void user_clicks_on_view_patient_test_reports_button_for(String scenario) {
-		TestContext.testData = ExcelReader.getTestData(scenario);
-		reportObj.clickPreviousTestReport(TestContext.testData.get("Patient id"));	    
+		context.testData = ExcelReader.getTestData(scenario);
+		reportObj.clickPreviousTestReport(context.testData.get("Patient id"));	    
 	}
 
 	@Then("First, previous, next, last arrows should be disabled in view patient test report page")
