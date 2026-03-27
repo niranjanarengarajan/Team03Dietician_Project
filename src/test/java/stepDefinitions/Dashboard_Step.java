@@ -30,8 +30,8 @@ public class Dashboard_Step {
 
 	@Then("User should be redirected to the {string} page from dashboard page")
 	public void user_should_be_redirected_to_the_page_from_dashboard_page(String scenario) {
-		TestContext.testData = ExcelReader.getTestData(scenario);
-		String expected = TestContext.testData.get("URL");
+		context.testData = ExcelReader.getTestData(scenario);
+		String expected = context.testData.get("URL");
 		String actual = dashboardObj.getPageUrl();
 	    assertEquals(actual, expected);
 	}

@@ -2,7 +2,7 @@
 Feature: Login page UI and functional verification
   To verify UI elements and functionality of Login Page of Dietician Application
   
-  Background: User is in the login page
+    Background: User is in the login page
     Given User is on the browser
     When user enters app url
     

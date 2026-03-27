@@ -7,6 +7,7 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
+
         features = "src/test/resources/FeatureFiles", 
         tags= "@loginPage or @dashboardPage or @viewTestReportPage",
         glue = "stepDefinitions", 
@@ -21,6 +22,7 @@ import io.cucumber.testng.CucumberOptions;
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
 	public static ThreadLocal<String> browserName = new ThreadLocal<>();
+
 
     @Parameters("browser")
     @BeforeClass

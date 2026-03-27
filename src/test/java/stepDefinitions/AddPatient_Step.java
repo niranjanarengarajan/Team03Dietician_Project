@@ -6,6 +6,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObject.AddPatient_PageObject;
+import utils.TestContext;
 import utils.LoggerLoad;
 import utils.TestContext;
 
@@ -23,6 +24,7 @@ public class AddPatient_Step {
 	public void user_is_in_home_page() {
     	 LoggerLoad.info("Checking that user is on Home Page");
     	 Assert.assertTrue(addPatientPage.isHomePageDisplayed(), "Home Page is not displayed");	}
+
 
 	@When("User clicks on New Patient in the header section")
 	public void user_clicks_on_new_patient_in_the_header_section() {

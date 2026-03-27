@@ -31,10 +31,8 @@ public class PageObjectManager {
 	
 //	public MyPatients_PageObject getMyPatientPage()
 //	{
-//	myPatientPage= new MyPatients_PageObject();
-//	 return myPatientPage;
-//	}
-	
+//	myPatientPage= new MyPatients_PageObject(driver);
+//
 	public AddPatient_PageObject getAddPatientPage()
 	{
 	addPatientPage= new AddPatient_PageObject(driver);
@@ -52,7 +50,7 @@ public class PageObjectManager {
 	deletePatientPage= new DeletePatient_PageObject(driver);
 	 return deletePatientPage;
 	}
-	
+
 	public ViewTestReport_PageObject getViewTestReportPage()
 	{
 	viewReportPage= new ViewTestReport_PageObject(driver);
@@ -60,4 +58,12 @@ public class PageObjectManager {
 	}
 	
 	
+
+	
+	
+	
+	
+	
+	
+
 }
