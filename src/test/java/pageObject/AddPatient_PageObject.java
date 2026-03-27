@@ -1,25 +1,33 @@
 package pageObject;
 
 import java.io.File;
+import java.time.Duration;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import utils.ExcelReader;
+import utils.JSUtils;
+import utils.LoggerLoad;
+import utils.TestContext;
 import utils.WaitUtils;
 
 public class AddPatient_PageObject {
 	
 	 WebDriver driver;
 	 private WaitUtils waitUtils;
+	 private JSUtils jsUtils;
+	 TestContext context;
+	 
 	 public AddPatient_PageObject(WebDriver driver) { 
 	        this.driver = driver;
 	        this.waitUtils = new WaitUtils(driver);
@@ -107,9 +115,20 @@ public class AddPatient_PageObject {
     @FindBy(xpath = "//div[@class='toast-message']") 
     private List<WebElement> messageText;
     
+    public boolean isHomePageDisplayed() {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        try {
+        	waitUtils.waitForVisibility(driver, dialogTitle, 10); 
+            return newPatientButton.isDisplayed();
+        } catch (TimeoutException e) {
+            LoggerLoad.error("New Patient button not found in 10 seconds");
+            return false;
+        }
+    }
     public void clickNewPatientButton() {
     	waitUtils.waitForClickable(newPatientButton).click();
        }
+
 
     public String getDialogTitle() {
     	waitUtils.waitForVisibility(driver, dialogTitle, 10);
@@ -121,10 +140,8 @@ public class AddPatient_PageObject {
         return dialogBox.isDisplayed();
     }
 
-    public boolean hasScroll() {
-    	waitUtils.waitForVisibility(driver, dialogBox, 10);
-        return (Boolean) ((JavascriptExecutor) driver)
-                .executeScript("return arguments[0].scrollHeight > arguments[0].clientHeight;", dialogBox);
+    public boolean isDialogScrollable() {
+        return jsUtils.hasScroll(dialogBox);
     }
 
     public int getInputFieldCount() {
@@ -143,15 +160,26 @@ public class AddPatient_PageObject {
     }
 
     public boolean isPlaceholderDisplayed(String expected) {
-    	waitUtils.waitForVisibilityOfAll(inputFields); 
-        return inputFields.stream()
-                .anyMatch(e -> expected.equalsIgnoreCase(e.getAttribute("placeholder")));
-    }
+        waitUtils.waitForVisibilityOfAll(inputFields);
+        for (WebElement element : inputFields) {
+            String placeholder = element.getAttribute("placeholder");
 
+            if (placeholder != null && placeholder.equalsIgnoreCase(expected)) {
+                return true; 
+            }
+        }
+        return false; 
+    }
     public boolean isDropdownDisplayed(String expected) {
-    	 waitUtils.waitForVisibilityOfAll(dropdowns);
-        return dropdowns.stream()
-                .anyMatch(e -> e.getText().contains(expected));
+        waitUtils.waitForVisibilityOfAll(dropdowns);
+        for (WebElement element : dropdowns) {
+            String text = element.getText();
+
+            if (text != null && text.contains(expected)) {
+                return true; 
+            }
+        }
+        return false; 
     }
 
     public boolean isTextPresent(String text) {
@@ -253,7 +281,7 @@ public class AddPatient_PageObject {
                 if (property.equalsIgnoreCase("title")) {
                     return getDialogTitle().equals(value);
                 } else if (property.equalsIgnoreCase("scrollbar")) {
-                    return hasScroll();
+                    return jsUtils.hasScroll(dialogBox);
                 }
                 break;
 
@@ -553,7 +581,12 @@ public class AddPatient_PageObject {
     
     public void createPatientFromExcel() {
     	 Map<String, String> data = ExcelReader.getTestData("AddPatient");
-
+    	  System.out.println("----- Excel Data -----");
+    	    for (Map.Entry<String, String> entry : data.entrySet()) {
+    	        System.out.println(entry.getKey() + " : " + entry.getValue());
+    	    }
+    	    System.out.println("----------------------");
+    	    
         if (data.containsKey("first_name")) enterFieldValue("first name", data.get("first_name"));
         if (data.containsKey("last_name")) enterFieldValue("last name", data.get("last_name"));
         if (data.containsKey("email")) enterEmail(data.get("email"));

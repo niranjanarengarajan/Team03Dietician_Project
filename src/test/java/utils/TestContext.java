@@ -6,17 +6,19 @@ import org.openqa.selenium.WebDriver;
 
 import driverManager.DriverFactory;
 import pageObject.PageObjectManager;
+import stepDefinitions.AddPatient_Step;
 import stepDefinitions.Login_Step;
 
 public class TestContext {
 
 	public WebDriver driver;
-	public static Map<String, String> testData;
+	public  Map<String, String> testData;
 	public DriverFactory drfactory;
 	public PageObjectManager poManager;
 	public Login_Step loginStep;
 	public WaitUtils waits;
 	public JSUtils jsUtils;
+
 	public String PatientName ;
 
 	public TestContext() {
@@ -43,3 +45,4 @@ public class TestContext {
 	 
 
 }
+

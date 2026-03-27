@@ -1,4 +1,4 @@
-@AddPatient @Login
+@AddPatient @Login 
 Feature: Add Patient Dialog Box -Validation   
 
 Rule: Basic Add Patient Dialog Box UI Validation
@@ -6,6 +6,8 @@ Rule: Basic Add Patient Dialog Box UI Validation
 Background: User logged into Application,clicks on New Patient
   Given User is in Home Page
   When User clicks on New Patient in the header section
+ 
+
 Scenario Outline: Verify UI elements in Add Patient Dialog
   Then User should see "<ElementType>" with "<Property>" "<Value>"
 
@@ -368,10 +370,14 @@ Examples:
 | none       | Patient created successfully without file           |
 
 
+Scenario: Upload without selecting file
+    When User clicks Submit button after User enters valid patient details and skips file upload
+    Then User is directed to My Patient Page with New Patient Details created
+
 Scenario: Close add dialog using Close button
 When User clicks Close button after submit in the Add patient detail page
 Then Add dialog should close and user  should be on my patient page without new patient created 
  
 Scenario: Validate Patient Creation from Excel
   When User creates new patient using Excel data
-  Then Patient creation should reflect the correct result
+  Then Patient creation should reflect the correct result  

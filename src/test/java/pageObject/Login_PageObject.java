@@ -12,9 +12,11 @@ import utils.LoggerLoad;
 
 public class Login_PageObject {
 	
+
 	public Login_PageObject(WebDriver driver) {
 		
 		this.driver = driver;
+
 		PageFactory.initElements(driver, this);
 	}
 	

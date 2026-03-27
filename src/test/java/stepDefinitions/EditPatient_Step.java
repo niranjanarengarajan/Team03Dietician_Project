@@ -22,9 +22,7 @@ public class EditPatient_Step {
 		this.context=context;
 		
 	}
-		
-	
-	
+
 	@Given("User logged into the app and user is in my patient page")
 	public void user_logged_into_the_app_and_user_is_in_my_patient_page() {
 	    

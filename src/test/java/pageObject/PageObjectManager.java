@@ -24,6 +24,7 @@ public class PageObjectManager {
 	 return loginPage;
 	}
 	
+
 //	public Dashboard_PageObject getDashboardPage()
 //	{
 //	dashboardPage= new Dashboard_PageObject(driver);
@@ -33,14 +34,20 @@ public class PageObjectManager {
 //	public MyPatients_PageObject getMyPatientPage()
 //	{
 //	myPatientPage= new MyPatients_PageObject(driver);
-//	 return myPatientPage;
+//
+//	public Dashboard_PageObject getDashboardPage()
+//	{
+//	dashboardPage= new Dashboard_PageObject();
+//	 return dashboardPage;
 //	}
 	
+
 	public AddPatient_PageObject getAddPatientPage()
 	{
 	addPatientPage= new AddPatient_PageObject(driver);
 	 return addPatientPage;
 	}
+	
 	public EditPatient_PageObject getEditPatientPage()
 	{
 		editPatientPage= new EditPatient_PageObject(driver);
@@ -59,6 +66,7 @@ public class PageObjectManager {
 //	 return viewReportPage;
 //	}
 	
+
 	
 	
 
@@ -68,4 +76,5 @@ public class PageObjectManager {
 	
 	
 	
+
 }

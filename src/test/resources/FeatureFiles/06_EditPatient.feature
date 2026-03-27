@@ -12,7 +12,7 @@ Then User should see  "<element>" on the dialog box
 
 Examples:
 |element                    |
-|edit patient title                      |
+|edit patient title         |
 |submit button presence 	|
 |state of submit button 	|
 |close button presence  	|
