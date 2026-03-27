@@ -7,7 +7,7 @@ public class PageObjectManager {
 	public WebDriver driver;
 	public Login_PageObject loginPage;
 	public Dashboard_PageObject dashboardPage;
-	public MyPatients_PageObject myPatientPage;
+//	public MyPatients_PageObject myPatientPage;
 	public AddPatient_PageObject addPatientPage;
 	public EditPatient_PageObject editPatientPage;
 	public ViewTestReport_PageObject viewReportPage;
@@ -15,26 +15,27 @@ public class PageObjectManager {
 		
 	public PageObjectManager (WebDriver driver) {
 		this.driver = driver;
+		System.out.println("driver in page obj manager " +driver);
 		
 	}
 	
 	public Login_PageObject getLoginPage()
 	{
-	loginPage= new Login_PageObject();
+	loginPage= new Login_PageObject(driver);
 	 return loginPage;
 	}
 	
 	public Dashboard_PageObject getDashboardPage()
 	{
-	dashboardPage= new Dashboard_PageObject();
+	dashboardPage= new Dashboard_PageObject(driver);
 	 return dashboardPage;
 	}
 	
-	public MyPatients_PageObject getMyPatientPage()
-	{
-	myPatientPage= new MyPatients_PageObject();
-	 return myPatientPage;
-	}
+//	public MyPatients_PageObject getMyPatientPage()
+//	{
+//	myPatientPage= new MyPatients_PageObject();
+//	 return myPatientPage;
+//	}
 	
 	public AddPatient_PageObject getAddPatientPage()
 	{
@@ -55,7 +56,7 @@ public class PageObjectManager {
 	
 	public ViewTestReport_PageObject getViewTestReportPage()
 	{
-	viewReportPage= new ViewTestReport_PageObject();
+	viewReportPage= new ViewTestReport_PageObject(driver);
 	 return viewReportPage;
 	}
 	
