@@ -5,9 +5,11 @@ import java.util.Map;
 import org.testng.Assert;
 
 import io.cucumber.java.en.*;
+import pageObject.Dashboard_PageObject;
 import pageObject.EditPatient_PageObject;
 import pageObject.PageObjectManager;
 import utils.ExcelReader;
+import utils.LoggerLoad;
 import utils.TestContext;
 
 public class EditPatient_Step {
@@ -15,21 +17,30 @@ public class EditPatient_Step {
 	EditPatient_PageObject editPatientPage;
 	PageObjectManager poManager;
 	private static String patientId;
+	Dashboard_PageObject dashboardObj;
 	
 	public EditPatient_Step(TestContext context)
 	{
-		editPatientPage = context.poManager.getEditPatientPage();
+		this.editPatientPage = context.poManager.getEditPatientPage();
+		this.dashboardObj = context.poManager.getDashboardPage();
 		this.context=context;
 		
 	}
 
 	@Given("User logged into the app and user is in my patient page")
 	public void user_logged_into_the_app_and_user_is_in_my_patient_page() {
-	    
+		dashboardObj.clickElement("My Patients link");
+		
+		LoggerLoad.info("user is on my patients page");
+		
 	}
 
 	@When("User clicks edit icon for the particular patient")
 	public void user_clicks_edit_icon_for_the_particular_patient() {
+		context.testData= ExcelReader.getTestData("AddPatient");
+		String existingPatientName =context.testData.get("first_name");		
+		editPatientPage.searchForPatienName(existingPatientName);
+		String patientId = editPatientPage.getPatientId(existingPatientName);
 		editPatientPage.clickOnEditButton();
 	}
 
@@ -37,7 +48,8 @@ public class EditPatient_Step {
 	public void user_should_see_on_the_dialog_box(String scenarioType) {
 		
 		editPatientPage.validateElementEditPopup("scenarioType");
-		Assert.assertTrue(true, "element not matched");
+		Assert.assertTrue(true, "edit window fields not matched");
+		LoggerLoad.info("user sees the edit popup window");
 	   
 	}
 	
@@ -51,6 +63,8 @@ public class EditPatient_Step {
 	public void user_should_see_popsup_on_the_dialog_box(String expected, String element) {
 		 boolean actual = editPatientPage.checkDropdownPopulated(element);
 		 Assert.assertEquals(actual, expected, "dropdown did not populated");
+		 LoggerLoad.info("dropdown elements populated");
+		 
 		
 		
 	}
@@ -69,29 +83,24 @@ public class EditPatient_Step {
 	public void user_should_see_placeholder_has(String element, String expected) {
 		String actual = editPatientPage.placeholderFieldEditPopup(element);
 		Assert.assertEquals(actual, expected, "placeholder mismatch");
+		LoggerLoad.info("placeholder fields present");
 	}
 
 	@When("User clicks the Submit button after entering valid data of {string} from Excel for {string} edit window")
 	public void user_clicks_the_submit_button_after_entering_valid_data_of_from_excel_for_edit_window(String scenarioType, String columnName) {
 	    
-		context.testData= ExcelReader.getTestData("AddPatient");
-		String existingPatientName =context.testData.get("first_name");		
-		editPatientPage.searchForPatienName(existingPatientName);
-		String patientId = editPatientPage.getPatientId(existingPatientName);
-		editPatientPage.clickOnEditButton();
-		
 		context.testData = ExcelReader.getTestData(scenarioType);
 		String value = context.testData.get(columnName);
 		editPatientPage.clearEnterAndSubmitValidData(scenarioType, value);
 		
-		
-	    
+		    
 	}
 
 	@Then("User should be redirected to the {string} page")
 	public void user_should_be_redirected_to_the_page(String expected) {
 		String actual = editPatientPage.redirectedToMyPatientsPage();
 		Assert.assertEquals(actual, expected, "my patient page not found");
+		LoggerLoad.info("user is on my patients page");
 	}
 
 	@Then("User should see updated {string} from Excel for {string} in My Patient table")
@@ -192,68 +201,87 @@ public class EditPatient_Step {
 	    
 	 	
 	@When("User clicks the Submit button after entering invalid data of {string} from Excel for {string} edit window")
-	public void user_clicks_the_submit_button_after_entering_invalid_data_of_from_excel_for_edit_window(String string, String string2) {
-	    
+	public void user_clicks_the_submit_button_after_entering_invalid_data_of_from_excel_for_edit_window(String columnName, String scenarioName) {
+		editPatientPage.ValidateEditWindowFieldsInvalidDataAndSubmit(scenarioName,columnName );
+		
 	}
 
-	@Then("User should see the error message {string} from Excel")
-	public void user_should_see_the_error_message_from_excel(String string) {
-	    
+	@Then("User should see the error message ErrorMessage from Excel")
+	public void user_should_see_the_error_message_error_message_from_excel() {
+		String actual = editPatientPage.getErrorMessages();
+		String expected = context.testData.get("error_messages");
+		Assert.assertEquals(actual, expected, "error messages did not match");
+		LoggerLoad.info("Successfully verified Date Picker is visible.");
 	}
 
 	@When("User clicks on the DOB input field")
 	public void user_clicks_on_the_dob_input_field() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+		editPatientPage.clickDOBField();
 	}
 
 	@Then("User should see the calendar date picker displayed with Month, Day, and Year")
 	public void user_should_see_the_calendar_date_picker_displayed_with_month_day_and_year() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+		boolean isDatePickerVisible = editPatientPage.isDatePickerDisplayed();
+		Assert.assertTrue(isDatePickerVisible, "The DOB Date Picker was NOT displayed ");
+		LoggerLoad.info("Successfully verified Date Picker is visible.");
 	}
 
 	@When("User enters {string} for {string} for editPatient")
-	public void user_enters_for_for_edit_patient(String string, String string2) {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+	public void user_enters_for_for_edit_patient(String value, String scenarioType) {
+		context.testData = ExcelReader.getTestData(scenarioType);
+		String date = context.testData.get(value);
+	    
+	    // Open the picker
+	    editPatientPage.clickDOBField();
+	    
+	    // Select the date
+	    editPatientPage.selectDateFromPicker(date);
+	    
+	    LoggerLoad.info("Selected date " + date + " from the calendar picker.");
 	}
 
-	@Then("User should see the date picker {string} from Excel")
-	public void user_should_see_the_date_picker_from_excel(String string) {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+	@Then("User should see the date picker {string} from {}")
+	public void user_should_see_the_date_picker_from_(String expected, String ScenarioName ) {
+		String expectedMessage = context.testData.get("expected_message");
+
+	    String actualMessage = editPatientPage.getActualDOBErrorMessage();
+
+	    Assert.assertEquals(actualMessage, expectedMessage,  "Validation failed for " + ScenarioName + "!");
+	    LoggerLoad.info("Validating date picker for Scenario: " + ScenarioName + 
+                " | Expected: " + expectedMessage + " | Actual: " + actualMessage);
 	}
 
 	@When("User uploads file for {string} from excel for editPatient")
-	public void user_uploads_file_for_from_excel_for_edit_patient(String string) {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+	public void user_uploads_file_for_from_excel_for_edit_patient(String fieldName) {
+		editPatientPage.submituponUploadFile(patientId);
+		editPatientPage.getReportDetailValue(fieldName);
 	}
 
 	@When("User clicks the {string} button in edit window")
 	public void user_clicks_the_button_in_edit_window(String string) {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+		editPatientPage.viewPatientTestReport();
 	}
+	
 
-	@When("User clicks the {string} button and uploads file for {string} from excel for editPatient")
-	public void user_clicks_the_button_and_uploads_file_for_from_excel_for_edit_patient(String string, String string2) {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
-	}
+	
 
-	@When("User clicks {string} and verifies the following report details:")
-	public void user_clicks_and_verifies_the_following_report_details(String string, io.cucumber.datatable.DataTable dataTable) {
-	    // Write code here that turns the phrase above into concrete actions
-	    // For automatic transformation, change DataTable to one of
-	    // E, List<E>, List<List<E>>, List<Map<K,V>>, Map<K,V> or
-	    // Map<K, List<V>>. E,K,V must be a String, Integer, Float,
-	    // Double, Byte, Short, Long, BigInteger or BigDecimal.
-	    //
-	    // For other transformations you can register a DataTableType.
-	    throw new io.cucumber.java.PendingException();
+	@Then("User clicks {string} and verifies the following report details:")
+	public void user_clicks_and_verifies_the_following_report_details(String fieldName, io.cucumber.datatable.DataTable dataTable) {
+		
+		List<String> fields = dataTable.asList(); 
+
+	    for (String field : fields) {
+	       
+	        if(field.equalsIgnoreCase("field")) continue;
+
+	        String actualValue = editPatientPage.getReportDetailValue(fieldName);
+	        
+	        Assert.assertFalse(actualValue.isEmpty(), "The value for " + field + " is missing in the report!");
+	        
+	        LoggerLoad.info("Verified " + field + ": " + actualValue);
+	    }
 	}
+	
 
 	
 

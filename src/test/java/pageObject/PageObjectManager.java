@@ -12,6 +12,7 @@ public class PageObjectManager {
 	public EditPatient_PageObject editPatientPage;
 	public ViewTestReport_PageObject viewReportPage;
 	public DeletePatient_PageObject deletePatientPage;
+	
 		
 	public PageObjectManager (WebDriver driver) {
 		this.driver = driver;
@@ -57,14 +58,7 @@ public class PageObjectManager {
 	viewReportPage= new ViewTestReport_PageObject(driver);
 	 return viewReportPage;
 	}
-	
-	
+
 
 	
-	
-	
-	
-	
-	
-
 }

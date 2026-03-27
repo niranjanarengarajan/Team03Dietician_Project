@@ -39,7 +39,7 @@ public class TestContext {
 	  
 	  public void setupManagers() {
 	  
-	  WebDriver driver = drfactory.getDriver(); 
+	  this. driver = DriverFactory.getDriver(); 
 	  this.poManager = new PageObjectManager(driver); 
 	  this.waits = new WaitUtils(driver); 
 	  this.loginStep = new Login_Step(this); 

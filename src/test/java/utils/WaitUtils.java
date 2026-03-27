@@ -5,7 +5,6 @@ import java.util.List;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import utils.LoggerLoad;
 
 
 
@@ -81,5 +80,35 @@ public class WaitUtils {
             return false;
         }
     }
+
+
+    public String waitForCodeMirrorOutput(String elementId, int timeoutSeconds) {
+        WebDriverWait customWait = new WebDriverWait(driver, Duration.ofSeconds(timeoutSeconds));
+        WebElement output = customWait.until(d -> {
+            WebElement el = d.findElement(By.id(elementId));
+            String text = el.getAttribute("textContent").trim();
+            return !text.isEmpty() ? el : null;
+        });
+        return output.getAttribute("textContent").trim();
+    }
+    
+    public String getActualErrorMessage(List<WebElement> elements) {
+	    try {
+	       
+	        WebElement activeError = waitForVisibility(driver, elements.get(0), 5);
+
+	        if (activeError.isDisplayed()) {
+	            String text = activeError.getText().trim();
+	            LoggerLoad.info("Captured  error: " + text);
+	            return text;
+	        }
+	    } catch (Exception e) {
+	        LoggerLoad.error("No error message element was found on the page.");
+	        return "No error message displayed";
+	    }
+	    return "No error message displayed";
+	}
+	
+    
 
 }
