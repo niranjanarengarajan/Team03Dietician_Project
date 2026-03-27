@@ -15,6 +15,19 @@ import utils.TestContext;
 public class Login_Step {
 	boolean isVisible;
 	String actualColor;
+<<<<<<< HEAD
+	TestContext context;
+	Login_PageObject loginObj;
+	
+	public Login_Step(TestContext context){
+		this.context=context;
+		loginObj = context.poManager.getLoginPage();
+		//this.driver = context.driver;
+	}
+	
+
+	
+=======
 	public TestContext context;
 	Login_PageObject loginObj;
 	PageObjectManager poManager;
@@ -24,8 +37,10 @@ public class Login_Step {
 		this.loginObj = context.poManager.getLoginPage();
 	}
 
+>>>>>>> master
 	@Given("User is on the browser")
 	public void user_is_on_the_browser() {
+		
 		loginObj.browserIsOpen();
 		LoggerLoad.info("Browser is open and ready");
 	}

@@ -1833,6 +1833,870 @@
 [INFO ]2026-03-2423:27:43.472[main]utils.LoggerLoad1)-Loaded configuration properties
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+[INFO ]2026-03-2512:16:53.806[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:16:53.810[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:17:02.392[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:17:03.326[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: User is in the login page
+[INFO ]2026-03-2512:17:03.539[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:17:03.540[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:17:05.793[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:17:06.058[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2512:17:06.254[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:17:06.254[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:17:08.341[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:17:08.622[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2512:17:08.793[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:17:08.793[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:17:10.951[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:17:11.222[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2512:17:11.391[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:17:11.393[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:17:13.171[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:17:19.526[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:17:19.527[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:17:21.795[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:17:21.852[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:17:21.852[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:17:23.683[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:17:23.732[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:17:23.732[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:17:25.109[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:17:25.808[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:17:25.809[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:17:27.432[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:00.399[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:00.401[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:03.148[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:03.876[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2512:19:04.068[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:04.068[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:05.942[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:06.236[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2512:19:06.406[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:06.406[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:08.622[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:08.846[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2512:19:09.019[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:09.020[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:10.964[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:11.246[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Page title visibility
+[INFO ]2026-03-2512:19:11.397[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:11.398[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:13.610[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:13.842[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for first field
+[INFO ]2026-03-2512:19:14.023[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:14.024[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:16.158[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:16.390[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for second field
+[INFO ]2026-03-2512:19:16.570[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:16.570[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:18.804[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:19.055[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Username input field presence
+[INFO ]2026-03-2512:19:19.228[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:19.228[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:21.261[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:21.531[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Password input field presence
+[INFO ]2026-03-2512:19:21.700[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:21.701[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:23.840[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:24.118[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button presence
+[INFO ]2026-03-2512:19:24.316[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:24.316[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:26.320[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:26.595[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button color and styling
+[INFO ]2026-03-2512:19:26.789[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:26.790[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:28.759[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:29.012[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Input field label alignment
+[INFO ]2026-03-2512:19:29.203[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:29.204[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:31.167[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:31.471[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Total number of input fields
+[INFO ]2026-03-2512:19:31.622[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:31.622[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:33.837[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:34.104[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button enabled state
+[INFO ]2026-03-2512:19:34.262[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:34.262[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:36.184[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:36.458[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with valid credential
+[INFO ]2026-03-2512:19:36.619[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:36.619[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:38.643[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:38.865[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with non-existing user
+[INFO ]2026-03-2512:19:39.030[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:39.031[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:41.144[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:41.425[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in user name
+[INFO ]2026-03-2512:19:41.608[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:41.608[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:43.609[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:43.851[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with only few charac of username
+[INFO ]2026-03-2512:19:44.017[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:44.017[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:46.114[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:46.331[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with empty password field
+[INFO ]2026-03-2512:19:46.505[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:46.505[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:48.523[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:48.788[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with wrong password in password field
+[INFO ]2026-03-2512:19:48.934[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:48.934[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:51.208[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:51.455[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in password field
+[INFO ]2026-03-2512:19:51.617[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:19:51.617[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:19:53.898[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:19:54.144[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with empty username field
+[INFO ]2026-03-2512:31:28.302[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:31:28.305[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:31:30.039[main]utils.LoggerLoad1)-browserName: edge
+[INFO ]2026-03-2512:31:31.482[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:31:32.311[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: User is in the login page
+[INFO ]2026-03-2512:31:32.558[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:31:32.558[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:31:33.604[main]utils.LoggerLoad1)-browserName: edge
+[INFO ]2026-03-2512:31:35.032[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:31:35.311[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2512:31:35.502[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:31:35.502[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:31:36.404[main]utils.LoggerLoad1)-browserName: edge
+[INFO ]2026-03-2512:31:38.280[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:31:38.529[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2512:31:38.733[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:31:38.734[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:31:39.663[main]utils.LoggerLoad1)-browserName: edge
+[INFO ]2026-03-2512:31:40.722[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:31:41.024[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2512:31:41.202[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2512:31:41.203[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2512:49:51.570[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:50:02.258[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:50:02.498[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2512:50:04.855[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:50:05.103[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2512:50:07.335[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:50:07.581[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2512:50:09.831[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:50:10.174[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Page title visibility
+[INFO ]2026-03-2512:50:12.554[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:50:12.800[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for first field
+[INFO ]2026-03-2512:50:15.015[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:50:15.336[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for second field
+[INFO ]2026-03-2512:50:17.552[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:50:17.801[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Username input field presence
+[INFO ]2026-03-2512:57:41.053[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:57:41.823[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: User is in the login page
+[INFO ]2026-03-2512:57:44.334[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2512:57:44.628[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2513:02:21.923[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:02:26.229[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: User is in the login page
+[INFO ]2026-03-2513:02:29.791[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:02:30.083[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2513:02:32.222[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:02:32.462[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2513:07:24.365[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:07:25.026[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: User is in the login page
+[INFO ]2026-03-2513:07:27.362[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:07:27.604[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2513:07:29.988[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:07:30.204[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2513:09:07.436[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:09:11.300[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: User is in the login page
+[INFO ]2026-03-2513:09:13.518[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:09:13.829[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2513:09:15.861[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:09:16.121[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2513:09:47.856[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:09:48.067[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: User is in the login page
+[INFO ]2026-03-2513:09:50.112[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:09:50.320[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[WARN ]2026-03-2513:11:31.599[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.601[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: User is in the login page
+[WARN ]2026-03-2513:11:31.662[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.662[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[WARN ]2026-03-2513:11:31.701[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.701[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[WARN ]2026-03-2513:11:31.740[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.740[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[WARN ]2026-03-2513:11:31.770[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.771[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Page title visibility
+[WARN ]2026-03-2513:11:31.793[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.794[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for first field
+[WARN ]2026-03-2513:11:31.813[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.813[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for second field
+[WARN ]2026-03-2513:11:31.832[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.832[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Username input field presence
+[WARN ]2026-03-2513:11:31.852[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.853[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Password input field presence
+[WARN ]2026-03-2513:11:31.874[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.874[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button presence
+[WARN ]2026-03-2513:11:31.898[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.899[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button color and styling
+[WARN ]2026-03-2513:11:31.916[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.916[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Input field label alignment
+[WARN ]2026-03-2513:11:31.941[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.941[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Total number of input fields
+[WARN ]2026-03-2513:11:31.956[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.956[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button enabled state
+[WARN ]2026-03-2513:11:31.974[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.974[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with valid credential
+[WARN ]2026-03-2513:11:31.989[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:31.989[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with non-existing user
+[WARN ]2026-03-2513:11:32.005[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:32.005[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in user name
+[WARN ]2026-03-2513:11:32.019[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:32.020[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with only few charac of username
+[WARN ]2026-03-2513:11:32.037[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:32.037[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with empty password field
+[WARN ]2026-03-2513:11:32.052[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:32.052[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with wrong password in password field
+[WARN ]2026-03-2513:11:32.066[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:32.066[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in password field
+[WARN ]2026-03-2513:11:32.082[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:11:32.082[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with empty username field
+[WARN ]2026-03-2513:12:03.824[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:03.827[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: User is in the login page
+[WARN ]2026-03-2513:12:03.885[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:03.885[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[WARN ]2026-03-2513:12:03.922[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:03.922[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[WARN ]2026-03-2513:12:03.957[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:03.957[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[WARN ]2026-03-2513:12:03.990[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:03.990[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Page title visibility
+[WARN ]2026-03-2513:12:04.009[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.010[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for first field
+[WARN ]2026-03-2513:12:04.030[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.030[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for second field
+[WARN ]2026-03-2513:12:04.049[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.049[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Username input field presence
+[WARN ]2026-03-2513:12:04.066[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.066[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Password input field presence
+[WARN ]2026-03-2513:12:04.083[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.083[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button presence
+[WARN ]2026-03-2513:12:04.104[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.105[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button color and styling
+[WARN ]2026-03-2513:12:04.124[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.124[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Input field label alignment
+[WARN ]2026-03-2513:12:04.148[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.148[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Total number of input fields
+[WARN ]2026-03-2513:12:04.164[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.165[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button enabled state
+[WARN ]2026-03-2513:12:04.183[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.183[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with valid credential
+[WARN ]2026-03-2513:12:04.200[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.200[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with non-existing user
+[WARN ]2026-03-2513:12:04.219[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.220[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in user name
+[WARN ]2026-03-2513:12:04.239[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.240[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with only few charac of username
+[WARN ]2026-03-2513:12:04.258[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.259[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with empty password field
+[WARN ]2026-03-2513:12:04.276[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.276[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with wrong password in password field
+[WARN ]2026-03-2513:12:04.291[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.292[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in password field
+[WARN ]2026-03-2513:12:04.306[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2513:12:04.306[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with empty username field
+[INFO ]2026-03-2513:12:59.481[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2513:12:59.484[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2513:13:00.802[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2513:13:02.565[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:13:03.310[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: User is in the login page
+[INFO ]2026-03-2513:13:03.516[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2513:13:03.517[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2513:13:04.346[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2513:13:05.519[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:13:05.789[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2513:13:05.982[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2513:13:05.984[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2513:49:50.744[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2513:49:50.747[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2513:49:52.437[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2513:49:54.419[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:49:55.213[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: User is in the login page
+[INFO ]2026-03-2513:49:55.447[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2513:49:55.448[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2513:49:56.459[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2513:49:58.016[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:49:58.216[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2513:49:58.464[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2513:49:58.465[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2513:49:59.282[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2513:50:01.694[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:50:01.895[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2513:50:02.101[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2513:50:02.102[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2513:52:35.123[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2513:52:35.126[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2513:52:36.559[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2513:52:38.441[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2513:52:39.238[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2513:52:39.453[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2513:52:39.454[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:33:22.689[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:33:22.692[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:33:39.422[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:33:41.439[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:33:47.694[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2514:33:48.105[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:33:48.112[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:33:49.583[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:33:51.377[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:33:51.773[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2514:33:52.054[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:33:52.057[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:33:53.231[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:36:15.177[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:36:15.179[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:36:16.957[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:36:19.382[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:36:20.458[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2514:36:20.701[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:36:20.701[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:36:35.219[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:36:35.223[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:36:36.706[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:36:38.612[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:36:45.176[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2514:36:45.591[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:36:45.592[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:36:46.788[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:36:48.528[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:36:48.961[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2514:36:49.188[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:36:49.189[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:40:09.598[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:40:09.601[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:40:11.549[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:40:14.767[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:40:15.703[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2514:40:15.997[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:40:15.997[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:40:17.032[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:40:18.880[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:40:19.284[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2514:40:19.503[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:40:19.503[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:42:11.085[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:42:11.087[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:42:12.858[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:42:15.983[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:42:16.732[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2514:42:17.000[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:42:17.000[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:42:18.357[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:42:22.909[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:42:23.370[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2514:42:23.607[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:42:23.607[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:42:24.791[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:42:26.550[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:42:27.002[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2514:42:27.193[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:42:27.194[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:42:28.304[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:42:30.460[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:42:30.851[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Page title visibility
+[INFO ]2026-03-2514:42:31.096[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:42:31.097[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:44:58.636[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:44:58.640[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:45:00.162[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:45:03.355[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:45:04.249[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2514:45:04.249[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2514:45:04.249[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2514:45:04.532[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2514:45:04.785[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:45:04.786[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:45:06.078[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:45:09.131[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:45:09.185[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2514:45:09.185[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2514:45:09.185[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2514:45:09.476[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2514:45:09.707[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:45:09.707[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:45:11.063[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:45:13.339[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:45:13.373[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2514:45:13.373[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2514:45:13.373[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2514:45:13.744[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-03-2514:45:13.949[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:45:13.949[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:47:15.013[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:47:15.016[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:47:16.657[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:47:19.650[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:47:20.216[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[ERROR]2026-03-2514:47:20.217[main]utils.LoggerLoad1)-WebDriver is not initialized.
+[INFO ]2026-03-2514:47:20.548[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2514:47:20.803[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:47:20.804[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:47:22.005[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:47:25.321[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:47:25.377[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[ERROR]2026-03-2514:47:25.377[main]utils.LoggerLoad1)-WebDriver is not initialized.
+[INFO ]2026-03-2514:47:25.684[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2514:47:25.900[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:47:25.900[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:48:45.235[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:48:45.240[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:48:47.031[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:48:49.213[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:48:49.874[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2514:48:49.874[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2514:48:49.874[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2514:48:50.235[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2514:48:50.475[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:48:50.475[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:48:51.604[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:48:53.578[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:48:53.627[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2514:48:53.628[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2514:48:53.628[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2514:48:54.029[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2514:48:54.278[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:48:54.279[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:51:10.476[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:51:10.479[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:51:12.734[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:51:15.994[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:51:16.781[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2514:51:16.781[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2514:51:16.781[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2514:51:16.990[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2514:51:17.248[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:51:17.248[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:52:00.038[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:52:00.042[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:52:01.551[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:52:04.899[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:52:05.484[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2514:52:05.484[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2514:52:05.484[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2514:52:05.715[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-03-2514:52:05.979[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:52:05.980[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:52:07.075[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:52:09.077[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:52:09.122[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2514:52:09.122[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2514:52:09.122[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2514:52:09.524[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-03-2514:52:09.795[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:52:09.796[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:52:11.109[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2514:52:11.949[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2514:52:12.031[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-03-2514:52:12.032[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-03-2514:52:12.032[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-03-2514:52:12.129[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2514:52:12.129[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2514:52:13.382[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2522:34:25.783[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2522:34:25.787[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2522:34:32.690[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2522:34:34.141[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2522:34:35.001[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "edit patient title" EditPatient dialogue box
+[INFO ]2026-03-2522:34:35.191[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2522:34:35.191[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2522:34:36.135[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2522:34:37.400[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2522:34:37.519[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2522:34:37.520[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2522:36:07.106[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2522:36:07.110[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2522:36:08.392[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2522:36:09.483[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2522:36:10.255[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "edit patient title" EditPatient dialogue box
+[INFO ]2026-03-2522:36:10.450[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2522:36:10.450[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:10:06.841[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:10:06.843[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:10:08.741[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:10:10.162[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:10:11.018[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "edit patient title" EditPatient dialogue box
+[INFO ]2026-03-2523:10:11.242[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:10:11.243[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:10:12.324[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:10:13.237[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:10:13.440[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "submit button presence" EditPatient dialogue box
+[INFO ]2026-03-2523:10:13.633[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:10:13.634[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:10:14.491[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:10:15.767[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:10:15.993[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "state of submit button" EditPatient dialogue box
+[INFO ]2026-03-2523:10:16.186[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:10:16.187[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:12:13.984[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:12:13.987[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:12:15.421[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:12:16.571[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:12:17.301[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:12:17.301[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:12:18.126[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:12:19.276[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:12:19.587[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:12:19.588[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:12:20.406[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:12:21.396[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:12:21.663[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "state of submit button" EditPatient dialogue box
+[INFO ]2026-03-2523:12:21.883[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:12:21.883[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:13:24.159[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:13:24.162[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:13:25.384[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:13:30.414[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:13:31.212[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "edit patient title" EditPatient dialogue box
+[INFO ]2026-03-2523:13:31.420[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:13:31.420[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:13:32.304[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:13:33.043[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:13:33.151[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:13:33.153[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:13:33.991[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:13:37.132[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:13:37.361[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "state of submit button" EditPatient dialogue box
+[INFO ]2026-03-2523:13:37.527[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:13:37.527[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:13:38.435[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:13:39.389[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:13:39.668[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "close button presence" EditPatient dialogue box
+[INFO ]2026-03-2523:13:39.840[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:13:39.840[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:14:17.188[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:14:17.189[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:14:18.413[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:14:19.375[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:14:20.073[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "edit patient title" EditPatient dialogue box
+[INFO ]2026-03-2523:14:20.278[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:14:20.279[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:14:21.163[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:14:22.519[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:14:22.800[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "submit button presence" EditPatient dialogue box
+[INFO ]2026-03-2523:14:22.970[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:14:22.970[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:14:23.863[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:14:25.561[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:14:25.766[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "state of submit button" EditPatient dialogue box
+[INFO ]2026-03-2523:14:25.942[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:14:25.943[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:16:25.131[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:16:25.133[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:16:26.367[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:16:28.052[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:16:28.725[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "edit patient title" EditPatient dialogue box
+[INFO ]2026-03-2523:16:28.913[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:16:28.913[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:16:29.779[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:16:30.907[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:16:31.082[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:16:31.083[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:16:31.857[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:16:33.393[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:16:33.638[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "state of submit button" EditPatient dialogue box
+[INFO ]2026-03-2523:16:33.797[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:16:33.798[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:16:34.611[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:16:35.720[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:16:35.924[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "close button presence" EditPatient dialogue box
+[INFO ]2026-03-2523:16:36.099[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:16:36.099[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:16:36.867[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:16:38.169[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:16:38.366[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "state of close button" EditPatient dialogue box
+[INFO ]2026-03-2523:16:38.535[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:16:38.536[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:16:39.293[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:16:40.192[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:16:40.398[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "9 input field" EditPatient dialogue box
+[INFO ]2026-03-2523:16:40.577[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:16:40.577[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:16:41.380[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:16:42.485[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:16:42.774[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "3 dropdown count" EditPatient dialogue box
+[INFO ]2026-03-2523:16:42.946[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:16:42.947[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2523:16:43.745[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2523:16:44.965[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2523:16:45.172[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "FilUploadOption" EditPatient dialogue box
+[INFO ]2026-03-2523:16:45.350[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2523:16:45.350[main]utils.LoggerLoad1)-Loaded configuration properties
+[WARN ]2026-03-2523:17:51.228[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.231[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "edit patient title" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.282[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.282[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "submit button presence" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.315[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.315[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "state of submit button" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.350[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.350[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "close button presence" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.388[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.388[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "state of close button" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.417[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.417[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "9 input field" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.438[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.438[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "3 dropdown count" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.456[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.456[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "FilUploadOption" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.475[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.475[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "firstname field" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.493[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.493[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "lastname field" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.511[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.511[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "email field" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.528[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.528[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "contact no" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.545[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.545[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "date of birth" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.566[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.566[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "sub title vitals" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.580[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.580[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "sp field" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.599[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.599[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "dp field" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.615[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.615[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "weight" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.631[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.631[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "height" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.646[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.646[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "temperature" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.660[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.660[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "upload health report text" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.674[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.674[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "no file chosen text" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.690[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.690[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "close button color" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.705[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.705[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "no mandatory mark in vitals" EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.719[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.719[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate dropdown Allergy info EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.733[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.733[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate dropdown Food Preference EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.747[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.747[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate dropdown Cuisine Preference EditPatient dialogue box
+[WARN ]2026-03-2523:17:51.790[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.790[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate presence of placholder "First Name Field" of Edit Patient dialogue box
+[WARN ]2026-03-2523:17:51.811[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.811[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate presence of placholder "Last Name Field" of Edit Patient dialogue box
+[WARN ]2026-03-2523:17:51.828[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.828[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate presence of placholder "Email Field" of Edit Patient dialogue box
+[WARN ]2026-03-2523:17:51.845[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.845[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate presence of placholder "Contact Number Field" of Edit Patient dialogue box
+[WARN ]2026-03-2523:17:51.861[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.861[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - ValidFirst Name
+[WARN ]2026-03-2523:17:51.876[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.876[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - ValidLast Name
+[WARN ]2026-03-2523:17:51.892[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.892[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - ValidEmail
+[WARN ]2026-03-2523:17:51.909[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.909[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - ValidContact No
+[WARN ]2026-03-2523:17:51.925[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.925[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - ValidCTC No
+[WARN ]2026-03-2523:17:51.940[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.940[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - ValidWeight
+[WARN ]2026-03-2523:17:51.957[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.957[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - ValidHeight
+[WARN ]2026-03-2523:17:51.975[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.975[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - ValidTemperature
+[WARN ]2026-03-2523:17:51.996[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:51.996[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - ValidSP
+[WARN ]2026-03-2523:17:52.014[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.014[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - ValidDP
+[WARN ]2026-03-2523:17:52.032[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.032[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - Valid SP and DP
+[WARN ]2026-03-2523:17:52.051[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.051[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient functionality for valid data - ValidDate
+[WARN ]2026-03-2523:17:52.066[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.066[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Updated values on MyPatient page for valid data - ValidFirst Name
+[WARN ]2026-03-2523:17:52.079[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.080[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Updated values on MyPatient page for valid data - ValidLast Name
+[WARN ]2026-03-2523:17:52.093[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.093[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Updated values on MyPatient page for valid data - ValidEmail
+[WARN ]2026-03-2523:17:52.107[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.107[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Updated values on MyPatient page for valid data - ValidContact No
+[WARN ]2026-03-2523:17:52.120[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.120[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Updated values on MyPatient page for valid data - ValidDate
+[WARN ]2026-03-2523:17:52.133[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.133[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Updated values on MyPatient page for valid data - ValidWeight
+[WARN ]2026-03-2523:17:52.145[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.145[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Updated values on MyPatient page for valid data - ValidHeight
+[WARN ]2026-03-2523:17:52.158[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.158[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Updated values on MyPatient page for valid data - ValidTemperature
+[WARN ]2026-03-2523:17:52.171[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.172[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Updated values on MyPatient page for valid data - ValidSP
+[WARN ]2026-03-2523:17:52.186[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.186[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Updated values on MyPatient page for valid data - ValidDP
+[WARN ]2026-03-2523:17:52.199[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.199[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Updated values on MyPatient page for valid data - Valid SP and DP
+[WARN ]2026-03-2523:17:52.214[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.214[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - FirstName with numeric
+[WARN ]2026-03-2523:17:52.227[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.228[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - FirstName with spl Char and Numeric
+[WARN ]2026-03-2523:17:52.240[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.241[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - FirstName with spl Char
+[WARN ]2026-03-2523:17:52.256[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.256[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - LastName with numeric
+[WARN ]2026-03-2523:17:52.267[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.267[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - LastName with spl Char and Numeric
+[WARN ]2026-03-2523:17:52.280[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.280[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - LastName with spl Char
+[WARN ]2026-03-2523:17:52.293[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.293[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - Email with invalid format
+[WARN ]2026-03-2523:17:52.304[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.304[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - Email with spl char
+[WARN ]2026-03-2523:17:52.318[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.318[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - Email with missing @
+[WARN ]2026-03-2523:17:52.331[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.332[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - Email with empty field
+[WARN ]2026-03-2523:17:52.344[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.344[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - ContactNumber with alphabets
+[WARN ]2026-03-2523:17:52.356[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.357[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - ContactNumber with spl Char
+[WARN ]2026-03-2523:17:52.368[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.368[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - ContactNumber with less Digits
+[WARN ]2026-03-2523:17:52.382[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.382[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - ContactNumber as Empty
+[WARN ]2026-03-2523:17:52.396[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.396[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - Weight with Alphabets
+[WARN ]2026-03-2523:17:52.408[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.408[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - Weight with spl char
+[WARN ]2026-03-2523:17:52.421[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.421[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - Height with Alphabets
+[WARN ]2026-03-2523:17:52.433[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.434[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - Height with spl char
+[WARN ]2026-03-2523:17:52.445[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.445[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - Temp with Alphabets
+[WARN ]2026-03-2523:17:52.458[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.458[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - Temp with spl char
+[WARN ]2026-03-2523:17:52.471[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.471[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - SP with spl char
+[WARN ]2026-03-2523:17:52.484[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.484[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - SP with Alphabets
+[WARN ]2026-03-2523:17:52.495[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.495[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - Only SP
+[WARN ]2026-03-2523:17:52.507[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.507[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - DP with spl char
+[WARN ]2026-03-2523:17:52.520[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.520[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - DP with Alphabets
+[WARN ]2026-03-2523:17:52.533[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.533[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate edit patient funtionality for invalid data - only DP
+[WARN ]2026-03-2523:17:52.547[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.547[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate visibility of DOB Date Picker in EditPatient
+[WARN ]2026-03-2523:17:52.561[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.561[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB Date Picker constraints - Prevent future date
+[WARN ]2026-03-2523:17:52.573[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.573[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB Date Picker constraints - Selecting current date
+[WARN ]2026-03-2523:17:52.584[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.584[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB Date Picker constraints - Selecting Invalid date
+[WARN ]2026-03-2523:17:52.595[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.595[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB Date Picker constraints - User enters non-numeric value
+[WARN ]2026-03-2523:17:52.609[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.609[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB Date Picker constraints - Selecting partial date
+[WARN ]2026-03-2523:17:52.623[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.623[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB Date Picker constraints - Leap Year
+[WARN ]2026-03-2523:17:52.636[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.636[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB Date Picker constraints - Boundary Year
+[WARN ]2026-03-2523:17:52.648[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.648[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate DOB Date Picker constraints - NonLeapYear
+[WARN ]2026-03-2523:17:52.660[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.660[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate File upload functionality for validAndInvalid - Upload invalid type - docx
+[WARN ]2026-03-2523:17:52.673[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.673[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate File upload functionality for validAndInvalid - UploadFile exceeding size limit
+[WARN ]2026-03-2523:17:52.685[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.685[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate File upload functionality for validAndInvalid - Upload invalid type - jpeg
+[WARN ]2026-03-2523:17:52.697[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.698[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate File upload functionality for validAndInvalid - Missed Upload File
+[WARN ]2026-03-2523:17:52.713[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.713[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate File upload functionality for valid - <Upload Valid File>
+[WARN ]2026-03-2523:17:52.724[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.724[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Delete Popup Alert info and buttons- Alert Title
+[WARN ]2026-03-2523:17:52.736[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.736[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Delete Popup Alert info and buttons- Alert text
+[WARN ]2026-03-2523:17:52.746[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.747[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Delete Popup Alert info and buttons- Yes button
+[WARN ]2026-03-2523:17:52.758[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.758[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Delete Popup Alert info and buttons- No button
+[WARN ]2026-03-2523:17:52.771[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.771[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Confirm Navigation in Delete Popup -Confirm for Deletion
+[WARN ]2026-03-2523:17:52.782[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.782[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Confirm Navigation in Delete Popup -Cancel for Deletion
+[WARN ]2026-03-2523:17:52.792[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.792[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Confirm Navigation in Delete Popup -Confirm for Deletion
+[WARN ]2026-03-2523:17:52.803[main]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-03-2523:17:52.803[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate Confirm Navigation in Delete Popup -Cancel for Deletion
+[INFO ]2026-03-2622:25:18.901[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:18.905[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:24.352[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:25.171[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:26.194[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "edit patient title" EditPatient dialogue box
+[INFO ]2026-03-2622:25:26.387[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:26.388[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:27.798[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:28.846[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:29.123[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "submit button presence" EditPatient dialogue box
+[INFO ]2026-03-2622:25:29.356[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:29.357[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:30.626[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:31.335[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:31.588[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "state of submit button" EditPatient dialogue box
+[INFO ]2026-03-2622:25:31.849[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:31.849[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:32.960[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:34.726[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:34.991[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "close button presence" EditPatient dialogue box
+[INFO ]2026-03-2622:25:35.227[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:35.227[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:36.282[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:36.966[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:37.226[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "state of close button" EditPatient dialogue box
+[INFO ]2026-03-2622:25:37.386[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:37.387[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:38.451[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:39.314[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:39.587[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "9 input field" EditPatient dialogue box
+[INFO ]2026-03-2622:25:39.790[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:39.791[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:40.954[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:41.626[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:41.885[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "3 dropdown count" EditPatient dialogue box
+[INFO ]2026-03-2622:25:42.105[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:42.105[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:43.241[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:44.478[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:44.709[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "FilUploadOption" EditPatient dialogue box
+[INFO ]2026-03-2622:25:44.933[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:44.933[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:45.910[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:46.545[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:46.749[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "firstname field" EditPatient dialogue box
+[INFO ]2026-03-2622:25:46.961[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:46.962[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:47.986[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:48.990[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:49.168[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "lastname field" EditPatient dialogue box
+[INFO ]2026-03-2622:25:49.423[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:49.424[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:50.629[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:51.715[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:51.949[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "email field" EditPatient dialogue box
+[INFO ]2026-03-2622:25:52.174[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:52.175[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:53.390[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:55.070[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:55.315[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "contact no" EditPatient dialogue box
+[INFO ]2026-03-2622:25:55.537[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:55.537[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-03-2622:25:56.440[main]utils.LoggerLoad1)-browserName: chrome
+[INFO ]2026-03-2622:25:57.241[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-03-2622:25:57.485[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Validate "date of birth" EditPatient dialogue box
+[INFO ]2026-03-2622:25:57.715[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-03-2622:25:57.716[main]utils.LoggerLoad1)-Loaded configuration properties
+=======
 [INFO ]2026-03-2423:47:36.094[main]utils.LoggerLoad1)-Initializing test setup...
 [INFO ]2026-03-2423:47:36.119[main]utils.LoggerLoad1)-Loaded configuration properties
 [INFO ]2026-03-2423:47:40.081[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
@@ -2740,6 +3604,7 @@
 [INFO ]2026-03-2621:54:41.012[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
 [INFO ]2026-03-2621:54:41.014[main]utils.LoggerLoad1)-User is on the login page of Dietician application
 [INFO ]2026-03-2621:54:52.278[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with empty password field
+>>>>>>> master
 =======
 >>>>>>> master
 [INFO ]2026-03-2512:21:34.983[main]utils.LoggerLoad1)-Initializing test setup...

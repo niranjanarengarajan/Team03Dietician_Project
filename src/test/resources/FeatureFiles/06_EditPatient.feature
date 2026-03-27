@@ -1,39 +1,40 @@
-@EditPatient
+@EditPatient @Login
 Feature: Validating Edit Patient Page
 
 Background: User logged into the app and patients already exists
 Given User logged into the app and user is in my patient page
+When User clicks edit icon for the particular patient 
 
-Rule: Visibility of EditPatient Dialogue box UI elements
+#Rule: Visibility of EditPatient Dialogue box UI elements
 
 Scenario Outline: Validate "<element>" EditPatient dialogue box
-When User clicks edit icon for the particular patient 
 Then User should see  "<element>" on the dialog box
 
 Examples:
-|element                |
-|Title                  |
-|Submit button Presence |
-|State of submit button |
-|Close button Presence  |
-|State of close button  |
-|9 Input field          |
-|3 DropDown count       |
-|FilUploadOption        |
-|FirstName Field        |
-|Lastname Field         | 
-|Email Field            |
-|Contact Number Field   |
-|Date Of Birth          | 
-|Sub Title Vitals       |
-|SP Field               |
-|DP Field               |
-|Weight                 |
-|Height                 |
-|Temperature            |
-|Upload Health Lable    |
-|No File Chosen Text    |
-|Close button color     |
+|element                    |
+|edit patient title         |
+|submit button presence 	|
+|state of submit button 	|
+|close button presence  	|
+|state of close button  	|	
+|9 input field          	|
+|3 dropdown count       	|
+|FilUploadOption        	|
+|firstname field        	|
+|lastname field         	| 
+|email field            	|
+|contact no              	|
+|date of birth          	| 
+|sub title vitals       	|
+|sp field               	|
+|dp field               	|
+|weight                 	|
+|height                 	|
+|temperature            	|
+|upload health report text  |
+|no file chosen text    	|
+|close button color      	|
+|no mandatory mark in vitals|                           
 
 
 Scenario Outline: Validate dropdown <element> EditPatient dialogue box
@@ -48,103 +49,99 @@ Examples:
 
 #--------------Data validation---------------------------------------------------------------------
 
-Rule: User Validates Edit window Funtionality
+#Rule: User Validates Edit window Funtionality
     
-    Background: 
-      Given User clicks edit icon for the particular patient and sees the edit popup window
-
 Scenario Outline: Validate presence of placholder "<element>" of Edit Patient dialogue box  
 When User clears existing value in "<element>" of edit patient dialogue box
-Then User should see placeholder text is "<expected_text>"
+Then User should see placeholder "<element>" has "<expected_text>"
 
 Examples:
   | element              | expected_text |
   | First Name Field     | First Name    |
   | Last Name Field      | Last Name     |
   | Email Field          | Email         |
-  | Contact Number Field | Contact       |
+  | Contact Number Field | Contact Number|
   
   
  Scenario Outline: Validate edit patient functionality for valid data - <ScenarioName>
-  When User clicks the "Submit" button after entering valid data from Excel for "<ScenarioName>" edit window
-  Then User should be redirected to the "My Patient" page
+  When User clicks the Submit button after entering valid data of "<colomnName>" from Excel for "<ScenarioName>" edit window
+  Then User should be redirected to the "My Patient" page 
   
   
 Examples:
-  | ScenarioName       |
-  | ValidFirst Name    |
-  | ValidLast Name     |
-  | ValidEmail         |
-  | ValidContact No    |
-  | ValidCTC No        |
-  | ValidWeight        |
-  | ValidHeight        |
-  | ValidTemperature   |
-  | ValidSP            |
-  | ValidDP            |
-  | Valid SP and DP    |
-  | ValidDate          |
+  | ScenarioName       |columnName		|
+  | ValidFirst Name    |first_name		|
+  | ValidLast Name     |last_name 		|
+  | ValidEmail         |email     		|
+  | ValidContact No    |contact_number	|
+  | ValidWeight        |weight			|
+  | ValidHeight        |height			|
+  | ValidTemperature   |temperature		|
+  | ValidSP            |sp				|
+  | ValidDP            |dp				|
+  | Valid SP and DP    |  				|
+ 
   
-  Scenario Outline: Updated values on MyPatient page for valid data - <ScenarioName>
-  When User clicks the "Submit" button after entering valid data from Excel for "<ScenarioName>" edit window
-  Then User should see updated values from Excel for "<ScenarioName>" in My Patient table 
+  Scenario Outline: Updated patient details on MyPatient page for valid data - <ScenarioName>
+  When User clicks the Submit button after entering valid data of "<colomnName>" from Excel for "<ScenarioName>" edit window
+  Then User should see updated "<values>" from Excel for "<ScenarioName>" in My Patient table 
     
 Examples:
-  | ScenarioName       |
-  | ValidFirst Name    |
-  | ValidLast Name     |
-  | ValidEmail         |
-  | ValidContact No    |
-  | ValidDate          |
+  | ScenarioName       |values           |
+  | ValidFirst Name    |first_name       |  
+  | ValidLast Name     |last_name        |
+  | ValidEmail         |email            |
+  | ValidContact No    |contact_number   |
   
   
- Scenario Outline: Updated values on MyPatient page for valid data - <ScenarioName>
-  When User clicks the "Submit" button after entering valid data from Excel for "<ScenarioName>" edit window
+  
+ Scenario Outline: Updated values details on MyPatient page for valid data - <ScenarioName>
+  When User clicks the Submit button after entering valid data of "<colomnName>" from Excel for "<ScenarioName>" edit window
   And  User clicks "View Previous Test Report" after being redirected to the My Patient page 
-  Then User should see updated values from Excel for "<ScenarioName>" in ViewTestReport page  
+  Then User should see updated "<values>" from Excel for "<ScenarioName>" in view Reports page for the patient
   
  Examples:
-  |ScenarioName        | 
-  | ValidWeight        |
-  | ValidHeight        |
-  | ValidTemperature   |
-  | ValidSP            |
-  | ValidDP            |
-  | Valid SP and DP    |
+  |ScenarioName        |values			|
+  | ValidWeight        |weight 			|
+  | ValidHeight        |height 			|
+  | ValidTemperature   |temperature     |
+  | ValidSP            |     sp         |
+  | ValidDP            |     dp         |
+  | Valid SP and DP    |     sp,dp      |
   
  
 Scenario Outline: Validate edit patient funtionality for invalid data - <ScenarioName>
-  When User clicks "Submit" button after entering invalid data from Excel to Edit "<ScenarioName>" edit window
+  When User clicks the Submit button after entering invalid data of "<colomnName>" from Excel for "<ScenarioName>" edit window
   Then User should see the error message "<ErrorMessage>" from Excel
 
 Examples:
-  | ScenarioName                         |
-  | FirstName with numeric               |
-  | FirstName with spl Char and Numeric  |
-  | FirstName with spl Char              |
-  | LastName with numeric                |
-  | LastName with spl Char and Numeric   |
-  | LastName with spl Char               |
-  | Email with invalid format            |
-  | Email with spl char                  |
-  | Email with missing @                 |
-  | Email with empty field               |
-  | ContactNumber with alphabets         |
-  | ContactNumber with spl Char          |
-  | ContactNumber with less Digits       |
-  | ContactNumber as Empty               |
-  | Weight with Alphabets                |
-  | Weight with spl char                 |
-  | Height with Alphabets                |
-  | Height with spl char                 |
-  | Temp with Alphabets                  |
-  | Temp with spl char                   |
-  | SP with spl char                     |
-  | SP with Alphabets                    |
-  | Only SP                              |
-  | DP with spl char                     |
-  | DP with Alphabets                    |
-  | only DP                              |
+  | ScenarioName                         | columnName  |
+  | FirstName with numeric               |             |
+  | FirstName with spl Char and Numeric  |             |
+  | FirstName with spl Char              |             |
+  | LastName with numeric                |             |
+  | LastName with spl Char and Numeric   |             |
+  | LastName with spl Char               |             |
+  | Email with invalid format            |             |
+  | Email with spl char                  |             |
+  | Email with missing @                 |             |
+  | Email with empty field               |             |
+  | ContactNumber with alphabets         |             |
+  | ContactNumber with spl Char          |             |
+  | ContactNumber with less Digits       |             |
+  | ContactNumber as Empty               |             |
+  | Weight with Alphabets                |             |
+  | Weight with spl char                 |             |
+  | Height with Alphabets                |			   |
+  | Height with spl char                 |             |
+  | Temp with Alphabets                  |             |
+  | Temp with spl char                   |             |
+  | SP with spl char                     |             |
+  | SP with Alphabets                    |             |
+  | Only SP                              |             |
+  | DP with spl char                     |             |
+  | DP with Alphabets                    |             |
+  | only DP                              |             |
   
   Scenario: Validate visibility of DOB Date Picker in EditPatient
   When User clicks on the DOB input field
