@@ -57,7 +57,6 @@ public class Hooks {
 		ExcelReader.readDataFromExcel(prop.getProperty("dashboardsheetName"));
 		ExcelReader.readDataFromExcel(prop.getProperty("AddPatientSheetName"));
 		ExcelReader.readDataFromExcel(prop.getProperty("editPatientSheetName"));
-//		ExcelReader.readDataFromExcel(prop.getProperty("deletePatient"));
 		ExcelReader.readDataFromExcel(prop.getProperty("reportsheetName"));
 
 	}
