@@ -56,17 +56,16 @@ public class Hooks {
 		ExcelReader.readDataFromExcel(prop.getProperty("loginsheetName"));
 		ExcelReader.readDataFromExcel(prop.getProperty("dashboardsheetName"));
 		ExcelReader.readDataFromExcel(prop.getProperty("AddPatientSheetName"));
-//		ExcelReader.readDataFromExcel(prop.getProperty("editPatient"));
+		ExcelReader.readDataFromExcel(prop.getProperty("editPatientSheetName"));
 //		ExcelReader.readDataFromExcel(prop.getProperty("deletePatient"));
 		ExcelReader.readDataFromExcel(prop.getProperty("reportsheetName"));
 
 	}
-	@Before(value = "@loginPage", order = 1)
+	@Before(value = "@Login", order = 1)
     public void performLogin() {
 		LoggerLoad.info("Performing background login...");
-	    // Using instance from context
-	    //context.loginStep.user_clicks_login_button_after_entering_valid_credentials_in_login_page();
-	    context.loginStep.user_is_on_the_browser();
+		context.loginStep.user_clicks_login_button_after_entering_valid_credentials_in_login_page("valid credentials");
+		LoggerLoad.info("Performed login with valid credentials");
 
 	}
 	@After
