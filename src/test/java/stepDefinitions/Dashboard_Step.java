@@ -17,19 +17,6 @@ public class Dashboard_Step {
 		this.context=context;
 		this.dashboardObj = context.poManager.getDashboardPage();
 	}
-//	Dashboard_PageObject dashboardObj = new Dashboard_PageObject();
-//	
-//	@Given("User is on the login page of Dietician application")
-//	public void user_is_on_the_login_page_of_dietician_application() {
-//	    
-//	    
-//	}
-//
-//	@When("User clicks login button after entering valid credentials")
-//	public void user_clicks_login_button_after_entering_valid_credentials() {
-//	    
-//	    
-//	}
 
 	@Then("Navigation bar of Dashboard page should display exactly four links {string}, {string}, {string}, and {string}")
 	public void navigation_bar_of_dashboard_page_should_display_exactly_four_links_and(String myPat, String newPat, String login, String logout) {

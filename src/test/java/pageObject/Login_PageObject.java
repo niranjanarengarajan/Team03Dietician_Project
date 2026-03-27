@@ -6,14 +6,17 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import utils.LoggerLoad;
+import utils.WaitUtils;
 
 public class Login_PageObject {
 	
 	private WebDriver driver;
 	private WebElement element;
+	private WaitUtils waitUtils;
 	
 	public Login_PageObject(WebDriver driver) {
 		this.driver = driver;
+		this.waitUtils = new WaitUtils(driver);
 		PageFactory.initElements(driver, this);
 	}
 	
@@ -128,7 +131,7 @@ public class Login_PageObject {
 	}
 	
 	public void clickLoginBtn() {
-		loginBtn.click();
+		waitUtils.waitForClickable(loginBtn).click();
 	}
 	
 	public void enterUsername(String name) {

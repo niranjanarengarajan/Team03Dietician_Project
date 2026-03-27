@@ -8,7 +8,7 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
         features = "src/test/resources/FeatureFiles", 
-        tags= "@loginPage",
+        tags= "@loginPage or @dashboardPage or @viewTestReportPage",
         glue = "stepDefinitions", 
         plugin = {
                 "pretty",

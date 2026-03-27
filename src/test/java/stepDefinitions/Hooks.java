@@ -50,9 +50,10 @@ public class Hooks {
 		LoggerLoad.info("Navigated to base URL: " + prop.getProperty("baseURL"));
 
 		ExcelReader.readDataFromExcel(prop.getProperty("loginsheetName"));
+		ExcelReader.readDataFromExcel(prop.getProperty("dashboardsheetName"));
 		ExcelReader.readDataFromExcel(prop.getProperty("AddPatientSheetName"));
-		ExcelReader.readDataFromExcel(prop.getProperty("editPatient"));
-		ExcelReader.readDataFromExcel(prop.getProperty("deletePatient"));
+//		ExcelReader.readDataFromExcel(prop.getProperty("editPatient"));
+//		ExcelReader.readDataFromExcel(prop.getProperty("deletePatient"));
 		ExcelReader.readDataFromExcel(prop.getProperty("reportsheetName"));
 
 	}

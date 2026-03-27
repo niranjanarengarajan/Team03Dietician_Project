@@ -57,13 +57,4 @@ public class WaitUtils {
         }
     }
 
-    public String waitForCodeMirrorOutput(String elementId, int timeoutSeconds) {
-        WebDriverWait customWait = new WebDriverWait(driver, Duration.ofSeconds(timeoutSeconds));
-        WebElement output = customWait.until(d -> {
-            WebElement el = d.findElement(By.id(elementId));
-            String text = el.getAttribute("textContent").trim();
-            return !text.isEmpty() ? el : null;
-        });
-        return output.getAttribute("textContent").trim();
-    }
 }
