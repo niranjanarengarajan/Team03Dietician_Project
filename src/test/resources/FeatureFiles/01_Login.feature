@@ -53,12 +53,12 @@ Feature: Login page UI and functional verification
   
   Scenario: Login with valid credential
     Given User is on the login page
-    When User clicks login button after entering valid credentials in login page
+    When User clicks login button after entering "valid credentials" in login page
     Then User should be redirected to "dashboard page" from login page
     
   Scenario Outline: Login with <scenario>
     Given User is on the login page
-    When User clicks login button after entering "<scenario>" in login page
+    When User clicks login button after entering invalid "<scenario>" in login page
     Then An error message "<errorMsg>" should be displayed in the login page
 
     Examples: 
@@ -66,7 +66,6 @@ Feature: Login page UI and functional verification
       | non-existing user | Invalid username or password|
       | spl charac in user name | Invalid username or password |
       | only few charac of username | Invalid username or password |
-      | empty password field | Password is Required |
       
   Scenario Outline: Login with <scenario> in password field
     Given User is on the login page
@@ -86,3 +85,12 @@ Feature: Login page UI and functional verification
     Examples: 
       | scenario  | errorMsg |
       | empty username field | Username is Required |
+      
+  Scenario Outline: Login with <scenario>
+    Given User is on the login page
+    When User clicks login button after entering only username and "<scenario>"
+    Then An error message "<errorMsg>" should be displayed in the login page
+    
+    Examples: 
+      | scenario  | errorMsg |
+      | empty password field | Password is Required |

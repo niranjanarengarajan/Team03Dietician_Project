@@ -1,20 +1,21 @@
 package stepDefinitions;
 
 import static org.testng.Assert.*;
-
 import java.util.List;
-
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObject.Login_PageObject;
+import pageObject.PageObjectManager;
+import utils.ExcelReader;
 import utils.LoggerLoad;
 import utils.TestContext;
 
 public class Login_Step {
 	boolean isVisible;
 	String actualColor;
+<<<<<<< HEAD
 	TestContext context;
 	Login_PageObject loginObj;
 	
@@ -26,6 +27,17 @@ public class Login_Step {
 	
 
 	
+=======
+	public TestContext context;
+	Login_PageObject loginObj;
+	PageObjectManager poManager;
+	
+	public Login_Step(TestContext context){
+		this.context=context;
+		this.loginObj = context.poManager.getLoginPage();
+	}
+
+>>>>>>> master
 	@Given("User is on the browser")
 	public void user_is_on_the_browser() {
 		
@@ -84,13 +96,11 @@ public class Login_Step {
 				break;
 			}
 		}
-	    
 	}
 
 	@Then("Username and Password labels should be left-aligned above their respective input fields")
 	public void username_and_password_labels_should_be_left_aligned_above_their_respective_input_fields() {
-	    
-	    
+		assertTrue(loginObj.usernamePasswordLeftAligned(), "Username and password label is not visible");
 	}
 
 	@Then("User should see exactly two input field in login page")
@@ -106,46 +116,58 @@ public class Login_Step {
 
 	@Given("User is on the login page")
 	public void user_is_on_the_login_page() {
-	    System.out.println("User is on the login page of Dietician application");
+	    LoggerLoad.info("User is on the login page of Dietician application");
 	}
 
-	@When("User clicks login button after entering valid credentials in login page")
-	public void user_clicks_login_button_after_entering_valid_credentials_in_login_page() {
-//		Map<String, String> testData = ExcelReader.getTestData(Sheet, Testcase_ID);
-//		String email = testData.get("Email");
-//		loginUI_page.enterEmail(email);
-//		loginUI_page.clickContinueWithEmailButton();
+	@When("User clicks login button after entering {string} in login page")
+	public void user_clicks_login_button_after_entering_valid_credentials_in_login_page(String scenario) {
+		TestContext.testData = ExcelReader.getTestData(scenario);
+		loginObj.enterUsername(TestContext.testData.get("username"));
+		loginObj.enterPassword(TestContext.testData.get("password"));
 		loginObj.clickLoginBtn();
 	}
 
 	@Then("User should be redirected to {string} from login page")
 	public void user_should_be_redirected_to_dashboard_page_from_login_page(String page) {
-		
-	    
+	    String expected= TestContext.testData.get(page);
+	    String actual = loginObj.getPageUrl();
+	    assertEquals(actual, expected);
 	}
 
-	@When("User clicks login button after entering {string} in login page")
-	public void user_clicks_login_button_after_entering_in_login_page(String string) {
-	    
-	    
+	@When("User clicks login button after entering invalid {string} in login page")
+	public void user_clicks_login_button_after_entering_invalid_in_login_page(String scenario) {
+		TestContext.testData = ExcelReader.getTestData(scenario);
+		loginObj.enterUsername(TestContext.testData.get("username"));
+		loginObj.enterPassword(TestContext.testData.get("password"));
+		loginObj.clickLoginBtn();
 	}
 
 	@Then("An error message {string} should be displayed in the login page")
-	public void an_error_message_should_be_displayed_in_the_login_page(String string) {
-	    
-	    
+	public void an_error_message_should_be_displayed_in_the_login_page(String expected) {
+		String actual = loginObj.getText("Error");
+	    assertEquals(actual, expected);	    
 	}
 
 	@When("User clicks login button after entering {string} in password field")
-	public void user_clicks_login_button_after_entering_in_password_field(String string) {
-	    
-	    
+	public void user_clicks_login_button_after_entering_in_password_field(String scenario) {
+		TestContext.testData = ExcelReader.getTestData(scenario);
+		loginObj.enterUsername(TestContext.testData.get("username"));
+		loginObj.enterPassword(TestContext.testData.get("password"));
+		loginObj.clickLoginBtn();
 	}
 
 	@When("User clicks login button after entering only password and {string}")
-	public void user_clicks_login_button_after_entering_only_password_and(String string) {
-	    
-	    
+	public void user_clicks_login_button_after_entering_only_password_and(String scenario) {
+		TestContext.testData = ExcelReader.getTestData(scenario);
+		loginObj.enterPassword(TestContext.testData.get("password"));
+		loginObj.clickLoginBtn();
+	}
+	
+	@When("User clicks login button after entering only username and {string}")
+	public void user_clicks_login_button_after_entering_only_username_and(String scenario) {
+		TestContext.testData = ExcelReader.getTestData(scenario);
+		loginObj.enterPassword(TestContext.testData.get("password"));
+		loginObj.clickLoginBtn();
 	}
 
 }

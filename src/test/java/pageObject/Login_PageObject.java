@@ -1,27 +1,23 @@
 package pageObject;
 
 import java.util.List;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
 
 import utils.LoggerLoad;
 
 public class Login_PageObject {
 	
 
-	public Login_PageObject(WebDriver driver) {
-		
-		this.driver = driver;
-
-		PageFactory.initElements(driver, this);
-	}
-	
 	private WebDriver driver;
 	private WebElement element;
+	
+	public Login_PageObject(WebDriver driver) {
+		this.driver = driver;
+		PageFactory.initElements(driver, this);
+	}
 	
 	@FindBy (xpath="//nav[@class='navbar']/*[text()='Dietician Project']") 
 	private WebElement dieticianPjt;
@@ -52,6 +48,9 @@ public class Login_PageObject {
 	
 	@FindBy (xpath="//input") 
 	private List<WebElement> inputFields;
+	
+	@FindBy (xpath="//div[contains(text(),'Invalid') or contains(text(),'Required')]")
+	private WebElement errorMsg;
 
 	public String elementLeftAligned(String scenario) {
 		switch (scenario) {
@@ -112,6 +111,9 @@ public class Login_PageObject {
 		case "second field":
 			element = passswordLabel;
 			break;
+		case "Error":
+			element = errorMsg;
+			break;
 		}
 		text = element.getText();
 		return text;
@@ -132,15 +134,26 @@ public class Login_PageObject {
 	}
 	
 	public void enterUsername(String name) {
-		usernameField.sendKeys(name);
+		try {
+			usernameField.sendKeys(name);
+		}
+		catch (Exception e){
+			throw new RuntimeException("Failed to type into the Username field. Error: " + e.getMessage());
+		}
 	}
 	
 	public void enterPassword(String password) {
-		passwordField.sendKeys(password);
+		try {
+			passwordField.sendKeys(password);
+		}
+		catch (Exception e){
+			throw new RuntimeException("Failed to type into the password field. Error: " + e.getMessage());
+		}
 	}
 	
 	public String getPageUrl() {
-		String url = driver.getCurrentUrl();
+		String url=null;
+	        url = driver.getCurrentUrl();
 		return url;
 	}
 	
@@ -151,5 +164,14 @@ public class Login_PageObject {
 			throw new IllegalStateException("WebDriver is not initialized");
 		}
 		LoggerLoad.info("WebDriver is active.");
+	}
+	
+	public boolean usernamePasswordLeftAligned() {
+		String align1 = usernameLabel.getCssValue("text-align");
+		String align2 = passswordLabel.getCssValue("text-align");
+		if((align1.contains("left")) && (align2.contains("left"))){
+			return true;
+		}
+		return false;
 	}
 }
