@@ -1,5 +1,4 @@
 package utils;
-
 import java.util.Map;
 
 import org.openqa.selenium.WebDriver;

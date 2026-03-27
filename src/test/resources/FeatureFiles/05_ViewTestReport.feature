@@ -1,17 +1,17 @@
-@viewTestReportPage
+@viewTestReportPage @Login
 Feature: View Test Report page verification
   To verify Patient information section, View patient test reports - table, Reports table data of Test Reports Page of Dietician Application
   
   Background: User is in My Patient page after logged in
-		Given User is on the login page of Dietician application
-    When User is logged in after entering valid credentials and clicks My Patient button
+	Given User is on the dashboard page of Dietician application
+    When User clicks My Patient button to view reports
     
   Scenario: Correct report opens for selected record
-  	When User clicks View Previous Test Reports button for a specific record
+  	When User clicks View Previous Test Reports button for a "specific patient record"
     Then Corresponding report for that record should be opened
     
  Scenario Outline: <element> is displayed in View Test Report popup
-    When User clicks View Previous Test Reports button for a specific record
+    When User clicks View Previous Test Reports button for a "specific patient record"
     Then "<element>" should be displayed in the View Test report popup
     
     Examples: 
@@ -21,7 +21,7 @@ Feature: View Test Report page verification
       | Reports table |
       
  Scenario Outline: <field> is displayed in View Test Report popup
-    When User clicks View Previous Test Reports button for a specific record
+    When User clicks View Previous Test Reports button for a "specific patient record"
     Then "<field>" corresponding to the record selected in My Patients page should be displayed in View Test Report popup
     
     Examples: 
@@ -32,19 +32,19 @@ Feature: View Test Report page verification
       | Patient contact number |
       
   Scenario: Table headers column are displayed in View Test Report popup
-  	When User clicks View Previous Test Reports button for a specific record
-    Then Table headers should have Record Number, File, Uploaded Time,File Report Name, Vitals, Identified Health Conditions
+  	When User clicks View Previous Test Reports button for a "specific patient record"
+    Then Report Table headers should have "Record Number, FILE, Uploaded Time,File/Report Name, Vitals, Identified Health Conditions"
     
   Scenario: Table headers column order in View Test Report popup
-  	When User clicks View Previous Test Reports button for a specific record
-  	Then Record header should be in the exact order Record Number, File, Uploaded Time, File Report Name, Vitals, Identified Health Conditions should be displayed
+  	When User clicks View Previous Test Reports button for a "specific patient record"
+  	Then Record header should be in the exact order "Record Number, FILE, Uploaded Time,File/Report Name, Vitals, Identified Health Conditions" should be displayed
   	
   Scenario: Pagination controls are displayed in View Test Report popup
-  	When User clicks View Previous Test Reports button for a specific record
+  	When User clicks View Previous Test Reports button for a "specific patient record"
   	Then Pagination controls First, previous, next, last arrows should be displayed in View Test Report popup
   	
  Scenario Outline: <field> is displayed in View Test Report popup
-    When User clicks View Previous Test Reports button for a specific record
+    When User clicks View Previous Test Reports button for a "specific patient record"
     Then Each report should display a "<field>" in View Test Report popup
     
     Examples: 
@@ -57,20 +57,20 @@ Feature: View Test Report page verification
       | Identified Health Conditions |
       
   Scenario: Vitals order in View Test Report popup
-  	When User clicks View Previous Test Reports button for a specific record
-  	Then Vitals should be displayed in the order Weight, Height, Temperature, SP, DP
+  	When User clicks View Previous Test Reports button for a "specific patient record"
+  	Then Vitals should be displayed in the order "Weight, Height, Temperature, SP, DP" in reports
   	
  Scenario Outline: <field> displayed in multiline format in View Test Report popup
-    When User clicks View Previous Test Reports button for a specific record
+    When User clicks View Previous Test Reports button for a "specific patient record"
     Then "<field>" should be displayed in multilines in View Test Report popup
     
     Examples: 
       | field |
-      | Vitals |
-      | Identified health conditions |
-      
+      | Vitalsin reports |
+      | Identified health conditions in reports |
+ 
   Scenario: Corresponding PDF report opens for a record
-  	Given User is in View Patient Test Reports page
+  	Given User is in View Patient Test Reports page for "single patient with multiple reports"
   	When User clicks View PDF button for a particular record
     Then Corresponding PDF report for that record should be opened
       
@@ -87,14 +87,14 @@ Feature: View Test Report page verification
       | last | except last |
     
   Scenario: Pagination count is updated correctly
-  	Given User is in any page of Report table for "single patient with multiple reports"
+  	Given User is in View Patient Test Reports page for "single patient with multiple reports"
   	When User clicks any page navigation arrow in View Test Report popup
     Then Pagination text should display the correct range and total number of patients in View Test Report popup
     
   Scenario: Pagination is displayed when patient records exceed one page
   	Given User is in View Patient Test Reports page for "single patient with multiple reports"
-  	When User navigates to any page in View Test Report popup
-    Then Pagination controls should be displayed in View Test Report popup
+  	When User clicks any page navigation arrow in View Test Report popup
+    Then "Pagination controls" should be displayed in the View Test report popup
         
   Scenario Outline: <element> is <status> on first page
   	Given User is in View Patient Test Reports page for "single patient with multiple reports"
@@ -110,7 +110,7 @@ Feature: View Test Report page verification
     	
   Scenario Outline: <element> is <status> on all pages except the first page
   	Given User is in View Patient Test Reports page for "single patient with multiple reports"
-  	When User navigates to any page after the first page in View Test Report popup
+  	When User clicks any page navigation arrow in View Test Report popup
     Then "<element>" should be "<status>" in View Test Report popup
     
     Examples:
@@ -142,14 +142,13 @@ Feature: View Test Report page verification
   	When User clicks on View Patient Test Reports button for "patient with only one report"
     Then First, previous, next, last arrows should be disabled in view patient test report page
         
-  Scenario Outline: <scenario> when no patient report data exists
+  Scenario: Pagination when no patient data exists
   	When User clicks on View Patient Test Reports button for "patient with no reports data"
-    Then "<expected>" in View Test Report popup
-    
-    Examples:
-    	| scenario | expected |
-    	| Pagination | Showing 0 to 0 of 0 patients should be displayed |
-    	| All pagination arrows disabled | First, previous, next, last arrows should be disabled |
+    Then "Showing 0 to 0 of 0 patients" should be displayed in View Test Report popup
+
+ Scenario: All pagination arrows disabled when no data exists
+  	When User clicks on View Patient Test Reports button for "patient with no reports data"
+    Then First, previous, next, last arrows should be disabled in view patient test report page
   
   Scenario: Each page should display only 2 records
   	When User clicks on View Patient Test Reports button for "single patient with multiple reports"
