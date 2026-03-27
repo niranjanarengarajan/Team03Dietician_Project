@@ -355,20 +355,20 @@ public class AddPatient_Step {
 	
 	@When("User clicks Submit button after User enters valid patient details and skips file upload")
 	public void user_clicks_submit_button_after_user_enters_valid_patient_details_and_skips_file_upload() {
-//		TestContext.testData.put("patientCountBefore", 
-//		        String.valueOf(myPatientPage.getPatientCount()));
-//		
-//		    addPatientPage.clickSubmit();
+		TestContext.testData.put("patientCountBefore", 
+		        String.valueOf(myPatientPage.getPatientCount()));
+		
+		    addPatientPage.clickSubmit();
 	}
 
 	@Then("User is directed to My Patient Page with New Patient Details created")
 	public void user_is_directed_to_my_patient_page_with_new_patient_details_created() {
-//		 int beforeCount = Integer.parseInt(TestContext.testData.get("patientCountBefore"));
-//		    int afterCount = myPatientPage.getPatientCount();
-//
-//		    String currentUrl = DriverFactory.getDriver().getCurrentUrl();
-//		    Assert.assertTrue(currentUrl.contains("my-patient"), "User is not on My Patient Page");
-//		    Assert.assertTrue(afterCount > beforeCount, "New patient was not created");
+		 int beforeCount = Integer.parseInt(TestContext.testData.get("patientCountBefore"));
+		    int afterCount = myPatientPage.getPatientCount();
+
+		    String currentUrl = DriverFactory.getDriver().getCurrentUrl();
+		    Assert.assertTrue(currentUrl.contains("my-patient"), "User is not on My Patient Page");
+		    Assert.assertTrue(afterCount > beforeCount, "New patient was not created");
 	}
 
 
