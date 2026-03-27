@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.Select;
+
 import org.testng.Assert;
 
 import utils.JSUtils;
@@ -19,7 +19,7 @@ public class EditPatient_PageObject {
 
 	private WebDriver driver;
 	private WaitUtils waitUtils;
-	private WebElement element;
+	
 	private JSUtils jsUtils;
 
 	// PageObject of My Patient page and EditWindow

@@ -9,14 +9,15 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
 
         features = "src/test/resources/FeatureFiles", 
-//        tags= "@loginPage or @dashboardPage or @viewTestReportPage",
+        //tags= "@loginPage or @dashboardPage or @viewTestReportPage",
         glue = "stepDefinitions", 
         plugin = {
                 "pretty",
                 "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
                 "json:target/CucumberReports/CodeProphetsJson.json",
                 "html:target/CucumberReports/CodeProphets.html",
-                "com.aventstack.chaintest.plugins.ChainTestCucumberListener:"
+                "com.aventstack.chaintest.plugins.ChainTestCucumberListener:",
+                "rerun:target/failedrerun.txt"
         		    },
         monochrome = true
 )

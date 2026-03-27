@@ -6,3 +6,5 @@ test-output/
 /screenshots/
 /test-output/
 *.png
+/.apt_generated/
+/.apt_generated_tests/

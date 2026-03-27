@@ -186,10 +186,10 @@ Feature: My Patient Page functionality
         | >     | disabled |
         | >>    | disabled |
 
-  #Rule: Pagination management with only one record
+  Rule: Pagination management with only one record
 
-    #Background:
-      #Given Patient has only one record in the system for that user in MyPatients page
+    Background:
+      Given Patient has only one record in the system for that user in MyPatients page
 
     Scenario Outline: Verify all pagination arrows are disabled when Patient has only one record in My Patient table
       Then Pagination "<arrow>" arrows should be disabled in My Patient table
